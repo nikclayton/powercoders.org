@@ -1,0 +1,44 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "sectiontitle" .Params.sectiontitle) }}
+
+<div class="container">
+
+    <div class="row">
+        <div class="col s12 offset-m1 m10 offset-l2 l8">
+            <h4><strong>Help us create a better future!</strong></h4>
+            <p><br>Powercoders is a non-profit organization. We rely on donations to continue our work helping students
+                secure a better future in cities throughout Switzerland… and beyond.
+                <br>100% of your donation goes directly towards the operation of our programs.</p>
+
+            <p>If you are a company or foundation and would like to support us on a larger scale please <a
+                    href="https://drive.google.com/file/d/1-biw16Riol7POH3itouLgjsY1ittlQif/view?usp=sharing"> download
+                our presentation PDF</a> and feel free to reach out to us (contact included in presentation).</p>
+        </div>
+    </div>
+    <!-- end row -->
+</div>
+<!-- end container -->
+<div class="blue-grey lighten-3">
+    <div class="container section">
+        <div class="row">
+            <div class="col s12 offset-m1 m10 offset-l2 l8">
+                <div class="row">
+                    <div class="col s12 hoverable space box-border blue-grey lighten-4">
+                        <a href="https://donorbox.org/donatepowercoders">
+                            <h2>DONATE</h2>
+                            <h4 class="light">We appreciate your support - you impact more people for a better
+                                future.</h4>
+                            <object><a href="https://donorbox.org/donatepowercoders"
+                                       class="btn waves-effect waves-light pwc-red">DONATE now</a></object>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!-- end row -->
+    </div>
+    <!-- end container -->
+</div>
+{{ end }}

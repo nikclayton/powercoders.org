@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "sectiontitle" .Params.sectiontitle) }}
+
+<div class="container">
+
+    <div class="row">
+        <div class="col s12 offset-m1 m10 offset-l2 l8">
+            <h4><strong>Be part of it!</strong></h4>
+            <p>Powercoders is a non-profit organization. We rely on a sustainable community to continue our work helping
+                students secure a better future in cities throughout Switzerland… and beyond. For an annual membership
+                fee of CHF 100, you become an official PowerCoders Friend. In addition to supporting our programs
+                monetarily, you’ll be invited to join the official Slack channel and participate in regular meet-ups and
+                events, such as our annually Association Party.</p>
+
+            <p>If you are a company and would like to become member, feel free to contact us via
+                info@powercoders.org.</p>
+        </div>
+    </div>
+    <!-- end row -->
+</div>
+<!-- end container -->
+<div class="blue-grey lighten-3">
+    <div class="container section">
+        <div class="row">
+            <div class="col s12 offset-m1 m10 offset-l2 l8">
+                <div class="row">
+                    <div class="col s12 hoverable space box-border blue-grey lighten-4">
+                        <a href="https://donorbox.org/powermembers">
+                            <h2>Be a Member</h2>
+                            <h4 class="light">We appreciate your support - you impact more people for a better
+                                future.</h4>
+                            <object><a href="https://donorbox.org/powermembers"
+                                       class="btn waves-effect waves-light pwc-red">Become a member now</a></object>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!-- end row -->
+    </div>
+    <!-- end container -->
+</div>
+{{ end }}
