@@ -4,3 +4,6 @@ dist/
 yarn-error.log
 
 .idea
+
+archive
+site_orig

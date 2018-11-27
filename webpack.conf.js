@@ -33,5 +33,7 @@ export default {
     publicPath: "/",
     filename: "[name].js"
   },
-  externals:  [/^vendor\/.+\.js$/]
+  externals: {
+    jquery: "jQuery"
+  }
 };
