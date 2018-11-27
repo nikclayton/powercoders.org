@@ -12,12 +12,14 @@ import svgmin from "gulp-svgmin";
 import inject from "gulp-inject";
 import cssnano from "cssnano";
 
+import imagemin from "gulp-imagemin";
+
 const browserSync = BrowserSync.create();
 const hugoBin = `./bin/hugo.${process.platform === "win32" ? "exe" : process.platform}`;
 const defaultArgs = ["-d", "../dist", "-s", "site"];
 
 if (process.env.DEBUG) {
-  defaultArgs.unshift("--debug")
+  defaultArgs.unshift("--debug");
 }
 
 gulp.task("hugo", (cb) => buildSite(cb));
@@ -50,6 +52,14 @@ gulp.task("js", (cb) => {
   });
 });
 
+gulp.task("img", () => {
+  return gulp.src("site/static/img/*")
+    .pipe(imagemin())
+    .pipe(gulp.dest("./dist/img"))
+    .pipe(browserSync.stream());
+});
+
+
 gulp.task("svg", () => {
   const svgs = gulp
     .src("site/static/img/icons-*.svg")
@@ -66,7 +76,7 @@ gulp.task("svg", () => {
     .pipe(gulp.dest("site/layouts/partials/"));
 });
 
-gulp.task("server", ["hugo", "css", "js", "svg"], () => {
+gulp.task("server", ["hugo", "css", "js", "svg", "img"], () => {
   browserSync.init({
     server: {
       baseDir: "./dist"
@@ -75,6 +85,7 @@ gulp.task("server", ["hugo", "css", "js", "svg"], () => {
   gulp.watch("./src/js/**/*.js", ["js"]);
   gulp.watch("./src/css/**/*.css", ["css"]);
   gulp.watch("./site/static/img/icons-*.svg", ["svg"]);
+  gulp.watch("./site/static/img/**/*", ["img"]);
   gulp.watch("./site/**/*", ["hugo"]);
 });
 
