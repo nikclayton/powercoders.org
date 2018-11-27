@@ -1,0 +1,11 @@
+<div class="parallax-container valign-wrapper">
+    {{ if .subtitle }}
+    <div class="container center">
+        <h3 class="padded-multiline"><span>{{.subtitle}}</span></h3>
+    </div>
+    {{ end }}
+    <div class="parallax"><img src="{{.imageUrl}}" alt="{{.title}}"></div>
+</div>
+{{ if .sectiontitle }}
+<h1 class="center">{{.sectiontitle}}</h1>
+{{ end }}

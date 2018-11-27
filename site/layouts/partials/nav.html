@@ -8,7 +8,12 @@
 <nav role="navigation">
     <div class="nav-wrapper container">
         <ul id="nav-mobile" class="sidenav">
-            <li><a href="<?= WEBROOT ?><?= $path ?>"><?= $label; ?></a></li>
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.main }}
+            <li class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}">
+                <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
         </ul>
     </div>
 </nav>

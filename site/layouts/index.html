@@ -1,5 +1,181 @@
 {{ define "main" }}
 
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "sectiontitle" .Params.sectiontitle) }}
 
+<div class="pwc-red white-text section">
+    <div class="container">
+        <div class="row">
+            <div class="col s12 offset-l2 l8 center">
+                <h5 class="light">Over 65.3 million refugees in the world. Millions of vacant IT jobs due to
+                    digitalization. Two problems, one solution:
+                </h5>
+                <h4>A coding academy for refugees.</h4>
+            </div>
+        </div>
+        <!-- end row -->
+    </div>
+    <!-- end container -->
+</div>
+<div class="parallax-container valign-wrapper">
+    <div class="parallax"><img src="/img/IMG_2230-1.jpg" alt="Powercoders"></div>
+</div>
+<div class="container section">
+    <div class="row">
+        <div class="col s12 offset-l2 l8">
+            <h2>Get Involved</h2>
+            <p>Powercoders is a coding academy for refugees. We believe that, in the 21st century, coding skills will
+                help you to start a new life wherever you are forced to go.</p>
+            <p>We offer a 3-month coding boot camp, followed by an internship. The ultimate goal of Powercoders is the
+                permanent placement of trained refugees in IT companies and IT departments.</p>
+        </div>
+    </div>
+    <!-- end row -->
+</div>
+<!-- end container -->
+<div class="pwc-red-light20">
+    <div class="container section">
+        <div class="row">
+            <div class="col s12 m6 l3 hoverable btn-box animated" data-animation="fadeInLeft">
+                <a href="/program/index.php#student">
+                    <h2>Participant</h2>
+                    <p>Are you a refugee eager to find your way into the IT industry?</p>
+                    <object><a href="/program/index.php#student"
+                               class="btn waves-effect waves-light pwc-red">apply now</a></object>
+                </a>
+            </div>
+            <div class="col s12 m6 l3 hoverable btn-box animated" data-animation="fadeInUp">
+                <a href="/program/index.php#mentor">
+                    <h2>Coach</h2>
+                    <p>Do you want to support a refugee in becoming successfully integrated in the local IT labor
+                        market? </p>
+                    <object><a href="/program/index.php#mentor"
+                               class="btn waves-effect waves-light pwc-red">apply as Coach</a>
+                    </object>
+                </a>
+            </div>
+            <div class="col s12 m6 l3 hoverable btn-box animated delay02s" data-animation=" fadeInUp">
+                <a href="/program/index.php#coach">
+                    <h2>Trainer</h2>
+                    <p>Are you an IT professional who likes to share their knowledge with newcomers? </p>
+                    <object><a href="/program/index.php#coach"
+                               class="btn waves-effect waves-light pwc-red">apply as Trainer</a></object>
+                </a>
+            </div>
+            <div class="col s12 m6 l3 hoverable btn-box animated" data-animation=" fadeInRight">
+                <a href="/program/index.php#company">
+                    <h2>Company</h2>
+                    <p>Are you an IT company looking for talent no matter from where it comes from? </p>
+                    <object><a href="/program/index.php#company"
+                               class="btn waves-effect waves-light pwc-red">offer an intership</a></object>
+                </a>
+            </div>
+        </div>
+        <!-- end row -->
+    </div>
+    <!-- end container -->
+</div>
+<div class="container section">
+    <div class="row grow">
+        <div class="col s12 offset-l2 l8">
+            <h2>Latest</h2>
+        </div>
+        <!-- <div class="col s12 m6 l4  hoverable latest-box animated" data-animation="fadeInLeft">
+            <a href="/city/lausanne/index.php">
+                <h6><i class="fas fa-building  fa-2x"></i> Career Day</h6>
+                <p>For companies in the Romandie: Join our career day and meet our students from Lausanne. </p>
+                <p class="latest">Join <i class="fas fa-angle-double-right"></i></p>
+            </a>
+        </div> -->
+        <!-- <div class="col s12 m6 l4 hoverable latest-box animated" data-animation="fadeInUp">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLScsRYUBGwCxYVJW-orIBDe6jLKWIXYjGY394VYG1PBISg1Znw/viewform?usp=sf_link" target="_blank">
+            <h6><i class="fas fa-graduation-cap fa-2x"></i> Graduation Party</h6>
+            <p>Lausanne Graduation Party on July 20th, 2018<br>
+            Let's celebrate together the end of the third<br> batch of Powercoders<br>
+        </p>
+            <p class="latest">register <i class="fas fa-angle-double-right"></i></p>
+        </a>
+        </div> -->
+
+        <div class="col s12 m6 l4 hoverable latest-box animated" data-animation="fadeInUp">
+            <a href="https://goo.gl/forms/CDF6oXH3RF6WqJOv2" target="_blank">
+                <h6><i class="fas fa-graduation-cap fa-2x"></i>Information Session</h6>
+                <p>Powercoders Basel is coming - the 3rd Info Session will be on October 18th, 2018. If you need
+                    information about our program and how to get involved as a participant, coach, trainer or a company
+                    and want to meet the team, join us.</p>
+                <p class="latest">register <i class="fas fa-angle-double-right"></i></p>
+            </a>
+        </div>
+
+        <div class="col s12 m6 l4 hoverable latest-box animated" data-animation="fadeInUp">
+            <a href="https://youtu.be/h9V4SU6Ca1k?t=3601" target="_blank">
+                <h6><i class="fas fa-tv fa-2x"></i> Wunsch-Schloss 2018</h6>
+                <p>Founder Christian Hirsig had the chance to address his wish to politics and economics at
+                    "Wunsch-Schloss 2018".</p>
+                <p class="latest">watch <i class="fas fa-angle-double-right"></i></p>
+            </a>
+        </div>
+        <div class="col s12 m6 l4 hoverable latest-box animated" data-animation=" fadeInRight">
+            <a href="https://twitter.com/CNNMoneyCH/status/995331994224611328" target="_blank">
+                <h6><i class="fab fa-readme fa-2x"></i> Powercoders Story</h6>
+                <p>In 2014 Husam fled the war in Syria and is now interning at Swiss Life. This is his story.</p>
+                <p class="latest">watch <i class="fas fa-angle-double-right"></i></p>
+            </a>
+        </div>
+    </div>
+    <!-- end row -->
+</div>
+<!-- end container -->
+<div class="parallax-container valign-wrapper">
+    <div class="container center">
+        <h3 class="padded-multiline"><span>A vacant IT job can be filled with a displaced person.</span></h3>
+    </div>
+    <div class="parallax"><img src="/img/ted-zh.jpg" alt="Ted"></div>
+</div>
+<div class="container">
+    <div class="row section">
+        <div class="col s12 offset-l2 l8">
+            <h2>The Story of Powercoders</h2>
+            <p>“We all can do more, we all can do better.”<br> Watch Chris, founder of Powercoders, at TED Zurich on how
+                all was started. </p>
+            <div class="video-container">
+
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/kILDP3NmA6A" frameborder="0"
+                        allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
+            <hr class="whitespace">
+
+            <div class="row">
+                <div class="col s12">
+                    <h2>Partner</h2>
+                </div>
+                <div class="col s12 m6">
+                    <a href="https://www.sem.admin.ch" target="_blank">
+                        <p><img src="/img/partner/schweizerische-eidgenossenschaft.png"
+                                alt="schweizerische-eidgenossenschaft" class="responsive"></p>
+                    </a>
+                </div>
+                <div class="col s12 m6">
+                    <a href="https://www.arcas-foundation.ch" target="_blank">
+                        <p><img src="/img/partner/arcas.jpg" alt="arcas" class="responsive"></p>
+                    </a>
+                </div>
+                <div class="col s6 m2">
+                    <a href="https://www.adobe.com" target="_blank">
+                        <p><img src="/img/Adobe.png" alt="adobe" class="responsive"></p>
+                    </a>
+                </div>
+                <div class="col s6 m2">
+                    <a href="http://www.impacthub.net" target="_blank">
+                        <p><img src="/img/partner/impacthub.jpg" alt="impact-hub"
+                                class="responsive partner"></p>
+                    </a>
+                </div>
+
+            </div>
+            <!-- end row -->
+        </div>
+    </div>
+    <!-- end row -->
+</div>
 
 {{ end }}

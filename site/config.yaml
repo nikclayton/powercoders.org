@@ -1,0 +1,13 @@
+baseurl: "/"
+languageCode: "en-us"
+title: "Powercoders"
+
+menu:
+  main:
+  - identifier: home
+    name: Home
+    url: /
+  - identifier: program
+    name: Program
+    title: Get involved
+    url: /program/
