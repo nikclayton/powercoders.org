@@ -6,7 +6,7 @@ blurb:
   heading: Why Kaldi?
   text: >-
     Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. 
+    shouldn't just taste good, it should do good too. Test
 intro:
   heading: What we offer
   text: >-
