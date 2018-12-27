@@ -2,36 +2,12 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "sectiontitle" .Params.sectiontitle) }}
 
-<div class="pwc-red white-text section">
-    <div class="container">
-        <div class="row">
-            <div class="col s12 offset-l2 l8 center">
-                <h5 class="light">Over 65.3 million refugees in the world. Millions of vacant IT jobs due to
-                    digitalization. Two problems, one solution:
-                </h5>
-                <h4>A coding academy for refugees.</h4>
-            </div>
-        </div>
-        <!-- end row -->
-    </div>
-    <!-- end container -->
-</div>
-<div class="parallax-container valign-wrapper">
-    <div class="parallax"><img src="/img/IMG_2230-1.jpg" alt="Powercoders"></div>
-</div>
-<div class="container section">
-    <div class="row">
-        <div class="col s12 offset-l2 l8">
-            <h2>Get Involved</h2>
-            <p>Powercoders is a coding academy for refugees. We believe that, in the 21st century, coding skills will
-                help you to start a new life wherever you are forced to go.</p>
-            <p>We offer a 3-month coding boot camp, followed by an internship. The ultimate goal of Powercoders is the
-                permanent placement of trained refugees in IT companies and IT departments.</p>
-        </div>
-    </div>
-    <!-- end row -->
-</div>
-<!-- end container -->
+{{ partial "intro" (dict "heading" .Params.intro.heading "text" .Params.intro.text )}}
+
+{{ partial "parallax" (dict "imageUrl" .Params.parallax.image )}}
+
+{{ partial "paragraph" (dict "content" .Params.paragraph.content )}}
+
 <div class="pwc-red-light20">
     <div class="container section">
         <div class="row">

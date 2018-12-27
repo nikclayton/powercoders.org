@@ -2,18 +2,23 @@
 title: Home
 subtitle: Impacting lives by teaching how to code
 image: /img/start.jpg
-blurb:
-  heading: Why Kaldi?
-  text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. Test
 intro:
-  heading: What we offer
+  heading: >-
+    Over 65.3 million refugees in the world. Millions of vacant IT jobs due to digitalization. Two problems, one solution:
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    A coding academy for refugees.
+parallax:
+  image: /img/IMG_2230-1.jpg
+paragraph:
+  content: >-
+    ##Get Involved
+    Powercoders is a coding academy for refugees. We believe that, in the 21st century,
+    coding skills will help you to start a new life wherever you are forced to go.
+
+    We offer a 3-month coding boot camp, followed by an internship. The ultimate goal of Powercoders is the permanent
+    placement of trained refugees in IT companies and IT departments.
+
+
 products:
   - image: img/illustrations-coffee.svg
     text: >-
