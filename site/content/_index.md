@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Startpage
 subtitle: Impacting lives by teaching how to code
 image: /img/start.jpg
 intro:
