@@ -1,3 +1,9 @@
 <div class="parallax-container valign-wrapper">
-    <div class="parallax"><img src="{{.imageUrl}}" alt="Powercoders"></div>
+    {{ if (isset .parallax "text") }}
+    <div class="container center">
+        <h3 class="padded-multiline"><span>{{.parallax.text}}</span></h3>
+    </div>
+    {{ end }}
+    <div class="parallax"><img src="{{.parallax.image}}" alt="Background Powercoders"></div>
 </div>
+

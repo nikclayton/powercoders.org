@@ -28,17 +28,22 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Intro", name: intro, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Parallax", name: parallax, widget: object,
+          - {label: "Teaser Image", name: teaser_image, widget: object,
               fields: [{label: "Image", name: "image", widget: "image"}]}
-          - {label: "paragraph", name: paragraph, widget: object, fields: [
+          - {label: "Get Involved", name: get_involved, widget: object, fields: [
               {label: "Content", name: "content", widget: "markdown"}]}
 
-          - {label: "Products", name: products, widget: list, fields: [
-              {label: "Image", name: "image", widget: "image"},
-              {label: "Text", name: "text", widget: "text"}]}
+          - {label: "Program", name: program, widget: list, fields: [
+              {label: "Heading", name: "heading", widget: "text"},
+              {label: "Text", name: "text", widget: "text"},
+              {label: "Link", name: "link", widget: "text"},
+              {label: "Link Text", name: "link_text", widget: "text"},
+              {label: "Fade In Animation", name: "fade_in", widget: "text"}
+              ]}
           - {label: "Values", name: "values", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
+
       - file: "site/content/program/_index.md"
         label: "Program"
         name: "program"

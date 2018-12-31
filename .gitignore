@@ -4,6 +4,7 @@ dist/
 yarn-error.log
 
 .idea
+.DS_Store
 
 archive
 site_orig
