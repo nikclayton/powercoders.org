@@ -46,15 +46,14 @@ program:
     fade_in: Right
 
 latest:
-  - heading: Information Session
+  - heading: Donate
     heading_icon: fa-graduation-cap
     text: >-
-        Powercoders Basel is coming - the 3rd Info Session will be on October 18th, 2018. If you need
-        information about our program and how to get involved as a participant, coach, trainer or a company
-        and want to meet the team, join us.
+        Powercoders is a non-profit organization. We rely on donations to continue our work
+        helping refugees secure a better future.
 
-    link: https://goo.gl/forms/CDF6oXH3RF6WqJOv2
-    link_text: register
+    link: donate
+    link_text: donate
     fade_in: Up
 
   - heading: Wunsch-Schloss 2018
@@ -67,13 +66,13 @@ latest:
     link_text: watch
     fade_in: Up
 
-  - heading: Information Session
+  - heading:  Powercoders Story
     heading_icon: fa-readme
     text: >-
         In 2014 Husam fled the war in Syria and is now interning at Swiss Life. This is his story.
 
     link: https://twitter.com/CNNMoneyCH/status/995331994224611328
-    link_text: register
+    link_text: watch
     fade_in: Up
 
 teaser_image2:

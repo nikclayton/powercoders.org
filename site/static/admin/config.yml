@@ -32,17 +32,32 @@ collections: # A list of collections the CMS should be able to edit
               fields: [{label: "Image", name: "image", widget: "image"}]}
           - {label: "Get Involved", name: get_involved, widget: object, fields: [
               {label: "Content", name: "content", widget: "markdown"}]}
-
           - {label: "Program", name: program, widget: list, fields: [
-              {label: "Heading", name: "heading", widget: "text"},
+              {label: "Heading", name: "heading", widget: "string"},
               {label: "Text", name: "text", widget: "text"},
-              {label: "Link", name: "link", widget: "text"},
-              {label: "Link Text", name: "link_text", widget: "text"},
-              {label: "Fade In Animation", name: "fade_in", widget: "text"}
+              {label: "Link", name: "link", widget: "string"},
+              {label: "Link Text", name: "link_text", widget: "string"},
+              {label: "Fade In Animation", name: "fade_in", widget: "string"}
               ]}
-          - {label: "Values", name: "values", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
+          - {label: "Latest", name: latest, widget: list, fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Heading Icon", name: "heading_icon", widget: "string"},
+              {label: "Text", name: "text", widget: "text"},
+              {label: "link", name: "link", widget: "string"},
+              {label: "Link Text", name: "link_text", widget: "string"},
+              {label: "Fade In Animation", name: "fade_in", widget: "string"}
+              ]}
+          - {label: "Teaser Image 2", name: teaser_image2, widget: object,
+              fields: [{label: "Image", name: "image", widget: "image"},
+              {label: "Text", name: "text", widget: "string"}]}
+          - {label: "Story", name: story, widget: object,
+              fields: [{label: "Text", name: "text", widget: "markdown"},
+              {label: "Video Id", name: "video_id", widget: "string"}]}
+          - {label: "Partner", name: partner, widget: list, fields: [
+              {label: "Name", name: "name", widget: "string"},
+              {label: "Image", name: "image", widget: "image"},
+              {label: "link", name: "link", widget: "string"},
+              ]}
 
       - file: "site/content/program/_index.md"
         label: "Program"
