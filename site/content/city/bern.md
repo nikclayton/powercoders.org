@@ -23,10 +23,17 @@ text: >-
   We keep track on how our participants are doing. Here a summary:
 
 
-  15 participants
+  * 15 participants
 
+  * 5 IT-job
 
-  5 IT-job, 3 IT-apprenticeship, 3 IT-studies, 1 internship, 3 drop-outs
+  * 3 IT-apprenticeship
+
+  * 3 IT-studies
+
+  * 1 internship
+
+  * 3 drop-outs
 team:
   header: Team Bern
   members:
