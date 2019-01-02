@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://powercoders.org/sitemap.xml

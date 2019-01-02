@@ -1,6 +1,7 @@
 baseurl: "/"
 languageCode: "en-us"
 title: "Powercoders"
+enableRobotsTXT: true
 
 menu:
   main:
