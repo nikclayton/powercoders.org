@@ -226,6 +226,9 @@ collections:
               - label: Image
                 name: image
                 widget: image
+              - label: Align
+                name: align
+                widget: string
 
       - file: site/content/press/_index.md
         label: Press

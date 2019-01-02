@@ -21,16 +21,26 @@
         </div>
         {{ range $el := .Params.causes }}
         <div class="row">
+            {{ if ne $el.align "left" }}
             <div class="col s12 m6 markdown">
                 {{$el.text | markdownify}}
             </div>
 
             <div class="col s12 m6">
-                <div><img src="{{$el.image}}" width="100%" alt="POWERCODERS"></div>
+                <img src="{{$el.image}}" width="100%" alt="POWERCODERS">
             </div>
+            {{ else }}
+            <div class="col s12 m6">
+                <img src="{{$el.image}}" width="100%" alt="POWERCODERS">
+            </div>
+
+            <div class="col s12 m6 markdown">
+                {{$el.text | markdownify}}
+            </div>
+            {{ end }}
         </div>
+
         {{ end }}
     </div>
 </div>
-
 {{ end }}
