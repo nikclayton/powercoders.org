@@ -73,7 +73,7 @@ causes:
         * CHF 250 city tour for the whole class (20 students)
         * CHF 360 15 tickets for the Zoo Zürich
 
-        <a href="https://donorbox.org/bon-appetit" class="btn waves-effect waves-light pwc-red">Donate Food!</a>
+        <a href="https://donorbox.org/wensday-activity" class="btn waves-effect waves-light pwc-red">Donate Food!</a>
 
     image: /img/donation_activites.jpg
     align: left
