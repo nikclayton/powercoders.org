@@ -328,8 +328,8 @@ collections:
             name: city_program
             widget: object
             fields:
-              - label: name
-                name: name
+              - label: Header
+                name: header
                 widget: string
               - label: Items
                 name: items
@@ -352,4 +352,24 @@ collections:
                     widget: string
                   - label: Call to action
                     name: call_to_action
+                    widget: string
+          - label: Past Program
+            name: past_program
+            widget: object
+            fields:
+              - label: Header
+                name: header
+                widget: string
+              - label: Items
+                name: items
+                widget: list
+                fields:
+                  - label: Header
+                    name: header
+                    widget: string
+                  - label: Text
+                    name: text
+                    widget: string
+                  - label: Link
+                    name: link
                     widget: string
