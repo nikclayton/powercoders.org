@@ -4,7 +4,7 @@ section_title: "Frequently Asked Questions "
 image: /img/faq.jpg
 
 text: >-
-  ## FAQ
+  ## Get involved
 
   ###### What is Powercoders?
 
