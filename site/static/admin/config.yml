@@ -143,8 +143,8 @@ collections:
                 widget: string
 
       - file: site/content/about/_index.md
-        label: Program
-        name: program
+        label: About
+        name: about
         fields:
           - label: Title
             name: title
@@ -179,12 +179,12 @@ collections:
                 name: members
                 widget: list
                 fields:
-                  - label: Image
-                    name: image
-                    widget: image
                   - label: Name
                     name: name
                     widget: string
+                  - label: Image
+                    name: image
+                    widget: image
                   - label: Description
                     name: description
                     widget: string

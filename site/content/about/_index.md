@@ -50,253 +50,250 @@ team:
     mentors and coaches are listed. Pictures to come.
 
   members:
-    - image: /img/portrait/abdul-nawaz-bugti.jpg
-      name: Abdul Nawaz Bugti
+    - name: Abdul Nawaz Bugti
+      image: /img/portrait/abdul-nawaz-bugti.jpg
       description: Student / Zürich
 
-    - image: /img/portrait/abdullah-msallam.jpg
-      name: Abdullah Msallam
+    - name: Abdullah Msallam
+      image: /img/portrait/abdullah-msallam.jpg
       description: Student / Zürich
 
-    - image: /img/portrait/agnes-nemethy.jpg
-      name: Agnes Néméthy
+    - name: Agnes Néméthy
+      image: /img/portrait/agnes-nemethy.jpg
       description: Mentor / Zürich
 
-    - image: /img/portrait/alan-omar.jpg
-      name: Alan Omar
+    - name: Alan Omar
+      image: /img/portrait/alan-omar.jpg
       description: Student / Zürich
 
-    - image: /img/portrait/izzatollah-amani.jpg
-      name: Amani Izzatollah
+    - name: Amani Izzatollah
+      image: /img/portrait/izzatollah-amani.jpg
       description: Student / Zürich
 
-    - image: /img/portrait/bashar-said.jpg
-      name: Bashar Said
+    - name: Bashar Said
+      image: /img/portrait/bashar-said.jpg
       description: Student / Zürich
 
-    - image: /img/portrait/benjamin-vonlanthen.jpg
-      name: Benjamin Vonlanthen
+    - name: Benjamin Vonlanthen
+      image: /img/portrait/benjamin-vonlanthen.jpg
       description: Coach / Zürich
 
-    - image: /img/portrait/bettina-hirsig.jpg
-      name: Bettina Hirsig
+    - name: Bettina Hirsig
+      image: /img/portrait/bettina-hirsig.jpg
       description: Vice-President
 
-    - image: /img/portrait/chiar-evdi.jpg
-      name: Chiar Evdi
+    - name: Chiar Evdi
+      image: /img/portrait/chiar-evdi.jpg
       description: Student / Zürich
 
-    - image: /img/portrait/christian-hirsig.jpg
-      name: Christian Hirsig
+    - name: Christian Hirsig
+      image: /img/portrait/christian-hirsig.jpg
       description:  President
 
-
-    - image: /img/portrait/christian-zosel.jpg
-      name: Christian Zosel
+    - name: Christian Zosel
+      image: /img/portrait/christian-zosel.jpg
       description:  Coach / Bern
 
-    - image: /img/portrait/christoph-isch.jpg
-      name: Christoph Isch
+    - name: Christoph Isch
+      image: /img/portrait/christoph-isch.jpg
       description:  Coach / Bern
 
-    - image: /img/portrait/christoph-ackermann.jpg
-      name: Christoph Ackermann
+    - name: Christoph Ackermann
+      image: /img/portrait/christoph-ackermann.jpg
       description:  Coach / Bern
 
-    - image: /img/portrait/damian-senn.jpg
-      name: Damian Senn
+    - name: Damian Senn
+      image: /img/portrait/damian-senn.jpg
       description:  Coach / Bern
 
-    - image: /img/portrait/ebrahim-khalil-mehrno.jpg
-      name: Ebrahim Mehrno
+    - name: Ebrahim Mehrno
+      image: /img/portrait/ebrahim-khalil-mehrno.jpg
       description:  Student / Bern
 
-    - image: /img/portrait/fortuna-mebratu.jpg
-      name: Fortuna Mebratu
+    - name: Fortuna Mebratu
+      image: /img/portrait/fortuna-mebratu.jpg
       description:  Student / Zürich
 
-    - image: /img/portrait/gajendran-packiyanathan.jpg
-      name: Gajendran Packiyanathan
+    - name: Gajendran Packiyanathan
+      image: /img/portrait/gajendran-packiyanathan.jpg
       description:  Student / Bern
 
-    - image: /img/portrait/hannes-gassert.jpg
-      name: Hannes Gassert
+    - name: Hannes Gassert
+      image: /img/portrait/hannes-gassert.jpg
       description: Industry Council
 
-    - image: /img/portrait/helene-portier.jpg
-      name: Hélène Portier
+    - name: Hélène Portier
+      image: /img/portrait/helene-portier.jpg
       description:  Lead Teacher / Lausanne
 
-    - image: /img/portrait/hermi.jpg
-      name: Hermi</strong>
+    - name: Hermi
+      image: /img/portrait/hermi.jpg
 
-    - image: /img/portrait/hussam-allaham.jpg
-      name: Hussam Allaham
+    - name: Hussam Allaham
+      image: /img/portrait/hussam-allaham.jpg
       description: Program Manager
 
-    - image: /img/portrait/ilya-shumilin.jpg
-      name: Ilya Shumilin
+    - name: Ilya Shumilin
+      image: /img/portrait/ilya-shumilin.jpg
       description: Coach / Zürich
 
-    - image: /img/portrait/jamila-amini.jpg
-      name: Jamila Amini
+    - name: Jamila Amini
+      image: /img/portrait/jamila-amini.jpg
       description: Student / Bern
 
-    - image: /img/portrait/julia-sharonova.jpg
-      name: Julia Sharonova
+    - name: Julia Sharonova
+      image: /img/portrait/julia-sharonova.jpg
       description: Coach / Zürich
 
-    - image: /img/portrait/juliana-mourisca.jpg
-      name: Juliana Mourisca
+    - name: Juliana Mourisca
+      image: /img/portrait/juliana-mourisca.jpg
       description: Mentor / Zürich
 
-    - image: /img/portrait/kurt-kammermann.jpg
-      name: Kurt Kammermann
+    - name: Kurt Kammermann
+      image: /img/portrait/kurt-kammermann.jpg
       description: Mentor / Zürich / Bern
 
-    - image: /img/portrait/lena-goetsch.jpg
-      name: Lena Götsch
+    - name: Lena Götsch
+      image: /img/portrait/lena-goetsch.jpg
       description: Mentor / Zürich
 
-    - image: /img/portrait/lhamo-gakyitsang.jpg
-      name: Lhamo Gakyitsang
+    - name: Lhamo Gakyitsang
+      image: /img/portrait/lhamo-gakyitsang.jpg
       description: Student / Bern
 
-    - image: /img/portrait/luana-laederach.jpg
-      name: Luana Läderach
+    - name: Luana Läderach
+      image: /img/portrait/luana-laederach.jpg
       description: Media producer
 
-    - image: /img/portrait/luc-hutter.jpg
-      name: Luc Hutter
+    - name: Luc Hutter
+      image: /img/portrait/luc-hutter.jpg
       description: Mentor / Bern
 
-    - image: /img/portrait/Monorm.jpg
-      name: Madam Monorom
+    - name: Madam Monorom
+      image: /img/portrait/Monorm.jpg
       description: Lead Teacher / Zürich
 
-    - image: /img/portrait/mahmoud-hallal.jpg
-
-      name: Mahmoud Hallal
+    - name: Mahmoud Hallal
+      image: /img/portrait/mahmoud-hallal.jpg
       description: Mentor / Bern
 
-    - image: /img/portrait/mannar-hielal.jpg
-
-      name: Mannar Hielal
+    - name: Mannar Hielal
+      image: /img/portrait/mannar-hielal.jpg
       description: Student / Bern
 
-    - image: /img/portrait/manuel-linder.jpg
-      name: Manuel Linder
+    - name: Manuel Linder
+      image: /img/portrait/manuel-linder.jpg
       description: Mentor / Bern
 
-    - image: /img/portrait/marco-jakob.jpg
-      name: Marco Jakob
+    - name: Marco Jakob
+      image: /img/portrait/marco-jakob.jpg
       description: Teaching Council
 
-    - image: /img/portrait/markus-gallagher.jpg
-      name: Markus Gallagher
+    - name: Markus Gallagher
+      image: /img/portrait/markus-gallagher.jpg
       description: Coach / Bern
 
-    - image: /img/portrait/martin-baur.jpg
-      name: Martin Baur
+    - name: Martin Baur
+      image: /img/portrait/martin-baur.jpg
       description: Coach / Zürich
 
-    - image: /img/portrait/matthias-hueni.jpg
-      name: Matthias Hüni
+    - name: Matthias Hüni
+      image: /img/portrait/matthias-hueni.jpg
       description: Lead Teacher / Zürich
 
-    - image: /img/portrait/maximilian-sutkowski.jpg
-      name: Maximilian Sutkowski
+    - name: Maximilian Sutkowski
+      image: /img/portrait/maximilian-sutkowski.jpg
       description: Mentor / Zürich
 
-    - image: /img/portrait/mohamad-husam-ebish.jpg
-      name: Mohamad Husam Ebish
+    - name: Mohamad Husam Ebish
+      image: /img/portrait/mohamad-husam-ebish.jpg
       description: Student / Zürich
 
-    - image: /img/portrait/mohammad-altahan.jpg
-      name: Mohammad Altahan
+    - name: Mohammad Altahan
+      image: /img/portrait/mohammad-altahan.jpg
       description: Student / Bern
 
-    - image: /img/portrait/mohammad-hadi-soroush.jpg
-      name: Mohammad Hadi Soroush
+    - name: Mohammad Hadi Soroush
+      image: /img/portrait/mohammad-hadi-soroush.jpg
       description: Student / Zürich
 
-    - image: /img/portrait/mohammed-khairi.jpg
-      name: Mohammed Khairi
+    - name: Mohammed Khairi
+      image: /img/portrait/mohammed-khairi.jpg
       description: Student / Zürich
 
-    - image: /img/portrait/muhammad-bashir-karimi.jpg
-      name: Muhammad Bashir Karimi
+    - name: Muhammad Bashir Karimi
+      image: /img/portrait/muhammad-bashir-karimi.jpg
       description: Student / Zürich
 
-    - image: /img/portrait/nick-niles.jpg
-      name: Nick Niles
+    - name: Nick Niles
+      image: /img/portrait/nick-niles.jpg
       description: Mentor / Zürich
 
-    - image: /img/portrait/nicolas-perrenoud.jpg
-      name: Nicolas Perrenoud
+    - name: Nicolas Perrenoud
+      image: /img/portrait/nicolas-perrenoud.jpg
       description: Coach / Zürich
 
-    - image: /img/portrait/oleg-lavrovsky.jpg
-      name: Oleg Lavrovsky
+    - name: Oleg Lavrovsky
+      image: /img/portrait/oleg-lavrovsky.jpg
       description: Coach / Bern
 
-    - image: /img/portrait/rafat-daghmach.jpg
-      name: Rafat Daghmach
+    - name: Rafat Daghmach
+      image: /img/portrait/rafat-daghmach.jpg
       description: Student / Zürich
 
-    - image: /img/portrait/rami-jumaah.jpg
-      name: Rami Jumaah
+    - name: Rami Jumaah
+      image: /img/portrait/rami-jumaah.jpg
       description: Student / Bern
 
-    - image: /img/portrait/ranny-kaddoura.jpg
-      name: Ranny Kaddoura
+    - name: Ranny Kaddoura
+      image: /img/portrait/ranny-kaddoura.jpg
       description: Student / Zürich
 
-    - image: /img/portrait/raphael-gaus.jpg
-      name: Raphael Gaus
+    - name: Raphael Gaus
+      image: /img/portrait/raphael-gaus.jpg
       description: Mentor / Zürich
 
-    - image: /img/portrait/sangeerththani-ramesh.jpg
-      name: Sangeerththani Ramesh
+    - name: Sangeerththani Ramesh
+      image: /img/portrait/sangeerththani-ramesh.jpg
       description: Student / Zürich
 
-    - image: /img/portrait/sergei-schaub.jpg
-      name: Sergei Schaub
+    - name: Sergei Schaub
+      image: /img/portrait/sergei-schaub.jpg
       description: Mentor / Zürich
 
-    - image: /img/portrait/stefan-schaermeli.jpg
-      name: Stefan Schärmeli
+    - name: Stefan Schärmeli
+      image: /img/portrait/stefan-schaermeli.jpg
       description: Coach / Bern
 
-    - image: /img/portrait/stefanie-hess.jpg
-      name: Stefanie Hess
+    - name: Stefanie Hess
+      image: /img/portrait/stefanie-hess.jpg
       description: Mentor / Bern
 
-    - image: /img/portrait/sujeevan-jeyapalan.jpg
-      name: Sujeevan Jeyapalan
+    - name: Sujeevan Jeyapalan
+      image: /img/portrait/sujeevan-jeyapalan.jpg
       description: Student / Bern
 
-    - image: /img/portrait/sunita-asnani.jpg
-      name: Sunita Asnani
+    - name: Sunita Asnani
+      image: /img/portrait/sunita-asnani.jpg
       description: Social Council
 
-    - image: /img/portrait/tenzin-dhondup-gyadhotsang.jpg
-      name: Tenzin Gyadhotsang
+    - name: Tenzin Gyadhotsang
+      image: /img/portrait/tenzin-dhondup-gyadhotsang.jpg
       description: Student / Zürich
 
-    - image: /img/portrait/tesfamichael-afewerki.jpg
-      name: Tesfamichael Afewerki
+    - name: Tesfamichael Afewerki
+      image: /img/portrait/tesfamichael-afewerki.jpg
       description: Student / Bern
 
-    - image: /img/portrait/visakha-thongpetsavong.jpg
-      name: Visakha Thongpetsavong
+    - name: Visakha Thongpetsavong
+      image: /img/portrait/visakha-thongpetsavong.jpg
       description: Mentor / Zürich
 
-    - image: /img/portrait/yoseph-endrias-lechebo.jpg
-      name: Yoseph Lechebo
+    - name: Yoseph Lechebo
+      image: /img/portrait/yoseph-endrias-lechebo.jpg
       description: Student / Zürich
 
-    - image: /img/portrait/yusup-khashbulatov.jpg
-      name: Yusup Khashbulatov
+    - name: Yusup Khashbulatov
+      image: /img/portrait/yusup-khashbulatov.jpg
       description: Student / Bern
 ---
