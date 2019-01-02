@@ -14,7 +14,7 @@ text: |-
   volunteers for their great support.
 
 
-  ![PowerCoders Bern](/img/IMG_2230-1.jpg)
+  ![PowerCoders Bern](/img/001-graduation.jpg)
 
 
   Graduation: 07. April 2017
@@ -29,7 +29,6 @@ text: |-
   * 3 IT-studies
   * 1 internship
   * 3 drop-outs
-
 team:
   header: Team Bern
   members:
@@ -45,7 +44,6 @@ team:
     - description: Student / Zürich
       image: /img/portrait/alan-omar.jpg
       name: Alan Omar
-
 partner:
   - image: /img/partner/schweizerische-eidgenossenschaft.png
     link: 'https://www.sem.admin.ch'
