@@ -15,7 +15,7 @@ text: >-
 
 roles:
   - header: Participant
-    text: >-
+    text: |-
         ##### You study 13 weeks full time and then start a 6- to 12-month internship. The program is
           meant for refugees with B and F status and in rare cases N.
         ###### What we Expect
@@ -44,7 +44,7 @@ roles:
         <a href="http://eepurl.com/c3pB1H" target="_blank" class="btn waves-effect waves-light pwc-red">subscribe</a>
 
   - header: Coach
-    text: >-
+    text: |-
         ##### Our participants need more than technical knowledge in order to achieve a sustainable integration into employment.
 
 
@@ -72,7 +72,7 @@ roles:
         <a href="http://eepurl.com/c3pB1H" class="btn waves-effect waves-light pwc-red" target="_blank">subscribe</a>
 
   - header: Trainer
-    text: >-
+    text: |-
         ##### You support our teachers as assistants.
 
         Teaching sessions usually take place in the mornings. In the afternoons, the participants
@@ -98,7 +98,7 @@ roles:
         <a href="http://eepurl.com/c3pB1H" class="btn waves-effect waves-light pwc-red" target="_blank">subscribe</a>
 
   - header: Company
-    text: >-
+    text: |-
         ##### Our participants are highly qualified refugees and they are looking for your engagement and support.
 
         ###### What we are looking for
