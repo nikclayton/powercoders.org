@@ -1,37 +1,28 @@
 ---
-title: Bern
-section_title: Bern Program
+title: Zürich
+section_title: Zürich Program
 text: |-
-  ## 001 Bern
+  ## 001 Zürich
 
+  The team in Zürich included Sunita Asnani, Madam Monorom, Matthias Hüni, Hussam Allaham, Hannes Gassert
+  and Christian Hirsig. Out of over 100 applications 18 participants (14 male/4 females) were chosen.
+  They started in September 2017 the coding school. After a very successful career day 17 participants
+  secured an internship and one even an apprenticeship. In December was the graduation and already in
+  January most of the internships started. We thank Arcas Foundation and Impact Hub Zürich for their great
+  support. Additionally we want to thank all the voluntary coaches, teachers and trainers for their effort.
 
-  The Powercoders team in Bern consisted Sunita Asnani, Christian Hirsig and
-  Marco Jakob. Out of 150 applications they selected 15 participants who have
-  started in January 2017 a twelve week coding boot camp. In April was
-  graduation and everyone started their internships. Already in September Farid
-  Saberi was the first participant who received a full-time job. We thank Migros
-  Kulturprozent, Raiffeisen Bank, Effinger, Impact Hub Bern and over 50
-  volunteers for their great support.
+  ![PowerCoders Zürich](/img/IMG_2230-1.jpg)
 
-
-  ![PowerCoders Bern](/img/IMG_2230-1.jpg)
-
-
-  Graduation: 07. April 2017
-
+  Graduation: 22. December 2017
 
   We keep track on how our participants are doing. Here a summary:
 
-
-  * 15 participants
-  * 5 IT-job
-  * 3 IT-apprenticeship
-  * 3 IT-studies
-  * 1 internship
-  * 3 drop-outs
+  * 18 participants
+  * 1 IT-apprenticeship
+  * 17 internships.
 
 team:
-  header: Team Bern
+  header: Team Zürich
   members:
     - description: Student / Zürich
       image: /img/portrait/abdul-nawaz-bugti.jpg

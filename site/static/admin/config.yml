@@ -363,6 +363,7 @@ collections:
       - label: Image
         name: image
         widget: image
+        required: false
       - label: Section Title
         name: section_title
         widget: string

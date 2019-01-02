@@ -9,10 +9,59 @@
             {{ .Params.text | markdownify }}
         </div>
     </div>
-    <!-- end row -->
 </div>
 {{end}}
 
+{{ if .Params.events }}
+<hr class="whitespace">
+<div class="container">
+    <div class="row">
+        <div class="col s12 offset-l2 l8">
+            <h2>Events</h2>
+            <div class="row">
+                {{ range $el := .Params.events }}
+                <div class="col s12 m6 12 hoverable space redborder btn-box">
+                    <a href="{{$el.link}}" target="_blank">
+                        <h6><i class="fas fa-graduation-cap fa-2x"></i> {{$el.header}}</h6>
+                        {{$el.text | markdownify}}
+                        <object>
+                            <a href="{{$el.link}}"
+                               class="btn waves-effect waves-light pwc-red" target="_blank">{{$el.call_to_action}}</a>
+                        </object>
+                    </a>
+                </div>
+                {{end}}
+            </div>
+        </div>
+    </div>
+</div>
+{{end}}
+
+{{ if .Params.apply_as }}
+<hr class="whitespace">
+<div class="container">
+    <div class="row">
+        <div class="col s12 offset-l2 l8">
+            <h2>Apply as</h2>
+
+            <ul class="collapsible">
+                {{ range $el := .Params.apply_as }}
+                <li>
+                    <div id="{{ lower $el.header }}" class="collapsible-header">
+                        <h6>{{ $el.header }}</h6>
+                    </div>
+                    <div class="collapsible-body">
+                        {{ $el.text | markdownify }}
+                    </div>
+                </li>
+                {{end}}
+            </ul>
+        </div>
+    </div>
+</div>
+{{end}}
+
+{{ if .Params.team.header }}
 <div class="grey lighten-4 section">
     <div class="container">
         <div class="row">
@@ -34,7 +83,9 @@
         </div>
     </div>
 </div>
+{{end}}
 
+{{ if .Params.partner }}
 <div class="container">
     <div class="row section">
         <div class="col s12 offset-l2 l8">
@@ -54,6 +105,7 @@
         </div>
     </div>
 </div>
+{{end}}
 
 
 {{ end }}
