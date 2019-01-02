@@ -2,6 +2,15 @@
 title: Bern
 section_title: Bern Program
 
+text: >-
+    ## 001 BERN
+
+    The Powercoders team in Bern consisted Sunita Asnani, Christian Hirsig and Marco Jakob.
+    Out of 150 applications they selected 15 participants who have started in January 2017 a twelve week coding boot camp.
+    In April was graduation and everyone started their internships. Already in September Farid Saberi was
+    the first participant who received a full-time job. We thank Migros Kulturprozent, Raiffeisen Bank, Effinger,
+    Impact Hub Bern and over 50 volunteers for their great support
+
 team:
   header: Team Bern
   members:
