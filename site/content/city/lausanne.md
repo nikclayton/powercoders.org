@@ -1,7 +1,7 @@
 ---
 title: "Lausanne"
 section_title: "Lausanne Program"
-
+image: /img/lausanne-google.jpg
 text: |-
   ## 003 Lausanne
 
@@ -11,7 +11,7 @@ text: |-
   on July 20. Now 15 are starting their internships, 2 have apprenticeships, and 1 has a job. A big "thank you" to
   all the trainers, coaches and companies for their support
 
-  ![PowerCoders lausanne](/img/IMG_2230-1.jpg)
+  ![PowerCoders lausanne](/img/students-lausanne.jpg)
 
   We keep track on how our participants are doing. Here a summary:
 
@@ -25,24 +25,24 @@ team:
   header: Team Lausanne
   members:
     - description: Student / Zürich
-      image: /img/portrait/abdul-nawaz-bugti.jpg
+      image: /img/abdul-nawaz-bugti.jpg
       name: Abdul Nawaz Bugti
     - description: Student / Zürich
-      image: /img/portrait/abdullah-msallam.jpg
+      image: /img/abdullah-msallam.jpg
       name: Abdullah Msallam
     - description: Mentor / Zürich
-      image: /img/portrait/agnes-nemethy.jpg
+      image: /img/agnes-nemethy.jpg
       name: Agnes Néméthy
     - description: Student / Zürich
-      image: /img/portrait/alan-omar.jpg
+      image: /img/alan-omar.jpg
       name: Alan Omar
 
 partner:
-  - image: /img/partner/schweizerische-eidgenossenschaft.png
+  - image: /img/schweizerische-eidgenossenschaft.png
     name: Schweizerische Eidgenossenschaft
     link: https://www.sem.admin.ch
 
-  - image: /img/partner/arcas.jpg
+  - image: /img/arcas.jpg
     name: Arcas
     link: https://www.arcas-foundation.ch
 
@@ -50,7 +50,7 @@ partner:
     name: Adobe
     link: https://www.adobe.com
 
-  - image: /img/partner/impacthub.jpg
+  - image: /img/impacthub.jpg
     name: ImpactHub
     link: http://www.impacthub.net
 

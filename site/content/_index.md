@@ -89,11 +89,11 @@ story:
   video_id: kILDP3NmA6A
 
 partner:
-  - image: /img/partner/schweizerische-eidgenossenschaft.png
+  - image: /img/schweizerische-eidgenossenschaft.png
     name: Schweizerische Eidgenossenschaft
     link: https://www.sem.admin.ch
 
-  - image: /img/partner/arcas.jpg
+  - image: /img/arcas.jpg
     name: Arcas
     link: https://www.arcas-foundation.ch
 
@@ -101,7 +101,7 @@ partner:
     name: Adobe
     link: https://www.adobe.com
 
-  - image: /img/partner/impacthub.jpg
+  - image: /img/impacthub.jpg
     name: ImpactHub
     link: http://www.impacthub.net
 ---

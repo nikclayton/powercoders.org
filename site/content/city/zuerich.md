@@ -1,6 +1,8 @@
 ---
 title: Zürich
 section_title: Zürich Program
+image: /img/zh.jpg
+
 text: |-
   ## 001 Zürich
 
@@ -11,7 +13,7 @@ text: |-
   January most of the internships started. We thank Arcas Foundation and Impact Hub Zürich for their great
   support. Additionally we want to thank all the voluntary coaches, teachers and trainers for their effort.
 
-  ![PowerCoders Zürich](/img/IMG_2230-1.jpg)
+  ![PowerCoders Zürich](/img/students-zuerich.jpg)
 
   Graduation: 22. December 2017
 
@@ -25,29 +27,29 @@ team:
   header: Team Zürich
   members:
     - description: Student / Zürich
-      image: /img/portrait/abdul-nawaz-bugti.jpg
+      image: /img/abdul-nawaz-bugti.jpg
       name: Abdul Nawaz Bugti
     - description: Student / Zürich
-      image: /img/portrait/abdullah-msallam.jpg
+      image: /img/abdullah-msallam.jpg
       name: Abdullah Msallam
     - description: Mentor / Zürich
-      image: /img/portrait/agnes-nemethy.jpg
+      image: /img/agnes-nemethy.jpg
       name: Agnes Néméthy
     - description: Student / Zürich
-      image: /img/portrait/alan-omar.jpg
+      image: /img/alan-omar.jpg
       name: Alan Omar
 
 partner:
-  - image: /img/partner/schweizerische-eidgenossenschaft.png
+  - image: /img/schweizerische-eidgenossenschaft.png
     link: 'https://www.sem.admin.ch'
     name: Schweizerische Eidgenossenschaft
-  - image: /img/partner/arcas.jpg
+  - image: /img/arcas.jpg
     link: 'https://www.arcas-foundation.ch'
     name: Arcas
   - image: /img/Adobe.png
     link: 'https://www.adobe.com'
     name: Adobe
-  - image: /img/partner/impacthub.jpg
+  - image: /img/impacthub.jpg
     link: 'http://www.impacthub.net'
     name: ImpactHub
 ---

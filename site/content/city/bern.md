@@ -33,28 +33,28 @@ team:
   header: Team Bern
   members:
     - description: Student / Zürich
-      image: /img/portrait/abdul-nawaz-bugti.jpg
+      image: /img/abdul-nawaz-bugti.jpg
       name: Abdul Nawaz Bugti
     - description: Student / Zürich
-      image: /img/portrait/abdullah-msallam.jpg
+      image: /img/abdullah-msallam.jpg
       name: Abdullah Msallam
     - description: Mentor / Zürich
-      image: /img/portrait/agnes-nemethy.jpg
+      image: /img/agnes-nemethy.jpg
       name: Agnes Néméthy
     - description: Student / Zürich
-      image: /img/portrait/alan-omar.jpg
+      image: /img/alan-omar.jpg
       name: Alan Omar
 partner:
-  - image: /img/partner/schweizerische-eidgenossenschaft.png
+  - image: /img/schweizerische-eidgenossenschaft.png
     link: 'https://www.sem.admin.ch'
     name: Schweizerische Eidgenossenschaft
-  - image: /img/partner/arcas.jpg
+  - image: /img/arcas.jpg
     link: 'https://www.arcas-foundation.ch'
     name: Arcas
   - image: /img/Adobe.png
     link: 'https://www.adobe.com'
     name: Adobe
-  - image: /img/partner/impacthub.jpg
+  - image: /img/impacthub.jpg
     link: 'http://www.impacthub.net'
     name: ImpactHub
 ---
