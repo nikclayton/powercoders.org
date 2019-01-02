@@ -4,7 +4,7 @@ section_title: Zürich Program
 image: /img/zh.jpg
 
 text: |-
-  ## 001 Zürich
+  ## 002 Zürich
 
   The team in Zürich included Sunita Asnani, Madam Monorom, Matthias Hüni, Hussam Allaham, Hannes Gassert
   and Christian Hirsig. Out of over 100 applications 18 participants (14 male/4 females) were chosen.
@@ -155,7 +155,6 @@ industry_partner:
   - link: http://www.sbb.ch
     image: /img/sbb.png
     name: sbb
-    
   - link: https://spaces.archilogic.com
     image: /img/archilogic.jpg
     name: archilogic"
