@@ -200,6 +200,33 @@ collections:
                 name: call_to_action
                 widget: string
 
+      - file: site/content/donate/_index.md
+        label: Donate
+        name: donate
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Image
+            name: image
+            widget: image
+          - label: Section Title
+            name: section_title
+            widget: string
+          - label: Text
+            name: text
+            widget: markdown
+          - label: Causes
+            name: causes
+            widget: list
+            fields:
+              - label: Text
+                name: text
+                widget: markdown
+              - label: Image
+                name: image
+                widget: image
+
       - file: site/content/press/_index.md
         label: Press
         name: press

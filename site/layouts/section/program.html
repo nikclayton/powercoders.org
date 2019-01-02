@@ -4,7 +4,7 @@
 
 <div class="container">
     <div class="row">
-        <div class="col s12 offset-l2 l8">
+        <div class="col s12 offset-l2 l8 markdown markdown">
             {{ .Params.text | markdownify }}
         </div>
         <div class="col s12 offset-l2 l8">
@@ -14,7 +14,7 @@
                     <div id="{{ lower $el.header }}" class="collapsible-header">
                         <h6>{{ $el.header }}</h6>
                     </div>
-                    <div class="collapsible-body">
+                    <div class="collapsible-body markdown">
                         {{ $el.text | markdownify }}
                     </div>
                 </li>

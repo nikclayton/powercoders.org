@@ -6,7 +6,7 @@
     {{ range $el := .section.items }}
     <li>
         <div class="collapsible-header">{{$el.header}}</div>
-        <div class="collapsible-body">
+        <div class="collapsible-body markdown">
             {{$el.text | markdownify}}
         </div>
     </li>

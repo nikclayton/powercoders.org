@@ -5,36 +5,32 @@
 <div class="container">
 
     <div class="row">
-        <div class="col s12 offset-m1 m10 offset-l2 l8">
+        <div class="col s12 offset-m1 m10 offset-l2 l8 markdown">
             {{ .Params.text | markdownify }}
         </div>
     </div>
     <!-- end row -->
 </div>
-<!-- end container -->
-<div class="blue-grey lighten-3">
-    <div class="container section">
-        <div class="row">
-            <div class="col s12 offset-m1 m10 offset-l2 l8">
-                <div class="row">
-                    <div class="col s12 hoverable space box-border blue-grey lighten-4">
-                        <a href="{{ .Params.donate.link }}">
-                            <h2>{{ .Params.donate.header }}</h2>
-                            <h4 class="light">{{ .Params.donate.text }}</h4>
-                            <object>
-                                <a href="{{ .Params.donate.link }}"
-                                   class="btn waves-effect waves-light pwc-red">
-                                    {{ .Params.donate.call_to_action }}
-                                </a>
-                            </object>
-                        </a>
-                    </div>
 
-                </div>
+<div class="lighten-4 section">
+    <div class="container">
+        <div class="row">
+            <div class="col s12 m6">
+                <h4>Support a specific cause:</h4>
             </div>
         </div>
-        <!-- end row -->
+        {{ range $el := .Params.causes }}
+        <div class="row">
+            <div class="col s12 m6 markdown">
+                {{$el.text | markdownify}}
+            </div>
+
+            <div class="col s12 m6">
+                <div><img src="{{$el.image}}" width="100%" alt="POWERCODERS"></div>
+            </div>
+        </div>
+        {{ end }}
     </div>
-    <!-- end container -->
 </div>
+
 {{ end }}

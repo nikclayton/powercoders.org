@@ -110,10 +110,6 @@ p,
 	hyphens: auto;
 }
 
-img {
-	max-width: 100%;
-}
-
 /* ---------------- colors ---------------- */
 
 .pwc-red-text {
@@ -663,4 +659,9 @@ footer.page-footer i {
 	.social {
 		text-align: right;
 	}
+}
+
+/* ---------------- markdown ---------------- */
+.markdown img {
+	max-width: 100%;
 }
