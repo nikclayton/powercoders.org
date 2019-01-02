@@ -665,3 +665,13 @@ footer.page-footer i {
 .markdown img {
 	max-width: 100%;
 }
+
+.markdown ul {
+	padding-left: 20px;
+	list-style-type: disc;
+}
+
+.markdown ul>li {
+	list-style-type: disc;
+}
+

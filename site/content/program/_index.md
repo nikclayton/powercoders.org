@@ -27,7 +27,7 @@ roles:
 
         ###### What we Offer
 
-          * Three-month intensive programming course *
+          * Three-month intensive programming course
           * Additional support for laptop, food and transportation where needed
           * Coaching Program
           * Access to an internship lasting between 6 and 12 months
@@ -82,9 +82,9 @@ roles:
 
         ###### What we are looking for
 
-        * IT professionals who wants to support participants solving IT challenges</li>
-        * Trainers who help teaching for some days in the afternoons</li>
-        * No teaching experience needed</li>
+        * IT professionals who wants to support participants solving IT challenges
+        * Trainers who help teaching for some days in the afternoons
+        * No teaching experience needed
 
         If you are interested in training our participants, please check our current programs for opportunities.
 
