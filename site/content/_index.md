@@ -104,5 +104,4 @@ partner:
   - image: /img/partner/impacthub.jpg
     name: ImpactHub
     link: http://www.impacthub.net
-
 ---

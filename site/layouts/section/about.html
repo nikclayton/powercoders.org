@@ -1,56 +1,19 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "sectiontitle" .Params.sectiontitle) }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "sectiontitle" .Params.section_title) }}
 
 <div class="container">
     <div class="row">
         <div class="col s12 offset-l2 l8">
-            <h3>The ultimate goal of Powercoders is the permanent placement of trained refugees in IT companies and IT
-                departments.</h3>
-            <p>It all started with a trip to the United States. The American government invited an entrepreneur from
-                each European country.</p>
-            <p>Founder Christian Hirsig met two other entrepreneurs there: one with a cooking school for refugees, one
-                with a coding academy for women. At this time, the refugee crisis in Europe was all over the news.
-                Driven by the energy to help, the idea of Powercoders was born with the mission to give people their
-                independence back, reduce social welfare costs and fill the gap of open job positions in the
-                IT-industry. A first program started already half a year later in Bern. An overwhelming amount of
-                volunteers participated in this project as coaches or mentors. Additionally many IT companies offered
-                internships immediately. After this promising start, the community keeps on growing and more programs
-                are started in new cities. Be part of the Powercoders community and <a
-                        href="<?= WEBROOT;?>program/index.php">get involved</a>.</p>
-            <p>If you are a company or foundation and would like to support us on a larger scale please download our <a
-                    href="https://drive.google.com/file/d/1-biw16Riol7POH3itouLgjsY1ittlQif/view?usp=sharing">presentation
-                PDF</a> and feel free to reach out to us.</p>
+            {{ .Params.text | markdownify }}
             <hr class="whitespace">
             <h2>Timeline</h2>
             <ul class="timeline">
-                <li class="event" data-date="JUN 2016">
-                    <h5>idea inception</h5>
+                {{ range $el := .Params.timeline }}
+                <li class="event" data-date="{{$el.date}}">
+                    <h5>{{$el.text}}</h5>
                 </li>
-                <li class="event" data-date="NOV 2016">
-                    <h5>incorporation non-profit</h5>
-                </li>
-                <li class="event" data-date="JAN 2017">
-                    <h5>launch school in Bern</h5>
-                </li>
-                <li class="event" data-date="MAY 2017">
-                    <h5>start internships in Bern</h5>
-                </li>
-                <li class="event" data-date="AUG 2017">
-                    <h5>1st student off of social welfare</h5>
-                </li>
-                <li class="event" data-date="SEP 2017">
-                    <h5>expansion to Zurich</h5>
-                </li>
-                <li class="event" data-date="NOV 2017">
-                    <h5>contract CH government</h5>
-                </li>
-                <li class="event" data-date="APR 2018">
-                    <h5>expansion to Lausanne</h5>
-                </li>
-                <li class="event" data-date="NOV 2018">
-                    <h5>expansion to Basel</h5>
-                </li>
+                {{end}}
             </ul>
         </div>
 
@@ -62,327 +25,19 @@
 <div class="container">
     <div class="row">
         <div class="col s12 offset-l2 l8">
-            <h2>MEET THE TEAM</h2>
-            <p>We are a non profit organisation that depends on volunteers. <br>Thanks to all these great people we are
-                making a difference. Not all of our students, mentors and coaches are listed. Pictures to come.</p>
+            {{ .Params.team.text | markdownify }}
         </div>
     </div>
 
     <div class="row portrait">
-        <div class="col s6 m3 l2 animated" data-animation="fadeInLeft">
-            <div><img src="/img//portrait/abdul-nawaz-bugti.jpg" class="responsive"
+        {{ range $el := .Params.team.members }}
+        <div class="col s6 m3 l2 animated" data-animation='fadeIn{{ index (first 1 (shuffle (slice "Left" "Right" "Up"))) 0 }}'>
+            <div><img src="{{$el.image}}" class="responsive"
                       alt="Abdul Nawaz Bugti"></div>
-            <p><strong>Abdul Nawaz Bugti</strong><br>Student / Zürich
+            <p><strong>{{$el.name}}</strong><br>{{$el.description}}
             </p>
         </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInUp">
-            <div><img src="/img//portrait/abdullah-msallam.jpg" class="responsive"
-                      alt="Abdullah Msallam"></div>
-            <p><strong>Abdullah Msallam</strong><br>Student / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInRight">
-            <div><img src="/img//portrait/agnes-nemethy.jpg" class="responsive" alt="Agnes Néméthy">
-            </div>
-            <p><strong>Agnes Néméthy</strong><br>Mentor / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInDown">
-            <div><img src="/img//portrait/alan-omar.jpg" class="responsive" alt="Alan Omar"></div>
-            <p><strong>Alan Omar</strong><br>Student / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInRight">
-            <div><img src="/img//portrait/izzatollah-amani.jpg" class="responsive"
-                      alt="Amani Izzatollah"></div>
-            <p><strong>Amani Izzatollah</strong><br>Student / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated delay02s" data-animation="fadeInRight">
-            <div><img src="/img//portrait/bashar-said.jpg" class="responsive" alt="Bashar Said"></div>
-            <p><strong>Bashar Said</strong><br>Student / Zürich</p>
-        </div>
-
-
-        <div class="col s6 m3 l2 animated" data-animation="fadeInUp">
-            <div><img src="/img//portrait/benjamin-vonlanthen.jpg" class="responsive"
-                      alt="Benjamin Vonlanthen"></div>
-            <p><strong>Benjamin Vonlanthen</strong><br>Coach / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated delay02s" data-animation="fadeInUp">
-            <div><img src="/img//portrait/bettina-hirsig.jpg" class="responsive" alt="Bettina Hirsig">
-            </div>
-            <p><strong>Bettina Hirsig</strong><br>Vice-President
-            </p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInUp">
-            <div><img src="/img//portrait/chiar-evdi.jpg" class="responsive" alt="Chiar Evdi"></div>
-            <p><strong>Chiar Evdi</strong><br>Student / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated delay02s" data-animation="fadeInUp">
-            <div><img src="/img//portrait/christian-hirsig.jpg" class="responsive"
-                      alt="Christian Hirsig"></div>
-            <p><strong>Christian Hirsig</strong><br> President
-            </p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInUp">
-            <div><img src="/img//portrait/christian-zosel.jpg" class="responsive" alt="Christian Zosel">
-            </div>
-            <p><strong>Christian Zosel</strong><br> Coach / Bern</p>
-        </div>
-        <div class="col s6 m3 l2 animated delay02s" data-animation="fadeInUp">
-            <div><img src="/img//portrait/christoph-isch.jpg" class="responsive" alt="Christoph Isch">
-            </div>
-            <p><strong>Christoph Isch</strong><br> Coach / Bern</p>
-        </div>
-
-
-        <div class="col s6 m3 l2 animated delay02s" data-animation="fadeInLeft">
-            <div><img src="/img//portrait/christoph-ackermann.jpg" class="responsive"
-                      alt="Christoph S. Ackermann"></div>
-            <p><strong>Christoph Ackermann</strong><br> Coach / Bern</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInLeft">
-            <div><img src="/img//portrait/damian-senn.jpg" class="responsive" alt="Damian Senn"></div>
-            <p><strong>Damian Senn</strong><br> Coach / Bern</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInDown">
-            <div><img src="/img//portrait/ebrahim-khalil-mehrno.jpg" class="responsive"
-                      alt="Ebrahim Khalil Mehrno"></div>
-            <p><strong>Ebrahim Mehrno</strong><br> Student / Bern</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInUp">
-            <div><img src="/img//portrait/fortuna-mebratu.jpg" class="responsive" alt="Fortuna Mebratu">
-            </div>
-            <p><strong>Fortuna Mebratu</strong><br> Student / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInLeft">
-            <div><img src="/img//portrait/gajendran-packiyanathan.jpg" class="responsive"
-                      alt="Gajendran Packiyanathan"></div>
-            <p><strong>Gajendran Packiyanathan</strong><br> Student / Bern</p>
-        </div>
-        <div class="col s6 m3 l2 animated delay02s" data-animation="fadeInRight">
-            <div><img src="/img//portrait/hannes-gassert.jpg" class="responsive" alt="Agnes Gassert">
-            </div>
-            <p><strong>Hannes Gassert</strong><br>Industry Council</p>
-        </div>
-
-
-        <div class="col s6 m3 l2 animated delay02s" data-animation="fadeInLeft">
-            <div><img src="/img//portrait/helene-portier.jpg" class="responsive" alt="Hélène Portier">
-            </div>
-            <p><strong>Hélène Portier</strong><br> Lead Teacher / Lausanne</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInLeft">
-            <div><img src="/img//portrait/hermi.jpg" class="responsive" alt="Hermi"></div>
-            <p><strong>Hermi</strong></p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInUp">
-            <div><img src="/img//portrait/hussam-allaham.jpg" class="responsive" alt="Hussam Allaham">
-            </div>
-            <p><strong>Hussam Allaham</strong><br>Program Manager</p>
-        </div>
-        <div class="col s6 m3 l2 animated delay02s" data-animation="fadeInUp">
-            <div><img src="/img//portrait/ilya-shumilin.jpg" class="responsive" alt="Ilya Shumilin">
-            </div>
-            <p><strong>Ilya Shumilin</strong><br>Coach / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInRight">
-            <div><img src="/img//portrait/jamila-amini.jpg" class="responsive" alt="Jamila Amini"></div>
-            <p><strong>Jamila Amini</strong><br>Student / Bern</p>
-        </div>
-        <div class="col s6 m3 l2 animated delay02s" data-animation="fadeInRight">
-            <div><img src="/img//portrait/julia-sharonova.jpg" class="responsive" alt="Julia Sharonova">
-            </div>
-            <p><strong>Julia Sharonova</strong><br>Coach / Zürich</p>
-        </div>
-
-        <div class="col s6 m3 l2 animated" data-animation="fadeInRight">
-            <div><img src="/img//portrait/juliana-mourisca.jpg" class="responsive"
-                      alt="Juliana Mourisca"></div>
-            <p><strong>Juliana Mourisca</strong><br>Mentor / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInRight">
-            <div><img src="/img//portrait/kurt-kammermann.jpg" class="responsive" alt="Kurt Kammermann">
-            </div>
-            <p><strong>Kurt Kammermann</strong><br>Mentor / Zürich / Bern</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInDown">
-            <div><img src="/img//portrait/lena-goetsch.jpg" class="responsive" alt="Lena Götsch"></div>
-            <p><strong>Lena Götsch</strong><br>Mentor / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInUp">
-            <div><img src="/img//portrait/lhamo-gakyitsang.jpg" class="responsive"
-                      alt="Lhamo Gakyitsang"></div>
-            <p><strong>Lhamo Gakyitsang</strong><br>Student / Bern</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInRight">
-            <div><img src="/img//portrait/luana-laederach.jpg" class="responsive" alt="Luana Läderach">
-            </div>
-            <p><strong>Luana Läderach</strong><br>Media producer</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInLeft">
-            <div><img src="/img//portrait/luc-hutter.jpg" class="responsive" alt="Luc Hutter"></div>
-            <p><strong>Luc Hutter</strong><br>Mentor / Bern</p>
-        </div>
-
-
-        <div class="col s6 m3 l2 animated" data-animation="fadeInLeft">
-            <div><img src="/img//portrait/Monorm.jpg" class="responsive" alt="Madam Monorom"></div>
-            <p><strong>Madam Monorom</strong><br>Lead Teacher / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated delay04s" data-animation="fadeInLeft">
-            <div><img src="/img//portrait/mahmoud-hallal.jpg" class="responsive" alt="Mahmoud Hallal">
-            </div>
-            <p><strong>Mahmoud Hallal</strong><br>Mentor / Bern</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInRight">
-            <div><img src="/img//portrait/mannar-hielal.jpg" class="responsive" alt="Mannar Hielal">
-            </div>
-            <p><strong>Mannar Hielal</strong><br>Student / Bern</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInUp">
-            <div><img src="/img//portrait/manuel-linder.jpg" class="responsive" alt="Manuel Linder">
-            </div>
-            <p><strong>Manuel Linder</strong><br>Mentor / Bern</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInDown">
-            <div><img src="/img//portrait/marco-jakob.jpg" class="responsive" alt="Marco Jakob"></div>
-            <p><strong>Marco Jakob</strong><br>Teaching Council
-            </p>
-        </div>
-        <div class="col s6 m3 l2 animated delay02s" data-animation="fadeInUp">
-            <div><img src="/img//portrait/markus-gallagher.jpg" class="responsive"
-                      alt="Markus Gallagher"></div>
-            <p><strong>Markus Gallagher</strong><br>Coach / Bern</p>
-        </div>
-
-
-        <div class="col s6 m3 l2 animated" data-animation="fadeInDown">
-            <div><img src="/img//portrait/martin-baur.jpg" class="responsive" alt="Martin Baur"></div>
-            <p><strong>Martin Baur</strong><br>Coach / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated delay04s" data-animation="fadeInUp">
-            <div><img src="/img//portrait/matthias-hueni.jpg" class="responsive" alt="Matthias Hüni">
-            </div>
-            <p><strong>Matthias Hüni</strong><br>Lead Teacher / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInUp">
-            <div><img src="/img//portrait/maximilian-sutkowski.jpg" class="responsive"
-                      alt="Maximilian Sutkowski"></div>
-            <p><strong>Maximilian Sutkowski</strong><br>Mentor / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInRight">
-            <div><img src="/img//portrait/mohamad-husam-ebish.jpg" class="responsive"
-                      alt="Mohamad Husam Ebish"></div>
-            <p><strong>Mohamad Husam Ebish</strong><br>Student / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInLeft">
-            <div><img src="/img//portrait/mohammad-altahan.jpg" class="responsive"
-                      alt="Mohammad Altahan"></div>
-            <p><strong>Mohammad Altahan</strong><br>Student / Bern</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInRight">
-            <div><img src="/img//portrait/mohammad-hadi-soroush.jpg" class="responsive"
-                      alt="Mohammad Hadi Soroush"></div>
-            <p><strong>Mohammad Hadi Soroush</strong><br>Student / Zürich</p>
-        </div>
-
-
-        <div class="col s6 m3 l2 animated" data-animation="fadeInDown">
-            <div><img src="/img//portrait/mohammed-khairi.jpg" class="responsive" alt="Mohammed Khairi">
-            </div>
-            <p><strong>Mohammed Khairi</strong><br>Student / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInRight">
-            <div><img src="/img//portrait/muhammad-bashir-karimi.jpg" class="responsive"
-                      alt="Muhammad Bashir Karimi"></div>
-            <p><strong>Muhammad Bashir Karimi</strong><br>Student / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInLeft">
-            <div><img src="/img//portrait/nick-niles.jpg" class="responsive" alt="Nick Niles"></div>
-            <p><strong>Nick Niles</strong><br>Mentor / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInUp">
-            <div><img src="/img//portrait/nicolas-perrenoud.jpg" class="responsive"
-                      alt="Nicolas Perrenoud"></div>
-            <p><strong>Nicolas Perrenoud</strong><br>Coach / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInRight">
-            <div><img src="/img//portrait/oleg-lavrovsky.jpg" class="responsive" alt="Oleg Lavrovsky">
-            </div>
-            <p><strong>Oleg Lavrovsky</strong><br>Coach / Bern</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInLeft">
-            <div><img src="/img//portrait/rafat-daghmach.jpg" class="responsive" alt="Rafat Daghmach">
-            </div>
-            <p><strong>Rafat Daghmach</strong><br>Student / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInDown">
-            <div><img src="/img//portrait/rami-jumaah.jpg" class="responsive" alt="Rami Jumaah"></div>
-            <p><strong>Rami Jumaah</strong><br>Student / Bern</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInRight">
-            <div><img src="/img//portrait/ranny-kaddoura.jpg" class="responsive" alt="Ranny Kaddoura">
-            </div>
-            <p><strong>Ranny Kaddoura</strong><br>Student / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInUp">
-            <div><img src="/img//portrait/raphael-gaus.jpg" class="responsive" alt="Raphael Gaus"></div>
-            <p><strong>Raphael Gaus</strong><br>Mentor / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated delay02s" data-animation="fadeInUp">
-            <div><img src="/img//portrait/sangeerththani-ramesh.jpg" class="responsive"
-                      alt="Sangeerththani Ramesh"></div>
-            <p><strong>Sangeerththani Ramesh</strong><br>Student / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInDown">
-            <div><img src="/img//portrait/sergei-schaub.jpg" class="responsive" alt="Sergei Schaub">
-            </div>
-            <p><strong>Sergei Schaub</strong><br>Mentor / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInRight">
-            <div><img src="/img//portrait/stefan-schaermeli.jpg" class="responsive"
-                      alt="Stefan Schärmeli"></div>
-            <p><strong>Stefan Schärmeli</strong><br>Coach / Bern</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInLeft">
-            <div><img src="/img//portrait/stefanie-hess.jpg" class="responsive" alt="Stefanie Hess">
-            </div>
-            <p><strong>Stefanie Hess</strong><br>Mentor / Bern</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInRight">
-            <div><img src="/img//portrait/sujeevan-jeyapalan.jpg" class="responsive"
-                      alt="Sujeevan Jeyapalan"></div>
-            <p><strong>Sujeevan Jeyapalan</strong><br>Student / Bern</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInDown">
-            <div><img src="/img//portrait/sunita-asnani.jpg" class="responsive" alt="Sunita Asnani">
-            </div>
-            <p><strong>Sunita Asnani</strong><br>Social Council
-            </p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInUp">
-            <div><img src="/img//portrait/tenzin-dhondup-gyadhotsang.jpg" class="responsive"
-                      alt="Tenzin Dhondup Gyadhotsang"></div>
-            <p><strong>Tenzin Gyadhotsang</strong><br>Student / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInLeft">
-            <div><img src="/img//portrait/tesfamichael-afewerki.jpg" class="responsive"
-                      alt="Tesfamichael Afewerki"></div>
-            <p><strong>Tesfamichael Afewerki</strong><br>Student / Bern</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInRight">
-            <div><img src="/img//portrait/visakha-thongpetsavong.jpg" class="responsive"
-                      alt="Visakha Thongpetsavong"></div>
-            <p><strong>Visakha Thongpetsavong</strong><br>Mentor / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated" data-animation="fadeInUp">
-            <div><img src="/img//portrait/yoseph-endrias-lechebo.jpg" class="responsive"
-                      alt="Yoseph Endrias Lechebo"></div>
-            <p><strong>Yoseph Lechebo</strong><br>Student / Zürich</p>
-        </div>
-        <div class="col s6 m3 l2 animated delay04s" data-animation="fadeInUp">
-            <div><img src="/img//portrait/yusup-khashbulatov.jpg" class="responsive"
-                      alt="Yusup Khashbulatov"></div>
-            <p><strong>Yusup Khashbulatov</strong><br>Student / Bern</p>
-        </div>
+        {{end}}
     </div>
     <!-- end row -->
     <hr class="whitespace">
