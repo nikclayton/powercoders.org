@@ -1,6 +1,6 @@
 ---
 title: "Program"
-sectiontitle: "Program"
+section_title: "Program"
 image: /img/IMG_2230-1.jpg
 values:
   - heading: "Shade-grown coffee"

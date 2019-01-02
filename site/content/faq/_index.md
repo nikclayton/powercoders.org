@@ -1,6 +1,6 @@
 ---
 title: "FAQ"
-sectiontitle: "Frequently Asked Questions "
+section_title: "Frequently Asked Questions "
 image: /img/faq.jpg
 values:
   - heading: "Shade-grown coffee"
