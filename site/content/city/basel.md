@@ -128,4 +128,3 @@ partner:
     link: 'http://www.baselhack.ch/'
     name: baselhack
 ---
-
