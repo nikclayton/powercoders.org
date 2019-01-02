@@ -18,38 +18,37 @@ sections:
         - header: How was Powercoders started?
           text: >-
             It all started with a trip to the United States. The American government invited an
-                entrepreneur of each European country.
+            entrepreneur of each European country.
 
 
             Founder Christian Hirsig met there two entrepreneurs, one with a cooking school for refugees,
-                one with a coding academy for women. At this time, the refugee crisis in Europe was all over
-                the news. Driven by the energy to help the idea of Powercoders was born.
+            one with a coding academy for women. At this time, the refugee crisis in Europe was all over
+            the news. Driven by the energy to help the idea of Powercoders was born.
         - header: Who can participate?
           text: >-
             Talented refugees with B and F status and in rare cases N, independent from their place of
-                living, as long as they are allowed to travel.
+            living, as long as they are allowed to travel.
         - header: What does it cost?
           text: >-
             There are three parties who support Powercoders. The companies pay an education fee to
-                Powercoders during internship (CHF 2'000/m already including all the costs like salary), the
-                cantons have to support Powercoders and if the students eventually are hired they are paying
-                a certain amount back on a voluntary base.
+            Powercoders during internship (CHF 2'000/m already including all the costs like salary), the
+            cantons have to support Powercoders and if the students eventually are hired they are paying
+            a certain amount back on a voluntary base.
         - header: How is Powercoders financed?
           text: >-
             Powercoders is a non profit organisation that depends on volunteers. To cover our costs, we
-                are supported by the Swiss government, foundations, companies and individuals. Powercoders
-                appreciates every [donation](https://donorbox.org/donate-once).
-
+            are supported by the Swiss government, foundations, companies and individuals. Powercoders
+            appreciates every [donation](https://donorbox.org/donate-once).
         - header: Why is a coaching included?
           text: >-
             Our participants need more than technical knowledge in order to achieve a sustainable
-                integration into employment.That’s why our program includes a coaching. Each participant is
-                accompanied by one volunteering coach.
+            integration into employment.That’s why our program includes a coaching. Each participant is
+            accompanied by one volunteering coach.
         - header: Who can become a coach?
           text: >-
             Everyone who is motivated to learn about coaching and mentoring, interested in other cultures
-                and willing to spend time with his or her coachee once every week. There are no IT skills
-                needed.
+            and willing to spend time with his or her coachee once every week. There are no IT skills
+            needed.
         - header: How long does the coaching lasts?
           text: >-
             Coaching starts during a program and lasts until the end of the internship.
@@ -59,34 +58,33 @@ sections:
         - header: Who can become a trainer?
           text: >-
             IT professionals who want to support participants solving IT challenges and help teaching for
-                some days in the afternoons. There is no teaching experience needed.
+            some days in the afternoons. There is no teaching experience needed.
         - header: What IT skills are needed for a trainer?
           text: >-
             We are looking for a different skill set. So everyone willing to support as a trainer is
-                welcome to apply.
+            welcome to apply.
         - header: What kind of programming skills are being taught during the first 3 months bootcamp?
           text: >-
             Participants at Powercoders learn HTML, CSS, and JavaScript in the first seven weeks. They
-                also learn about GIT, UX and Agile Project Management. The second part of the course - after
-                Career Day - focuses more on server-side technologies and programming languages and
-                frameworks that are being used by our internship companies.
+            also learn about GIT, UX and Agile Project Management. The second part of the course - after
+            Career Day - focuses more on server-side technologies and programming languages and
+            frameworks that are being used by our internship companies.
         - header: Is a trainer paid?
           text: >-
             The training is voluntary work. Powercoders is covering parts of the expenses.
         - header: What is the career day?
           text: >-
             At the career day we are simulating a real job finding situation. Every company is presenting
-                the internship they want to offer. Afterwards every company has a booth and the participants
-                can stop by. The goal of a participating company is to invite 3 to 5 participants for an
-                second interview in the following week.
+            the internship they want to offer. Afterwards every company has a booth and the participants
+            can stop by. The goal of a participating company is to invite 3 to 5 participants for an
+            second interview in the following week.
         - header: Is a donation tax-deductible?
           text: >-
             Yes, donations are tax-deductible, as Powercoders is a registered non-profit in
-                Switzerland.
+            Switzerland.
         - header: How do I get a tax receipt for a donation?
           text: >-
             You will receive a tax receipt after the end of each tax year.
-
 
   - name: Participant
     items:
