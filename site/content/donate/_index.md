@@ -13,7 +13,7 @@ text: |-
   With an annual donation you support our work in the long term. You will receive a report
   of our impact at the end of every year.
 
-  #### ***CHRISTMAS SPECIAL***
+  #### CHRISTMAS SPECIAL
 
   Make a donation as a Christmas gift and hand over a donation certificate to your beloved ones.
 
