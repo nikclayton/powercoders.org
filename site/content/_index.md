@@ -4,7 +4,7 @@ subtitle: Impacting lives by teaching how to code
 image: /img/start.jpg
 
 intro:
-  heading: >-
+  header: >-
     Over 65.3 million refugees in the world. Millions of vacant IT jobs due to
     digitalization. Two problems, one solution:
   text: A coding academy for refugees.
@@ -24,30 +24,30 @@ get_involved:
     companies and IT departments.
 
 program:
-  - heading: Participant
+  - header: Participant
     text: Are you a refugee eager to find your way into the IT industry?
     link: program/#participant
     link_text: apply now
     fade_in: Left
-  - heading: Coach
+  - header: Coach
     text: Do you want to support a refugee in becoming successfully integrated in the local IT labor market?
     link: program/#coach
     link_text: apply as coach
     fade_in: Up
-  - heading: Trainer
+  - header: Trainer
     text: Are you an IT professional who likes to share their knowledge with newcomers?
     link: program/#trainer
     link_text: apply as trainer
     fade_in: Up
-  - heading: Company
+  - header: Company
     text: Are you an IT company looking for talent no matter from where it comes from?
     link: program/#company
     link_text: offer an intership
     fade_in: Right
 
 latest:
-  - heading: Donate
-    heading_icon: fa-graduation-cap
+  - header: Donate
+    header_icon: fa-graduation-cap
     text: >-
         Powercoders is a non-profit organization. We rely on donations to continue our work
         helping refugees secure a better future.
@@ -56,8 +56,8 @@ latest:
     link_text: donate
     fade_in: Up
 
-  - heading: Wunsch-Schloss 2018
-    heading_icon: fa-tv
+  - header: Wunsch-Schloss 2018
+    header_icon: fa-tv
     text: >-
         Founder Christian Hirsig had the chance to address his wish to politics and economics at
         "Wunsch-Schloss 2018".
@@ -66,8 +66,8 @@ latest:
     link_text: watch
     fade_in: Up
 
-  - heading:  Powercoders Story
-    heading_icon: fa-readme
+  - header:  Powercoders Story
+    header_icon: fa-readme
     text: >-
         In 2014 Husam fled the war in Syria and is now interning at Swiss Life. This is his story.
 
@@ -80,7 +80,7 @@ teaser_image2:
   text: A vacant IT job can be filled with a displaced person.
 
 story:
-  heading: The Story of Powercoders
+  header: The Story of Powercoders
   text: >-
     “We all can do more, we all can do better.”
 

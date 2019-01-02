@@ -1,0 +1,14 @@
+{{ if .section.name }}
+<h2>{{.section.name}}</h2>
+{{ end }}
+
+<ul class="collapsible">
+    {{ range $el := .section.items }}
+    <li>
+        <div class="collapsible-header">{{$el.header}}</div>
+        <div class="collapsible-body">
+            {{$el.text | markdownify}}
+        </div>
+    </li>
+    {{end}}
+</ul>

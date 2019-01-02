@@ -2,7 +2,7 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "section_title" .Params.section_title) }}
 
-{{ partial "intro" (dict "heading" .Params.intro.heading "text" .Params.intro.text )}}
+{{ partial "intro" (dict "header" .Params.intro.header "text" .Params.intro.text )}}
 
 {{ partial "parallax" (dict "parallax" .Params.teaser_image )}}
 
@@ -14,7 +14,7 @@
             {{ range $el := .Params.program }}
             <div class="col s12 m6 l3 hoverable btn-box animated" data-animation="fadeIn{{$el.fade_in}}">
                 <a href="{{$el.link}}">
-                    <h2>{{$el.heading}}</h2>
+                    <h2>{{$el.header}}</h2>
                     <p>{{$el.text}}</p>
                     <object><a href="{{$el.link}}"
                                class="btn waves-effect waves-light pwc-red">{{$el.link_text}}</a></object>
@@ -33,7 +33,7 @@
         {{ range $el := .Params.latest }}
         <div class="col s12 m6 l4 hoverable latest-box animated" data-animation="fadeIn{{$el.fade_in}}">
             <a href="{{$el.link}}" target="_blank">
-                <h6><i class="fas {{$el.heading_icon}} fa-2x"></i>{{$el.heading}}</h6>
+                <h6><i class="fas {{$el.header_icon}} fa-2x"></i>{{$el.header}}</h6>
                 <p>{{$el.text}}</p>
                 <p class="latest">{{$el.link_text}} <i class="fas fa-angle-double-right"></i></p>
             </a>
@@ -48,7 +48,7 @@
 <div class="container">
     <div class="row section">
         <div class="col s12 offset-l2 l8">
-            <h2>{{.Params.story.heading}}</h2>
+            <h2>{{.Params.story.header}}</h2>
             <p>{{.Params.story.text | markdownify}}</p>
             <div class="video-container">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/{{.Params.story.video_id}}" frameborder="0"

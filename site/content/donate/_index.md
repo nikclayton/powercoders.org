@@ -19,7 +19,7 @@ text: >-
   and feel free to reach out to us (contact included in presentation).
 
 donate:
-  heading: Donate
+  header: Donate
   text: We appreciate your support - you impact more people for a better future.
   link: https://donorbox.org/donatepowercoders
   call_to_action: Donate now

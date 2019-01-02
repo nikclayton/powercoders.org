@@ -15,10 +15,10 @@ text: >-
 
 
   If you are a company and would like to become member, feel free to contact us via
-  [info@powercoders.org](info@powercoders.org).
+  [info@powercoders.org](mailto:info@powercoders.org).
 
 member:
-  heading: Be a Member
+  header: Be a Member
   text: We appreciate your support - you impact more people for a better future.
   link: https://donorbox.org/powermembers
   call_to_action: Become a member now
