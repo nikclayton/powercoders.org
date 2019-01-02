@@ -14,6 +14,7 @@ text: >-
   volunteers for their great support.
 
 
+  ![PowerCoders Bern](/img/IMG_2230-1.jpg)
 
 
   Graduation: 07. April 2017
