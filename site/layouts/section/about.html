@@ -33,13 +33,11 @@
         {{ range $el := .Params.team.members }}
         <div class="col s6 m3 l2 animated" data-animation='fadeIn{{ index (first 1 (shuffle (slice "Left" "Right" "Up"))) 0 }}'>
             <div><img src="{{$el.image}}" class="responsive"
-                      alt="Abdul Nawaz Bugti"></div>
+                      alt="{{$el.name}}"></div>
             <p><strong>{{$el.name}}</strong><br>{{$el.description}}
             </p>
         </div>
         {{end}}
     </div>
-    <!-- end row -->
-    <hr class="whitespace">
 </div>
 {{ end }}

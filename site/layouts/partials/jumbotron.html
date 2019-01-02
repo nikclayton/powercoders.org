@@ -1,3 +1,4 @@
+{{ if .imageUrl }}
 <div class="parallax-container valign-wrapper">
     {{ if .subtitle }}
     <div class="container center">
@@ -6,6 +7,7 @@
     {{ end }}
     <div class="parallax"><img src="{{.imageUrl}}" alt="{{.title}}"></div>
 </div>
+{{ end }}
 {{ if .section_title }}
 <h1 class="center">{{.section_title}}</h1>
 {{ end }}

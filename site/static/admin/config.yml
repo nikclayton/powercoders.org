@@ -5,28 +5,6 @@ media_folder: site/static/img
 public_folder: img
 
 collections:
-  - name: post
-    label: Post
-    folder: site/content/post
-    create: true
-    fields:
-      - label: Title
-        name: title
-        widget: string
-      - label: Publish Date
-        name: date
-        widget: datetime
-      - label: Intro Blurb
-        name: description
-        widget: text
-      - label: Image
-        name: image
-        widget: image
-        required: false
-      - label: Body
-        name: body
-        widget: markdown
-
   - name: pages
     label: Pages
     files:
@@ -373,3 +351,25 @@ collections:
                   - label: Link
                     name: link
                     widget: string
+
+  - name: city
+    label: City
+    folder: site/content/city
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - label: Intro Blurb
+        name: description
+        widget: text
+      - label: Image
+        name: image
+        widget: image
+        required: false
+      - label: Body
+        name: body
+        widget: markdown

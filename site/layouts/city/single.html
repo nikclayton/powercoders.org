@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "section_title" .Params.section_title) }}
+
+<div class="grey lighten-4 section">
+    <div class="container">
+        <div class="row">
+            <div class="col s12 offset-l2 l8">
+                <h2>{{ .Params.team.header }}</h2>
+            </div>
+        </div>
+
+        <div class="row portrait">
+            {{ range $el := .Params.team.members }}
+            <div class="col s6 m3 l2 animated"
+                 data-animation='fadeIn{{ index (first 1 (shuffle (slice "Left" "Right" "Up"))) 0 }}'>
+                <div><img src="{{$el.image}}" class="responsive"
+                          alt="{{$el.name}}"></div>
+                <p><strong>{{$el.name}}</strong><br>{{$el.description}}
+                </p>
+            </div>
+            {{end}}
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row section">
+        <div class="col s12 offset-l2 l8">
+            <div class="row">
+                <div class="col s12">
+                    <h2>Partner</h2>
+                </div>
+                {{ range $el := .Params.partner }}
+                <div class="col s12 m6">
+                    <a href="{{$el.link}}" target="_blank">
+                        <p><img src="{{$el.image}}"
+                                alt="{{$el.name}}" class="responsive"></p>
+                    </a>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
+
+
+{{ end }}

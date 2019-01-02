@@ -5,7 +5,7 @@ image: /img/blick.jpg
 
 text: >-
   If you are a media person please get in touch with us for our press releases and our press kit:
-  [press@powercoders.org](press@powercoders.org)
+  [press@powercoders.org]](mailto:press@powercoders.org)
 
 media:
   - year: 2018
