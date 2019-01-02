@@ -107,5 +107,36 @@
 </div>
 {{end}}
 
+{{ if .Params.industry_partner }}
+<div class="container">
+    <div class="row section">
+        <div class="col s12 offset-l2 l8">
+            <div class="row">
+                <div class="col s12">
+                    <h6>Industry Partner</h6>
+                </div>
+                {{ range $el := .Params.industry_partner }}
+                <div class="col s6 m4">
+                    <a href="{{$el.link}}" target="_blank">
+                        <p><img src="{{$el.image}}"
+                                alt="{{$el.name}}" class="responsive"></p>
+                    </a>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
+{{end}}
+
+<div class="container">
+    <div class="row">
+        <div class="col s12 offset-l2 l8">
+            <p><a href="/program/"> <i class="fas fa-arrow-alt-circle-left"></i> back to program</a>
+            </p>
+        </div>
+    </div>
+    <!-- end row -->
+</div>
 
 {{ end }}

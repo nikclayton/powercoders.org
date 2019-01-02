@@ -63,6 +63,42 @@ partner:
     name: impacthub
   - link: 'http://www.espace-dickens.ch/web/'
     name: espace-dickens
-  - {}
+    image: /img/espacedickens.png
+  - image: /img/digicomp.png
+    link: 'https://www.digicomp.ch/'
+    name: digicomp
+
+industry_partner:
+  - link: http://www.sbb.ch
+    image: /img/sbb.png
+    name: sbb
+  - link: https://coteries.com/
+    image: /img/coteries.png
+    name: coteries
+  - link: https://www.mindmaze.com/
+    image: /img/mindmaze.png
+    name: mindmaze
+  - link: https://www.liip.ch/en
+    image: /img/liip.jpg
+    name: liip
+  - link: https://swisscom.ch
+    image: /img/swisscom.png
+    name: swisscom
+  - link: https://cruncher.ch/
+    image: /img/cruncher.png
+    name: cruncher
+  - link: https://www.namics.com
+    image: /img/namics.png
+    name: namics
+  - link: https://www.ifrc.org
+    image: /img/ifrc.png
+    name: ifrc
+  - link: https://www.sensefly.com/
+    image: /img/sensefly.jpg
+    name: sensefly
+  - link: https://www.vnv.ch/
+    image: /img/vnv.png
+    name: vnv
+
 ---
 
