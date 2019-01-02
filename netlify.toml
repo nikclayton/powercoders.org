@@ -6,3 +6,47 @@
 
 [context.deploy-preview]
   command = "yarn build-preview"
+
+[[redirects]]
+  from = "/index.php"
+  to = "/"
+
+[[redirects]]
+  from = "/about/index.php"
+  to = "/about/"
+
+[[redirects]]
+  from = "/city/basel/index.php"
+  to = "/city/basel/"
+
+[[redirects]]
+  from = "/city/bern/index.php"
+  to = "/city/bern/"
+
+[[redirects]]
+  from = "/donate/index.php"
+  to = "/donate/"
+
+[[redirects]]
+  from = "/faq/index.php"
+  to = "/faq/"
+
+[[redirects]]
+  from = "/city/lausanne/index.php"
+  to = "/city/lausanne/"
+
+[[redirects]]
+  from = "/membership/index.php"
+  to = "/membership/"
+
+[[redirects]]
+  from = "/press/index.php"
+  to = "/press/"
+
+[[redirects]]
+  from = "/program/index.php"
+  to = "/program/"
+
+[[redirects]]
+  from = "/city/zuerich/index.php"
+  to = "/city/"
