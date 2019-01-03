@@ -237,7 +237,8 @@ collections:
                 widget: image
               - label: Align
                 name: align
-                widget: string
+                widget: select
+                options: ["left", "right"]
 
       - file: site/content/press/_index.md
         label: Press

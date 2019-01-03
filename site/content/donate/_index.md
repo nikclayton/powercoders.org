@@ -37,7 +37,7 @@ causes:
          <a href="https://donorbox.org/bon-appetit" class="btn waves-effect waves-light pwc-red">Donate Food!</a>
 
     image: /img/donation_bonapp.jpg
-    align: left
+    align: right
 
   - text: |-
         ## Transport
@@ -54,7 +54,7 @@ causes:
 
         <a href="https://donorbox.org/transport" class="btn waves-effect waves-light pwc-red">Donate Transport!</a>
     image: /img/donation_transport.jpg
-    align: right
+    align: left
 
 
   - text: |-
@@ -76,7 +76,7 @@ causes:
         <a href="https://donorbox.org/wensday-activity" class="btn waves-effect waves-light pwc-red">Donate Food!</a>
 
     image: /img/donation_activites.jpg
-    align: left
+    align: right
 
 
 ---
