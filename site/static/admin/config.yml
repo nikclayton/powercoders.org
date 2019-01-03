@@ -126,7 +126,7 @@ collections:
                 widget: select
                 options: ["Large", "Medium", "Small"]
                 default: "Large"
-                
+
       - file: site/content/about/_index.md
         label: About
         name: about
