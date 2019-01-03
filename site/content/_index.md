@@ -88,11 +88,11 @@ partner:
   - image: /img/arcas.jpg
     link: 'https://www.arcas-foundation.ch'
     name: Arcas
-  - Size: s6 m2
+  - size: s6 m2
     image: /img/Adobe.png
     link: 'https://www.adobe.com'
     name: Adobe
-  - Size: s6 m2
+  - size: s6 m2
     image: /img/impacthub.jpg
     link: 'http://www.impacthub.net'
     name: ImpactHub
