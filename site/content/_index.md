@@ -92,20 +92,20 @@ partner:
   - image: /img/schweizerische-eidgenossenschaft.png
     name: Schweizerische Eidgenossenschaft
     link: https://www.sem.admin.ch
-    size: Large
+    size: s12 m6
 
   - image: /img/arcas.jpg
     name: Arcas
     link: https://www.arcas-foundation.ch
-    size: Large
+    size: s12 m6
 
   - image: /img/Adobe.png
     name: Adobe
     link: https://www.adobe.com
-    size: Small
+    size: s6 m4
 
   - image: /img/impacthub.jpg
     name: ImpactHub
     link: http://www.impacthub.net
-    size: Small
+    size: s6 m4
 ---

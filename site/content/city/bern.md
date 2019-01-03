@@ -115,19 +115,19 @@ partner:
   - image: /img/migros-kulturprozent.jpg
     link: 'https://www.migros-kulturprozent.ch'
     name: migros-kulturprozent
-    size: 'Large'
+    size: 's12 m6'
   - image: /img/raiffeisen.jpg
     link: 'https://www.raiffeisen.ch/'
     name: raiffeisen
-    size: 'Large'
+    size: 's12 m6'
   - image: /img/effinger.jpg
     link: 'https://www.effinger.ch/'
     name: effinger
-    size: 'Medium'
+    size: 's6 m4'
   - image: /img/p3b.jpg
     link: 'https://www.p3b.ch/'
     name: p3b
-    size: 'Medium'
+    size: 's6 m4'
 
 industry_partner:
   - link: http://www.sbb.ch

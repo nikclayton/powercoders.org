@@ -124,9 +124,11 @@ collections:
               - label: size
                 name: Size
                 widget: select
-                options: ["Large", "Medium", "Small"]
-                default: "Large"
-
+                default: "s12 m6"
+                options:
+                    - { label: "Large", value: "s12 m6" }
+                    - { label: "Medium", value: "s6 m4" }
+                    - { label: "Small", value: "s6 m2" }
       - file: site/content/about/_index.md
         label: About
         name: about
@@ -472,8 +474,11 @@ collections:
           - label: size
             name: Size
             widget: select
-            options: ["Large", "Medium", "Small"]
-            default: "Large"
+            default: "s12 m6"
+            options:
+                - { label: "Large", value: "s12 m6" }
+                - { label: "Medium", value: "s6 m4" }
+                - { label: "Small", value: "s6 m2" }
       - label: Industry Partner
         name: industry_partner
         required: false

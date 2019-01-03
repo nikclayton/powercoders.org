@@ -138,23 +138,23 @@ partner:
   - image: /img/arcas.jpg
     link: 'https://www.arcas-foundation.ch'
     name: Arcas
-    size: Large
+    size: s12 m6
   - image: /img/hackzuerich.jpg
     link: 'http://hackzurich.com/'
     name: hackzurich
-    size: Large
+    size: s12 m6
   - image: /img/microsoft.jpg
     link: 'https://www.microsoft.com/de-ch'
     name: microsoft
-    size: Medium
+    size: s6 m4
   - image: /img/impacthub.jpg
     link: 'http://www.impacthub.net/'
     name: impacthub
-    size: Small
+    size: s6 m2
   - image: /img/digicomp.png
     link: 'https://www.digicomp.ch/'
     name: digicomp
-    size: Medium
+    size: s6 m4
 
 industry_partner:
   - link: http://www.sbb.ch

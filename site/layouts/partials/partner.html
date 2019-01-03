@@ -1,5 +1,5 @@
 {{ range $el := .partner }}
-<div class='col {{ if eq $el.size "Small" }}s6 m2{{else if eq $el.size "Medium"}}s6 m4{{else}}s12 m6{{end}}'>
+<div class="col {{$el.size}}">
     <a href="{{$el.link}}" target="_blank">
         <p><img src="{{$el.image}}"
                 alt="{{$el.name}}" class="responsive"></p>
