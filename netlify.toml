@@ -50,3 +50,11 @@
 [[redirects]]
   from = "/city/zuerich/index.php"
   to = "/city/"
+
+[[redirects]]
+  from = "/privacy-policy/index.php"
+  to = "/privacy-policy/"
+
+[[redirects]]
+  from = "/terms-and-conditions/index.php"
+  to = "/terms-and-conditions/"

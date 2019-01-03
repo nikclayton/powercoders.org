@@ -393,8 +393,8 @@ collections:
                     name: link
                     widget: string
 
-  - name: city
-    label: City
+  - name: cities
+    label: Cities
     folder: site/content/city
     create: true
     fields:
@@ -494,3 +494,50 @@ collections:
           - label: link
             name: link
             widget: string
+
+  - name: helpers
+    label: Helpers
+    files:
+      - file: site/content/privacy-policy/_index.md
+        label: Privacy Policy
+        name: privacy_policy
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Subtitle
+            name: subtitle
+            widget: string
+          - label: Image
+            name: image
+            widget: image
+          - label: Body
+            name: body
+            widget: markdown
+          - label: Exclude from Search
+            name: search_exclude
+            widget: select
+            default: "no"
+            options: ["yes", "no"]
+
+      - file: site/content/terms-and-conditions/_index.md
+        label: Terms and Conditions
+        name: terms_and_conditions
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Subtitle
+            name: subtitle
+            widget: string
+          - label: Image
+            name: image
+            widget: image
+          - label: Body
+            name: body
+            widget: markdown
+          - label: Exclude from Search
+            name: search_exclude
+            widget: select
+            default: "no"
+            options: ["yes", "no"]

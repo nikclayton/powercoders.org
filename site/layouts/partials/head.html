@@ -12,7 +12,13 @@
     <meta name="language" content="en">
     <meta name="expires" content="never">
     <meta name="revisit-after" content="1 day">
-    <meta name="ROBOTS" content="INDEX,FOLLOW">
+
+    {{ if eq .Params.search_exclude true }}
+    <meta name="robots" content="noindex,nofollow">
+    {{ else }}
+    <meta name="robots" content="index,follow">
+    {{end}}
+
     <meta property="og:image" content="/img/powercoders-meta.png"/>
 
     <!-- Favicon  -->
@@ -25,7 +31,8 @@
     <meta name="theme-color" content="#ffffff">
 
     <!-- CSS  -->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+          integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link href="/css/materialize.css" type="text/css" rel="stylesheet" media="all"/>
     <link href="/css/main.css" type="text/css" rel="stylesheet" media="all"/>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
