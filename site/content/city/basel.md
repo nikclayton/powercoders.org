@@ -119,17 +119,17 @@ partner:
   - image: /img/microsoft.jpg
     link: 'https://www.microsoft.com/de-ch'
     name: microsoft
-  - size: s6 m4
-    image: /img/impacthub.jpg
+  - image: /img/impacthub.jpg
     link: 'http://www.impacthub.net'
     name: ImpactHub
-  - size: s6 m4
-    image: /img/digicomp.png
+    size: s6 m2
+  - image: /img/digicomp.png
     link: 'https://www.digicomp.ch/'
     name: digicomp
-  - size: s6 m4
-    image: /img/basel_hack.jpg
+    size: s6 m2
+  - image: /img/basel_hack.jpg
     link: 'http://www.baselhack.ch/'
     name: baselhack
+    size: s6 m2
 ---
 
