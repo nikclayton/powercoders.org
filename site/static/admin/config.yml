@@ -63,7 +63,8 @@ collections:
                 widget: string
               - label: Fade In Animation
                 name: fade_in
-                widget: string
+                widget: select
+                options: ["Left", "Right", "Up", "Down"]
           - label: Latest
             name: latest
             widget: list
@@ -85,7 +86,8 @@ collections:
                 widget: string
               - label: Fade In Animation
                 name: fade_in
-                widget: string
+                widget: select
+                options: ["Left", "Right", "Up", "Down"]
           - label: Teaser Image 2
             name: teaser_image2
             widget: object
@@ -119,7 +121,12 @@ collections:
               - label: link
                 name: link
                 widget: string
-
+              - label: size
+                name: Size
+                widget: select
+                options: ["Large", "Medium", "Small"]
+                default: "Large"
+                
       - file: site/content/about/_index.md
         label: About
         name: about
@@ -357,7 +364,8 @@ collections:
                     widget: string
                   - label: Fade In
                     name: fade_in
-                    widget: string
+                    widget: select
+                    options: ["Left", "Right", "Up", "Down"]
                   - label: Call to action
                     name: call_to_action
                     widget: string
@@ -461,6 +469,11 @@ collections:
           - label: link
             name: link
             widget: string
+          - label: size
+            name: Size
+            widget: select
+            options: ["Large", "Medium", "Small"]
+            default: "Large"
       - label: Industry Partner
         name: industry_partner
         required: false

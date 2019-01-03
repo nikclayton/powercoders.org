@@ -54,7 +54,7 @@ latest:
 
     link: donate
     link_text: donate
-    fade_in: Up
+    fade_in: Left
 
   - header: Wunsch-Schloss 2018
     header_icon: fa-tv
@@ -73,7 +73,7 @@ latest:
 
     link: https://twitter.com/CNNMoneyCH/status/995331994224611328
     link_text: watch
-    fade_in: Up
+    fade_in: Right
 
 teaser_image2:
   image: /img/ted-zh.jpg
@@ -92,16 +92,20 @@ partner:
   - image: /img/schweizerische-eidgenossenschaft.png
     name: Schweizerische Eidgenossenschaft
     link: https://www.sem.admin.ch
+    size: Large
 
   - image: /img/arcas.jpg
     name: Arcas
     link: https://www.arcas-foundation.ch
+    size: Large
 
   - image: /img/Adobe.png
     name: Adobe
     link: https://www.adobe.com
+    size: Small
 
   - image: /img/impacthub.jpg
     name: ImpactHub
     link: http://www.impacthub.net
+    size: Small
 ---

@@ -52,21 +52,27 @@ partner:
   - image: /img/arcas.jpg
     link: 'https://www.arcas-foundation.ch'
     name: Arcas
+    size: Large
   - image: /img/lausanne-city.jpg
     link: 'http://www.lausanne.ch/en/'
     name: lausanne
+    size: Medium
   - image: /img/microsoft.jpg
     link: 'https://www.microsoft.com/de-ch'
     name: microsoft
+    size: Medium
   - image: /img/impacthub.jpg
     link: 'http://www.impacthub.net/'
     name: impacthub
+    size: Small
   - link: 'http://www.espace-dickens.ch/web/'
     name: espace-dickens
     image: /img/espacedickens.png
+    size: Small
   - image: /img/digicomp.png
     link: 'https://www.digicomp.ch/'
     name: digicomp
+    size: Small
 
 industry_partner:
   - link: http://www.sbb.ch

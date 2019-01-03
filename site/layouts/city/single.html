@@ -93,14 +93,7 @@
                 <div class="col s12">
                     <h2>Partner</h2>
                 </div>
-                {{ range $el := .Params.partner }}
-                <div class="col s12 m6">
-                    <a href="{{$el.link}}" target="_blank">
-                        <p><img src="{{$el.image}}"
-                                alt="{{$el.name}}" class="responsive"></p>
-                    </a>
-                </div>
-                {{ end }}
+                {{ partial "partner" (dict "partner" .Params.partner )}}
             </div>
         </div>
     </div>

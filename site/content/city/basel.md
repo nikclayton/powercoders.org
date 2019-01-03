@@ -115,16 +115,21 @@ partner:
   - image: /img/arcas.jpg
     link: 'https://www.arcas-foundation.ch/'
     name: arcas-foundation
+    size: 'Large'
   - image: /img/microsoft.jpg
     link: 'https://www.microsoft.com/de-ch'
     name: microsoft
+    size: 'Large'
   - image: /img/impacthub.jpg
     link: 'http://www.impacthub.net'
     name: ImpactHub
+    size: 'Medium'
   - image: /img/digicomp.png
     link: 'https://www.digicomp.ch/'
     name: digicomp
+    size: 'Medium'
   - image: /img/basel_hack.jpg
     link: 'http://www.baselhack.ch/'
     name: baselhack
+    size: 'Medium'
 ---
