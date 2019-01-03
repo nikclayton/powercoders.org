@@ -162,45 +162,45 @@ industry_partner:
     name: sbb
   - link: https://spaces.archilogic.com
     image: /img/archilogic.jpg
-    name: archilogic"
+    name: archilogic
   - link: http://www.buhlergroup.com
     image: /img/buehler.jpg
-    name: buehler"
+    name: buehler
   - link: https://www.business4you.ch
     image: /img/business4you.jpg
-    name: business4you"
+    name: business4you
   - link: https://www.cognizant.com
     image: /img/cognizant.jpg
-    name: cognizant"
+    name: cognizant
   - link: https://www.ecologic.ch
     image: /img/ecologic.jpg
-    name: ecologic"
+    name: ecologic
   - link: http://finance-doc.com
     image: /img/financedoc.jpg
-    name: financedoc"
+    name: financedoc
   - link: https://flake.ch
     image: /img/flake.jpg
-    name: flake"
+    name: flake
   - link: https://www.gebana.com
     image: /img/gebana.jpg
     name: gebana"
   - link: https://www.migros.ch
     image: /img/migros.jpg
-    name: migros"
+    name: migros
   - link: https://www.spinningbytes.com/
     image: /img/spinningbytes.jpg
-    name: spinningbytes"
+    name: spinningbytes
   - link: https://www.starticket.ch
     image: /img/starticket.jpg
-    name: starticket"
+    name: starticket
   - link: https://www.swisslife.ch/
     image: /img/swisslife.jpg
-    name: swisslife"
+    name: swisslife
   - link: https://www.unic.com/
     image: /img/unic.jpg
-    name: unic"
+    name: unic
   - link: https://vshn.ch/
     image: /img/vshn.jpg
-    name: vshn"
+    name: vshn
 ---
 
