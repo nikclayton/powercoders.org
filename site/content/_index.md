@@ -1,5 +1,5 @@
 ---
-title: Startpage
+title: Startpager
 subtitle: Impacting lives by teaching how to code
 image: /img/start.jpg
 intro:
@@ -88,13 +88,13 @@ partner:
   - image: /img/arcas.jpg
     link: 'https://www.arcas-foundation.ch'
     name: Arcas
-  - size: s6 m2
-    image: /img/Adobe.png
+  - image: /img/Adobe.png
     link: 'https://www.adobe.com'
     name: Adobe
-  - size: s6 m2
-    image: /img/impacthub.jpg
+    size: s6 m2
+  - image: /img/impacthub.jpg
     link: 'http://www.impacthub.net'
     name: ImpactHub
+    size: s6 m2
 ---
 
