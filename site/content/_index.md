@@ -50,8 +50,8 @@ program:
 latest:
   - fade_in: Up
     header: Lausanne Info Session
-    link: 'https://goo.gl/forms/6zb0nWUD2df173X52'
-    link_text: ''
+    link: ''
+    link_text: 'https://goo.gl/forms/6zb0nWUD2df173X52'
     text: >
       Powercoders Lausanne second info session will be in Geneva on the 28th of
       January. Join us if you are interested and want to get information about
