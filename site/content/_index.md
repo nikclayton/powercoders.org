@@ -72,6 +72,14 @@ latest:
     text: >-
       In 2014 Husam fled the war in Syria and is now interning at Swiss Life.
       This is his story.
+  - fade_in: Up
+    header: Lausanne Info Session
+    link: 'https://goo.gl/forms/6zb0nWUD2df173X52'
+    link_text: 'https://goo.gl/forms/6zb0nWUD2df173X52'
+    text: >
+      Powercoders Lausanne second info session will be in Geneva on the 28th of
+      January. Join us if you are interested and want to get information about
+      the project and know how to get involved.
 teaser_image2:
   image: /img/ted-zh.jpg
   text: A vacant IT job can be filled with a displaced person.
