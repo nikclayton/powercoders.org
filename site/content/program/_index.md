@@ -48,12 +48,12 @@ roles:
       closest to their place of residence.
 
 
-      <a href="<?= WEBROOT;?>city/powerhouse_lausanne/index.php#student"
-      class="btn waves-effect waves-light pwc-red">Lausanne</a>
+      <a href="<?= WEBROOT;?>city/powerhouse_lausanne/" class="btn waves-effect
+      waves-light pwc-red">Lausanne</a>
 
 
-      <a href="<?= WEBROOT;?>city/istanbul/index.php#student" class="btn
-      waves-effect waves-light pwc-red">Istanbul</a>
+      <a href="<?= WEBROOT;?>city/istanbul/" class="btn waves-effect waves-light
+      pwc-red">Istanbul</a>
 
 
       <p>Sign up for our newsletters so we keep you posted about our events and
