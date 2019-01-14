@@ -95,18 +95,16 @@ roles:
       current programs for opportunities.
 
 
-      <a href="<?= WEBROOT;?>city/basel/index.php" class="btn waves-effect
-      waves-light pwc-red">Basel</a>
+      <a href="/city/basel/index.php" class="btn waves-effect waves-light
+      pwc-red">Basel</a>
 
 
-      <a href="<?= WEBROOT;?>city/powerhouse_lausanne/index.php" class="btn
-      waves-effect waves-light pwc-red">Lausanne</a>
+      <a href="/city/powerhouse_lausanne/index.php" class="btn waves-effect
+      waves-light pwc-red">Lausanne</a>
 
 
-      <a href="<?= WEBROOT;?>city/istanbul/index.php#mentor" class="btn
-      waves-effect waves-light pwc-red">Istanbul</a>
-
-
+      <a href="/city/istanbul/index.php#coach" class="btn waves-effect
+      waves-light pwc-red">Istanbul</a>
 
 
       Sign up for our newsletters so we keep you posted about our events and
