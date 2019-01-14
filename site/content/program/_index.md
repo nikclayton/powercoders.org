@@ -56,8 +56,8 @@ roles:
       pwc-red">Istanbul</a>
 
 
-      <p>Sign up for our newsletters so we keep you posted about our events and
-      next steps.</p>
+      Sign up for our newsletters so we keep you posted about our events and
+      next steps.
 
 
       <a href="http://eepurl.com/c3pB1H" class="btn waves-effect waves-light
