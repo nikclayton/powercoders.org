@@ -15,7 +15,57 @@ text: >-
   IT-companies and IT-departments.
 roles:
   - header: Participant
-    text: "You study 13 weeks full time and then start a 6- to 12-month internship. The program is meant for refugees and disadvantaged citizens.\r\n\n\n\n###### What we Expect\n\n* Basic knowledge in IT\n* English fluency\n* Commitment\n* Full-time availability\n\n###### What we Offer\n\n* Three-month intensive programming course\n* Additional support for laptop, food and transportation where needed\n* Coaching Program\n* Access to an internship lasting between 6 and 12 months\n\n\n\nIf the aforementioned information applies to you, apply to the program closest to their place of residence.\r\n\n\r<p>If the aforementioned information applies to you, apply to the program closest to their place of residence.</p>\n\n<a href=\"<?= WEBROOT;?>city/powerhouse_lausanne/index.php#student\" class=\"btn waves-effect waves-light pwc-red\">Lausanne</a>\n\n<a href=\"<?= WEBROOT;?>city/istanbul/index.php#student\" class=\"btn waves-effect waves-light pwc-red\">Istanbul</a>\n\n<p>Sign up for our newsletters so we keep you posted about our events and next steps.</p>\n\n<a href=\"http://eepurl.com/c3pB1H\" class=\"btn waves-effect waves-light pwc-red\" target=\"_blank\">Switzerland Newsletter</a>\n\n<a href=\"http://eepurl.com/dNCmyY\" class=\"btn waves-effect waves-light pwc-red\" target=\"_blank\">Turkey Newsletter</a>"
+    text: >-
+      You study 13 weeks full time and then start a 6- to 12-month internship.
+      The program is meant for refugees and disadvantaged citizens.
+
+
+      ###### What we Expect
+
+
+      * Basic knowledge in IT
+
+      * English fluency
+
+      * Commitment
+
+      * Full-time availability
+
+
+      ###### What we Offer
+
+
+      * Three-month intensive programming course
+
+      * Additional support for laptop, food and transportation where needed
+
+      * Coaching Program
+
+      * Access to an internship lasting between 6 and 12 months
+
+
+      If the aforementioned information applies to you, apply to the program
+      closest to their place of residence.
+
+
+      <a href="<?= WEBROOT;?>city/powerhouse_lausanne/index.php#student"
+      class="btn waves-effect waves-light pwc-red">Lausanne</a>
+
+
+      <a href="<?= WEBROOT;?>city/istanbul/index.php#student" class="btn
+      waves-effect waves-light pwc-red">Istanbul</a>
+
+
+      <p>Sign up for our newsletters so we keep you posted about our events and
+      next steps.</p>
+
+
+      <a href="http://eepurl.com/c3pB1H" class="btn waves-effect waves-light
+      pwc-red" target="_blank">Switzerland Newsletter</a>
+
+
+      <a href="http://eepurl.com/dNCmyY" class="btn waves-effect waves-light
+      pwc-red" target="_blank">Turkey Newsletter</a>
   - header: Coach
     text: >-
       ##### Our participants need more than technical knowledge in order to
