@@ -245,6 +245,14 @@ city_program:
       text: >-
         We are planning for other cities starting next year. Join our mailing
         list to receive the latest news and updates.
+    - call_to_action: More
+      color: teal lighten-4
+      fade_in: Right
+      header: Istanbul
+      link: /city/istanbul
+      text: >-
+        The program is starting in March, 2019. Application for participants is
+        now open until February 16 at noon.
 past_program:
   header: Past Program
   items:
