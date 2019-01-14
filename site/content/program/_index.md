@@ -48,12 +48,12 @@ roles:
       closest to their place of residence.
 
 
-      <a href="<?= WEBROOT;?>city/powerhouse_lausanne/" class="btn waves-effect
-      waves-light pwc-red">Lausanne</a>
+      <a href="/city/powerhouse_lausanne/index.php#participant" class="btn
+      waves-effect waves-light pwc-red">Lausanne</a>
 
 
-      <a href="<?= WEBROOT;?>city/istanbul/" class="btn waves-effect waves-light
-      pwc-red">Istanbul</a>
+      <a href="/city/istanbul/index.php#participant" class="btn waves-effect
+      waves-light pwc-red">Istanbul</a>
 
 
       Sign up for our newsletters so we keep you posted about our events and
@@ -155,18 +155,16 @@ roles:
       We keep you posted about new cities
 
 
-      <a href="<?= WEBROOT;?>city/basel/index.php" class="btn waves-effect
+      <a href="/city/basel/index.php#trainer" class="btn waves-effect
       waves-light pwc-red">Basel</a>
 
 
-      <a href="<?= WEBROOT;?>city/powerhouse_lausanne/index.php" class="btn
+      <a href="/city/powerhouse_lausanne/index.php#trainer" class="btn
       waves-effect waves-light pwc-red">Lausanne</a>
 
 
-      <a href="<?= WEBROOT;?>city/istanbul/index.php#coach" class="btn
-      waves-effect waves-light pwc-red">Istanbul</a>
-
-
+      <a href="/city/istanbul/index.php#trainer" class="btn waves-effect
+      waves-light pwc-red">Istanbul</a>
 
 
       Sign up for our newsletters so we keep you posted about our events and
