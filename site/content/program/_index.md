@@ -1,154 +1,219 @@
 ---
-title: "Program"
-section_title: "Program"
+title: Program
 image: /img/IMG_2230-1.jpg
-
+section_title: Program
 text: >-
   ## Get involved
 
-  Powercoders is a coding academy for refugees. We believe that, in the 21st century, coding skills will
-  help you to start a new life wherever you are forced to go.
+  Powercoders is a coding academy for refugees. We believe that, in the 21st
+  century, coding skills will help you to start a new life wherever you are
+  forced to go.
 
 
-  We offer a 3-month coding boot camp, followed by an internship. The ultimate goal of Powercoders is the
-  permanent placement of trained refugees in IT-companies and IT-departments.
-
+  We offer a 3-month coding boot camp, followed by an internship. The ultimate
+  goal of Powercoders is the permanent placement of trained refugees in
+  IT-companies and IT-departments.
 roles:
   - header: Participant
-    text: |-
-        ##### You study 13 weeks full time and then start a 6- to 12-month internship. The program is
-          meant for refugees with B and F status and in rare cases N.
-        ###### What we Expect
-
-          * Basic knowledge in IT
-          * English fluency
-          * Commitment
-          * Full-time availability
-
-        ###### What we Offer
-
-          * Three-month intensive programming course
-          * Additional support for laptop, food and transportation where needed
-          * Coaching Program
-          * Access to an internship lasting between 6 and 12 months
-
-        Refugees who would like to take part should apply to the program closest to their place of residence.
-
-
-        <a href="https://form.jotformeu.com/81781784919373" target="_blank" class="btn waves-effect waves-light pwc-red">Apply</a>
-
-
-        We keep you posted about new cities
-
-
-        <a href="http://eepurl.com/c3pB1H" target="_blank" class="btn waves-effect waves-light pwc-red">subscribe</a>
-
+    text: "You study 13 weeks full time and then start a 6- to 12-month internship. The program is meant for refugees and disadvantaged citizens.\r\n\n\n\n###### What we Expect\n\n* Basic knowledge in IT\n* English fluency\n* Commitment\n* Full-time availability\n\n###### What we Offer\n\n* Three-month intensive programming course\n* Additional support for laptop, food and transportation where needed\n* Coaching Program\n* Access to an internship lasting between 6 and 12 months\n\n\n\nIf the aforementioned information applies to you, apply to the program closest to their place of residence.\r\n\n\r<p>If the aforementioned information applies to you, apply to the program closest to their place of residence.</p>\n\n<a href=\"<?= WEBROOT;?>city/powerhouse_lausanne/index.php#student\" class=\"btn waves-effect waves-light pwc-red\">Lausanne</a>\n\n<a href=\"<?= WEBROOT;?>city/istanbul/index.php#student\" class=\"btn waves-effect waves-light pwc-red\">Istanbul</a>\n\n<p>Sign up for our newsletters so we keep you posted about our events and next steps.</p>\n\n<a href=\"http://eepurl.com/c3pB1H\" class=\"btn waves-effect waves-light pwc-red\" target=\"_blank\">Switzerland Newsletter</a>\n\n<a href=\"http://eepurl.com/dNCmyY\" class=\"btn waves-effect waves-light pwc-red\" target=\"_blank\">Turkey Newsletter</a>"
   - header: Coach
-    text: |-
-        ##### Our participants need more than technical knowledge in order to achieve a sustainable integration into employment.
+    text: >-
+      ##### Our participants need more than technical knowledge in order to
+      achieve a sustainable integration into employment.
 
 
-        That’s why our program includes coaching. Each participant is accompanied by one volunteer coach.
-
-        ###### Details
-
-        * you connect well to people from variable cultures
-        * you are working and well integrated in the Swiss labour market
-        * you can commit to invest time for weekly meetings with your mentee
-        * you are interested in the topics of jobcoaching and mentoring
-        * coaching starts at the end of the programming course and last until the end of the internship
+      That’s why our program includes coaching. Each participant is accompanied
+      by one volunteer coach.
 
 
-        If you are interested in coaching one of our participants, check our current programs for
-            opportunities.
+      ###### Details
 
 
-        <a href="/city/basel/index.php" class="btn waves-effect waves-light pwc-red">Basel</a>
+      * you connect well to people from variable cultures
+
+      * you are working and well integrated in the Swiss labour market
+
+      * you can commit to invest time for weekly meetings with your mentee
+
+      * you are interested in the topics of jobcoaching and mentoring
+
+      * coaching starts at the end of the programming course and last until the
+      end of the internship
 
 
-        We keep you posted about new cities
+      If you are interested in coaching one of our participants, check our
+      current programs for opportunities.
 
 
-        <a href="http://eepurl.com/c3pB1H" class="btn waves-effect waves-light pwc-red" target="_blank">subscribe</a>
+      <a href="<?= WEBROOT;?>city/basel/index.php" class="btn waves-effect
+      waves-light pwc-red">Basel</a>
 
+
+      <a href="<?= WEBROOT;?>city/powerhouse_lausanne/index.php" class="btn
+      waves-effect waves-light pwc-red">Lausanne</a>
+
+
+      <a href="<?= WEBROOT;?>city/istanbul/index.php#mentor" class="btn
+      waves-effect waves-light pwc-red">Istanbul</a>
+
+
+
+
+      Sign up for our newsletters so we keep you posted about our events and
+      next steps.
+
+
+      <a href="http://eepurl.com/c3pB1H" class="btn waves-effect waves-light
+      pwc-red" target="_blank">Switzerland Newsletter</a>
+
+
+      <a href="http://eepurl.com/dNCmyY" class="btn waves-effect waves-light
+      pwc-red" target="_blank">Turkey Newsletter</a>
   - header: Trainer
-    text: |-
-        ##### You support our teachers as assistants.
-
-        Teaching sessions usually take place in the mornings. In the afternoons, the participants
-        focus on practising the things they learned in the morning. That’s where our “Trainers” come
-        in, helping them individually or in groups to get their exercises and “homework” done.
+    text: >-
+      ##### You support our teachers as assistants.
 
 
-        ###### What we are looking for
+      Teaching sessions usually take place in the mornings. In the afternoons,
+      the participants
 
-        * IT professionals who wants to support participants solving IT challenges
-        * Trainers who help teaching for some days in the afternoons
-        * No teaching experience needed
+      focus on practising the things they learned in the morning. That’s where
+      our “Trainers” come
 
-        If you are interested in training our participants, please check our current programs for opportunities.
-
-
-        <a href="/city/basel/index.php" class="btn waves-effect waves-light pwc-red">Basel</a>
+      in, helping them individually or in groups to get their exercises and
+      “homework” done.
 
 
-        We keep you posted about new cities
+      ###### What we are looking for
 
 
-        <a href="http://eepurl.com/c3pB1H" class="btn waves-effect waves-light pwc-red" target="_blank">subscribe</a>
+      * IT professionals who wants to support participants solving IT challenges
 
+      * Trainers who help teaching for some days in the afternoons
+
+      * No teaching experience needed
+
+
+      If you are interested in training our participants, please check our
+      current programs for opportunities.
+
+
+      <a href="/city/basel/index.php" class="btn waves-effect waves-light
+      pwc-red">Basel</a>
+
+
+      We keep you posted about new cities
+
+
+      <a href="<?= WEBROOT;?>city/basel/index.php" class="btn waves-effect
+      waves-light pwc-red">Basel</a>
+
+
+      <a href="<?= WEBROOT;?>city/powerhouse_lausanne/index.php" class="btn
+      waves-effect waves-light pwc-red">Lausanne</a>
+
+
+      <a href="<?= WEBROOT;?>city/istanbul/index.php#coach" class="btn
+      waves-effect waves-light pwc-red">Istanbul</a>
+
+
+
+
+      Sign up for our newsletters so we keep you posted about our events and
+      next steps.
+
+
+      <a href="http://eepurl.com/c3pB1H" class="btn waves-effect waves-light
+      pwc-red" target="_blank">Switzerland Newsletter</a>
+
+
+      <a href="http://eepurl.com/dNCmyY" class="btn waves-effect waves-light
+      pwc-red" target="_blank">Turkey Newsletter</a>
   - header: Company
-    text: |-
-        ##### Our participants are highly qualified refugees and they are looking for your engagement and support.
-
-        ###### What we are looking for
-
-        * IT-companies or IT departments offering a 6 to 12-month internship
-        * Teams who are eager to train an intern
-        * IT professionals who are interested in cultural exchange
+    text: >-
+      ##### Our participants are highly qualified refugees and they are looking
+      for your engagement and support.
 
 
-        If you are interested in offering an internship and becoming our partner in empowering
-            refugees, please fill in the following form and share it with other companies who can
-            support us.
+      ###### What we are looking for
 
 
-        <a href="/city/basel/index.php" class="btn waves-effect waves-light pwc-red">Basel</a>
+      * IT-companies or IT departments offering a 6 to 12-month internship
+
+      * Teams who are eager to train an intern
+
+      * IT professionals who are interested in cultural exchange
 
 
-        We want to learn to know about every company that supports our mission
+      If you are interested in offering an internship and becoming our partner
+      in empowering
+          refugees, please fill in the following form and share it with other companies who can
+          support us.
 
 
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSc-uJt-Zu3WtvC7lJbcwd1rQ9PaxSPpMeOzuwONxscA_AgCzg/viewform"
-           class="btn waves-effect waves-light pwc-red" target="_blank">get in touch</a>
 
+      <a href="<?= WEBROOT;?>city/basel/index.php" class="btn waves-effect
+      waves-light pwc-red">Basel</a>
+
+
+      <a href="<?= WEBROOT;?>city/powerhouse_lausanne/index.php" class="btn
+      waves-effect waves-light pwc-red">Lausanne</a>
+
+
+      <a href="<?= WEBROOT;?>city/istanbul/index.php#company" class="btn
+      waves-effect waves-light pwc-red">Istanbul</a>
+
+
+
+
+      Sign up for our newsletters so we keep you posted about our events and
+      next steps.
+
+
+      <a href="http://eepurl.com/c3pB1H" class="btn waves-effect waves-light
+      pwc-red" target="_blank">Switzerland Newsletter</a>
+
+
+      <a href="http://eepurl.com/dNCmyY" class="btn waves-effect waves-light
+      pwc-red" target="_blank">Turkey Newsletter</a>
 city_program:
   header: City Program
   items:
-    - header: Basel
-      text: The program is starting on the 26th of November, 2018. Application is open.
-      link: /city/basel/
-      call_to_action: More
-      fade_in: Right
+    - call_to_action: More
       color: teal lighten-4
-    - header: Next Program
-      text: We are planning for other cities starting next year. Join our mailing list to receive the latest news and updates.
-      link: http://eepurl.com/c3pB1H
-      call_to_action: Get updated
+      fade_in: Right
+      header: Basel
+      link: /city/basel/
+      text: >-
+        The program is starting on the 26th of November, 2018. Application is
+        open.
+    - call_to_action: Get updated
       color: pwc-red-light20
       fade_in: Left
-
+      header: Next Program
+      link: 'http://eepurl.com/c3pB1H'
+      text: >-
+        We are planning for other cities starting next year. Join our mailing
+        list to receive the latest news and updates.
+    - fade_in: Right
+      header: Lausanne
+      link: >-
+        <a href="<?= WEBROOT;?>city/powerhouse_lausanne/index.php" class="btn
+        waves-effect waves-light pwc-red" target="_blank"> More</a>
+      text: >-
+        The program is starting in April, 2019. Application for participants is
+        now open.
 past_program:
   header: Past Program
   items:
     - header: Bern
-      text: Graduation 7.4.2017
       link: /city/bern/
+      text: Graduation 7.4.2017
     - header: Zürich
-      text: Graduation 22.12.17
       link: /city/zuerich/
+      text: Graduation 22.12.17
     - header: Lausanne
-      text: Graduation 20.07.18
       link: /city/lausanne/
-
+      text: Graduation 20.07.18
 ---
+
