@@ -179,6 +179,14 @@ roles:
 city_program:
   header: City Program
   items:
+    - fade_in: Right
+      header: Lausanne
+      link: >-
+        <a href="<?= WEBROOT;?>city/powerhouse_lausanne/index.php" class="btn
+        waves-effect waves-light pwc-red" target="_blank"> More</a>
+      text: >-
+        The program is starting in April, 2019. Application for participants is
+        now open.
     - call_to_action: More
       color: teal lighten-4
       fade_in: Right
@@ -195,14 +203,6 @@ city_program:
       text: >-
         We are planning for other cities starting next year. Join our mailing
         list to receive the latest news and updates.
-    - fade_in: Right
-      header: Lausanne
-      link: >-
-        <a href="<?= WEBROOT;?>city/powerhouse_lausanne/index.php" class="btn
-        waves-effect waves-light pwc-red" target="_blank"> More</a>
-      text: >-
-        The program is starting in April, 2019. Application for participants is
-        now open.
 past_program:
   header: Past Program
   items:
