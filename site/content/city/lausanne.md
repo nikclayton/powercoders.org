@@ -1,7 +1,7 @@
 ---
 title: Lausanne
 section_title: Lausanne Program
-text: Powercoders Lausanne (005) will start on April 2019.
+text: Powercoders Lausanne (005) will start in April 2019.
 events:
   - call_to_action: Join
     header: Lausanne Info Session
@@ -11,10 +11,17 @@ events:
       January, 2019. If you need information about the project and want to meet
       the team join our info session.
 apply_as:
-  - {}
+  - header: Participant
+  - header: Coach
+  - header: Trainer
+  - header: Company
 team:
+  header: Team Lausanne
   members:
-    - {}
+    - description: Industry Lead
+      name: Magaly Mathys
+    - description: Social Lead
+      name: Coline Souzet
 partner:
   - size: s12 m6
 industry_partner:
