@@ -1,5 +1,5 @@
 ---
-title: Lausanne
+title: Lausanne_003
 image: /img/lausanne-google.jpg
 section_title: Lausanne Program
 text: >-
@@ -65,46 +65,44 @@ partner:
     link: 'http://www.impacthub.net/'
     name: impacthub
     size: s6 m2
-  - link: 'http://www.espace-dickens.ch/web/'
+  - image: /img/espacedickens.png
+    link: 'http://www.espace-dickens.ch/web/'
     name: espace-dickens
-    image: /img/espacedickens.png
     size: s6 m2
   - image: /img/digicomp.png
     link: 'https://www.digicomp.ch/'
     name: digicomp
     size: s6 m2
-
 industry_partner:
-  - link: http://www.sbb.ch
-    image: /img/sbb.png
+  - image: /img/sbb.png
+    link: 'http://www.sbb.ch'
     name: sbb
-  - link: https://coteries.com/
-    image: /img/coteries.png
+  - image: /img/coteries.png
+    link: 'https://coteries.com/'
     name: coteries
-  - link: https://www.mindmaze.com/
-    image: /img/mindmaze.png
+  - image: /img/mindmaze.png
+    link: 'https://www.mindmaze.com/'
     name: mindmaze
-  - link: https://www.liip.ch/en
-    image: /img/liip.jpg
+  - image: /img/liip.jpg
+    link: 'https://www.liip.ch/en'
     name: liip
-  - link: https://swisscom.ch
-    image: /img/swisscom.png
+  - image: /img/swisscom.png
+    link: 'https://swisscom.ch'
     name: swisscom
-  - link: https://cruncher.ch/
-    image: /img/cruncher.png
+  - image: /img/cruncher.png
+    link: 'https://cruncher.ch/'
     name: cruncher
-  - link: https://www.namics.com
-    image: /img/namics.png
+  - image: /img/namics.png
+    link: 'https://www.namics.com'
     name: namics
-  - link: https://www.ifrc.org
-    image: /img/ifrc.png
+  - image: /img/ifrc.png
+    link: 'https://www.ifrc.org'
     name: ifrc
-  - link: https://www.sensefly.com/
-    image: /img/sensefly.jpg
+  - image: /img/sensefly.jpg
+    link: 'https://www.sensefly.com/'
     name: sensefly
-  - link: https://www.vnv.ch/
-    image: /img/vnv.png
+  - image: /img/vnv.png
+    link: 'https://www.vnv.ch/'
     name: vnv
-
 ---
 
