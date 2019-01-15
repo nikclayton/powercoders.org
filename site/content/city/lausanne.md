@@ -22,9 +22,7 @@ team:
       name: Magaly Mathys
     - description: Social Lead
       name: Coline Souzet
-partner:
-  - size: s12 m6
-industry_partner:
-  - {}
+partner: []
+industry_partner: []
 ---
 
