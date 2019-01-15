@@ -1,14 +1,16 @@
 ---
 title: Istanbul
 section_title: Istanbul Program
-text: Powercoders Turkey - Istanbul (001) batch will start in March.
+text: >-
+  Powercoders Turkey - Istanbul (001) batch will start in March.
+
+
+  Sign up for Turkey newsletter to receive the latest events and stay updated
+  about our activities on the link [here](http://eepurl.com/dNCmyY). Like our
+  Facebook page [here ](https://www.facebook.com/powercodersturkey/)and follow
+  us on Twitter [here](https://twitter.com/PowercodersTR).
 events:
-  - text: >-
-      Sign up for Turkey newsletter to receive the latest events and stay
-      updated about our activities on the link [here](http://eepurl.com/dNCmyY).
-      Like our Facebook page [here
-      ](https://www.facebook.com/powercodersturkey/)and follow us on Twitter
-      [here](https://twitter.com/PowercodersTR).
+  - text: ''
 apply_as:
   - header: Participant
     text: >-
