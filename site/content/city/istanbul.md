@@ -162,7 +162,6 @@ partner:
     link: www.impacthub.con
     name: Impact Hub Istanbui
     size: s6 m2
-industry_partner:
-  - {}
+industry_partner: []
 ---
 
