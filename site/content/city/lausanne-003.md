@@ -1,5 +1,6 @@
 ---
 title: Lausanne 003
+image: /img/lausanne-google.jpg
 section_title: Lausanne Program
 text: >-
   <h2>003 Lausanne</h2>
