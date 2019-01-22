@@ -225,7 +225,7 @@ city_program:
       color: teal lighten-4
       fade_in: Right
       header: Lausanne
-      link: city/powerhouse_lausanne/
+      link: city/lausanne/
       text: >-
         The program is starting in April, 2019. Application for participants is
         now open.
@@ -263,7 +263,7 @@ past_program:
       link: /city/zuerich/
       text: Graduation 22.12.17
     - header: Lausanne
-      link: /city/lausanne/
+      link: /city/lausanne-003/
       text: Graduation 20.07.18
 ---
 
