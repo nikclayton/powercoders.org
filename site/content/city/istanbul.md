@@ -9,7 +9,14 @@ text: >-
   about our activities on the link [here](http://eepurl.com/dNCmyY). Like our
   Facebook page [here ](https://www.facebook.com/powercodersturkey/)and follow
   us on Twitter [here](https://twitter.com/PowercodersTR).
-events: []
+events:
+  - call_to_action: Sign Up
+    header: 3rd Info Session
+    link: 'https://goo.gl/forms/ylDhcKvwiZNiHFOJ3'
+    text: >-
+      Powercoders Turkey - Istanbul 3rd info session will be held on the **13th
+      **of February. If you need information about the program, how to get
+      involved and want to meet the team, sign up this form and join us.
 apply_as:
   - header: Participant
     text: >-
