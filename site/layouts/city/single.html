@@ -23,7 +23,9 @@
                 <div class="col s12 m6 12 hoverable space redborder btn-box markdown">
                     <a href="{{$el.link}}" target="_blank">
                         <h6><i class="fas fa-graduation-cap fa-2x"></i> {{$el.header}}</h6>
+                        {{if $el.text}}
                         {{$el.text | markdownify}}
+                        {{end}}
                         <object>
                             <a href="{{$el.link}}"
                                class="btn waves-effect waves-light pwc-red" target="_blank">{{$el.call_to_action}}</a>
@@ -50,9 +52,11 @@
                     <div id="{{ lower $el.header }}" class="collapsible-header">
                         <h6>{{ $el.header }}</h6>
                     </div>
+                    {{if $el.text}}
                     <div class="collapsible-body markdown">
                         {{ $el.text | markdownify }}
                     </div>
+                    {{end}}
                 </li>
                 {{end}}
             </ul>
