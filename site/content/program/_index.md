@@ -225,7 +225,7 @@ city_program:
       color: teal lighten-4
       fade_in: Right
       header: Lausanne
-      link: city/lausanne/
+      link: city/lausanne
       text: >-
         The program is starting in April, 2019. Application for participants is
         now open.
