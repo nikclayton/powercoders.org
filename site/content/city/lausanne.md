@@ -15,14 +15,10 @@ events:
 
 
       join our info session
-apply_as:
-  - {}
+apply_as: []
 team:
-  members:
-    - {}
-partner:
-  - size: s12 m6
-industry_partner:
-  - {}
+  members: []
+partner: []
+industry_partner: []
 ---
 
