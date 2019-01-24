@@ -52,8 +52,8 @@ roles:
       pwc-red">Lausanne</a>
 
 
-      <a href="/city/istanbul/index.php#participant" class="btn waves-effect
-      waves-light pwc-red">Istanbul</a>
+      <a href="/city/istanbul/#participant" class="btn waves-effect waves-light
+      pwc-red">Istanbul</a>
 
 
       Sign up for our newsletters so we keep you posted about our events and
@@ -95,7 +95,7 @@ roles:
       current programs for opportunities.
 
 
-      <a href="/city/basel/index.php" class="btn waves-effect waves-light
+      <a href="/city/basel/" class="btn waves-effect waves-light
       pwc-red">Basel</a>
 
 
@@ -103,8 +103,8 @@ roles:
       waves-light pwc-red">Lausanne</a>
 
 
-      <a href="/city/istanbul/index.php#coach" class="btn waves-effect
-      waves-light pwc-red">Istanbul</a>
+      <a href="/city/istanbul/#coach" class="btn waves-effect waves-light
+      pwc-red">Istanbul</a>
 
 
       Sign up for our newsletters so we keep you posted about our events and
