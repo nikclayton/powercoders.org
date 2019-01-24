@@ -146,23 +146,23 @@ roles:
       current programs for opportunities.
 
 
-      <a href="/city/basel/index.php" class="btn waves-effect waves-light
+      <a href="/city/basel/" class="btn waves-effect waves-light
       pwc-red">Basel</a>
 
 
       We keep you posted about new cities
 
 
-      <a href="/city/basel/index.php#trainer" class="btn waves-effect
-      waves-light pwc-red">Basel</a>
+      <a href="/city/basel/#trainer" class="btn waves-effect waves-light
+      pwc-red">Basel</a>
 
 
-      <a href="/city/powerhouse_lausanne/index.php#trainer" class="btn
-      waves-effect waves-light pwc-red">Lausanne</a>
+      <a href="/city/lausanne/#trainer" class="btn waves-effect waves-light
+      pwc-red">Lausanne</a>
 
 
-      <a href="/city/istanbul/index.php#trainer" class="btn waves-effect
-      waves-light pwc-red">Istanbul</a>
+      <a href="/city/istanbul/#trainer" class="btn waves-effect waves-light
+      pwc-red">Istanbul</a>
 
 
       Sign up for our newsletters so we keep you posted about our events and
@@ -200,12 +200,12 @@ roles:
       pwc-red">Basel</a>
 
 
-      <a href="/city/powerhouse_lausanne/index.php" class="btn waves-effect
-      waves-light pwc-red">Lausanne</a>
+      <a href="/city/lausanne/" class="btn waves-effect waves-light
+      pwc-red">Lausanne</a>
 
 
-      <a href="/city/istanbul/index.php#company" class="btn waves-effect
-      waves-light pwc-red">Istanbul</a>
+      <a href="/city/istanbul/#company" class="btn waves-effect waves-light
+      pwc-red">Istanbul</a>
 
 
       Sign up for our newsletters so we keep you posted about our events and
