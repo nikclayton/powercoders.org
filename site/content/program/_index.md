@@ -48,8 +48,8 @@ roles:
       closest to their place of residence.
 
 
-      <a href="/city/powerhouse_lausanne/index.php#participant" class="btn
-      waves-effect waves-light pwc-red">Lausanne</a>
+      <a href="/city/lausanne/index.php#participant" class="btn waves-effect
+      waves-light pwc-red">Lausanne</a>
 
 
       <a href="/city/istanbul/index.php#participant" class="btn waves-effect
