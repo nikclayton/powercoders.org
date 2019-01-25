@@ -1,7 +1,7 @@
 ---
 title: Lausanne
 section_title: Lausanne Program
-text: Powercoders Lausanne (005) will start in April 2019.
+text: <h4 class="center">Powercoders Lausanne (005) will start in April 2019.</h4>
 events:
   - call_to_action: Sign Up
     header: 2nd Info Session
@@ -25,7 +25,14 @@ apply_as:
   - header: Company
     text: "If you are an IT company, an agency or an IT department in Romandie, are eager to support a refugee during an internship and are eventually able to offer an IT job in the long-run, join us.\r\n\n* \rApply on our website latest April 30th, 2019\r\n* Join a community meet-up in April, 2019\r\n* Join Career Day in May, 2019\r\n* 2nd Interviews end of May, 2019\r\n* Start internship by July 2019\r\n\nYou must apply via the link below. We will contact you soon to schedule a meeting or a call.\n\n<a href=\"https://goo.gl/forms/X5GYC5HDE79jjy5F3\" class=\"btn waves-effect waves-light pwc-red\" target=\"_blank\">Apply</a>"
 team:
-  members: []
+  header: Team Lausanne
+  members:
+    - description: Industry Lead
+      name: Magaly Mathys
+    - description: Social Lead
+      name: Coline Sauzet
+    - description: Teach Lead
+      name: Sorin Paun
 partner: []
 industry_partner: []
 ---
