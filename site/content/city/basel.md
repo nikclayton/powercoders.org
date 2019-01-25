@@ -1,12 +1,9 @@
 ---
 title: Basel
 section_title: Basel Program
-text: >
-  ## 004 BASEL
-
-
-  Powercoders Basel batch start is on November 26 with 20 new participants, 4
-  females, 16 males and from 7 nations.
+text: >-
+  <h4>Powercoders Basel (004) batch start is on November 26 with 20 new
+  participants, 4 females, 16 males and from 7 nations.</h4>
 events:
   - call_to_action: Dates of Meetups
     header: Community Meetups
