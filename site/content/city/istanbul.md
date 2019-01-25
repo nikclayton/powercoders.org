@@ -2,13 +2,15 @@
 title: Istanbul
 section_title: Istanbul Program
 text: >-
-  Powercoders Turkey - Istanbul (001) batch will start in March.
+  <h4 class="center">Powercoders Turkey - Istanbul (001) batch will start in
+  March.</h4>
 
 
-  Sign up for Turkey newsletter to receive the latest events and stay updated
-  about our activities on the link [here](http://eepurl.com/dNCmyY). Like our
-  Facebook page [here ](https://www.facebook.com/powercodersturkey/)and follow
-  us on Twitter [here](https://twitter.com/PowercodersTR).
+  <h4 class="center">Sign up for Turkey newsletter to receive the latest events
+  and stay updated about our activities on the link
+  [here](http://eepurl.com/dNCmyY). Like our Facebook page [here
+  ](https://www.facebook.com/powercodersturkey/)and follow us on Twitter
+  [here](https://twitter.com/PowercodersTR).</h4>
 events:
   - call_to_action: Sign Up
     header: 3rd Info Session
@@ -24,11 +26,9 @@ apply_as:
       The program is meant for refugees and disadvantaged citizens.
 
 
-      Are you eager to find your way to the IT industry, please apply.
-
-
-      Apply on our website latest February 16, 2019 at noon. We can not accept
-      any more applications after this date and time
+      If you are eager to find your way to the IT industry, please apply on our
+      website latest February 16, 2019 at noon. We can not accept any more
+      applications after this date and time
 
 
       * Learn or improve coding March - June 2019
@@ -36,8 +36,6 @@ apply_as:
       * Do an internship from July 2019
 
       * The goal is to get your IT-job by January 2020
-
-
 
 
       **What we Expect**
@@ -52,8 +50,6 @@ apply_as:
       * Full-time availability
 
 
-
-
       **What we Offer**
 
 
@@ -66,7 +62,7 @@ apply_as:
       * Access to an internship lasting between 6 and 12 months
 
 
-      Application is open until February 16
+      **Application is open until February 16 at 12:00 pm**
 
 
       <a href="https://goo.gl/forms/nv1o2Cr09B5B6i2h1" class="btn waves-effect
@@ -81,10 +77,10 @@ apply_as:
       pwc-red" target="_blank">Subscribe</a>
   - header: Coach
     text: >-
-      <h6>Our participants need more than technical knowledge in order to
+      <h4>Our participants need more than technical knowledge in order to
       achieve a sustainable integration into employment.
 
-      </h6>
+      </h4>
 
 
       That’s why our program includes coaching. Each participant is accompanied
@@ -109,15 +105,10 @@ apply_as:
 
 
       If you are a local in Istanbul and would like to support a participant in
-      her/his professional integration as a jobcoach, please join us. Check the
-      job description here
+      her/his professional integration as a jobcoach, please join us.
 
 
-      * 
-
-
-      Apply on our website latest April 30th, 2019
-
+      * Apply on our website
 
       * Be matched with a participant on June 12, 2019
 
