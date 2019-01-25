@@ -207,7 +207,8 @@ partner:
     link: 'http://fondationlift.org/'
     name: Lift Fondation
     size: s12 m6
-  - link: 'http://csrturkey.org/'
+  - image: /img/csr_turkey.jpg
+    link: 'http://csrturkey.org/'
     name: CSR Turkey
     size: s6 m4
   - image: /img/impacthub.jpg
