@@ -7,10 +7,10 @@ text: >-
 
 
   <h4 class="center">Sign up for Turkey newsletter to receive the latest events
-  and stay updated about our activities on the link
-  [here](http://eepurl.com/dNCmyY). Like our Facebook page [here
-  ](https://www.facebook.com/powercodersturkey/)and follow us on Twitter
-  [here](https://twitter.com/PowercodersTR).</h4>
+  and stay updated about our activities on the link <a
+  href="http://eepurl.com/dNCmyY">here</a>. Like our Facebook page <a
+  href="https://www.facebook.com/powercodersturkey/"> here</a> and follow us on
+  Twitter <a href="https://twitter.com/PowercodersTR">here.</a></h4>
 events:
   - call_to_action: Sign Up
     header: 3rd Info Session
