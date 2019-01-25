@@ -1,6 +1,6 @@
 ---
 title: Program
-image: /img/IMG_2230-1.jpg
+image: /img/main-page.jpg
 section_title: Program
 text: >-
   ## Get involved
@@ -148,9 +148,6 @@ roles:
 
       <a href="/city/basel/" class="btn waves-effect waves-light
       pwc-red">Basel</a>
-
-
-      We keep you posted about new cities
 
 
       <a href="/city/basel/#trainer" class="btn waves-effect waves-light
