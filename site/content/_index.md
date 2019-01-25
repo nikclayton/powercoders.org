@@ -9,6 +9,7 @@ intro:
   text: A coding academy for refugees.
 teaser_image:
   image: /img/IMG_2230-1.jpg
+  undefined: /img/main-page.jpg
 get_involved:
   content: >-
     ## Get Involved
