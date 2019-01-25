@@ -191,15 +191,16 @@ team:
   header: Team Istanbul
   members:
     - description: CEO MENA Region
-      image: /img/hussam-allaham.jpg
+      image: /img/male-user.jpg
       name: Hussam Allaham
     - description: Social Lead
-      image: ''
+      image: /img/female-user.jpg
       name: Sule Celik
     - description: Industry Lead
+      image: /img/male-user.jpg
       name: Hüseyin Yilmaz
     - description: Teach Lead
-      image: ''
+      image: /img/male-user.jpg
       name: Murhaf Sousli
 partner:
   - image: /img/lift.png
