@@ -131,7 +131,53 @@ apply_as:
       <a href="http://eepurl.com/dNCmyY" class="btn waves-effect waves-light
       pwc-red" target="_blank">Subscribe</a>
   - header: Trainer
-    text: "You support our teachers as assistants.\r\n\n\rTeaching sessions usually take place in the mornings. In the afternoons, the participants focus on practising the things they learned in the morning. That’s where our “Trainers” come in, helping them individually or in groups to get their exercises and “homework” done.\r\n\n\r**WHAT WE ARE LOOKING FOR\r**\n\n* IT professionals who wants to support participants solving IT challenges\r\n* Trainers who help teaching for some days in the afternoons\r\n* No teaching experience needed\r\n\nIf you are an IT professional, like to support our participants solving IT challenges and like to work in teams, join us.\r\n\n* Apply now\r\n* Get a slot in class from November 2018 - February 2019\r\n* Join graduation June 28, 2019 (evening)\n\nPlease apply via the link below. We will contact you soon to present our curriculum.\n\n<a href=\"https://goo.gl/forms/7QZGSnSuUl8YL8xD2\" class=\"btn waves-effect waves-light pwc-red\" target=\"_blank\">Apply</a>\n\n\rSign up for our newsletters so we keep you posted about our events and next steps.\n\n<a href=\"http://eepurl.com/dNCmyY\" class=\"btn waves-effect waves-light pwc-red\" target=\"_blank\">Subscribe</a>"
+    text: >-
+      <h4>You support our teachers as assistants.</h4>
+
+
+      Teaching sessions usually take place in the mornings. In the afternoons,
+      the participants focus on practising the things they learned in the
+      morning. That’s where our “Trainers” come in, helping them individually or
+      in groups to get their exercises and “homework” done.
+
+
+      **WHAT WE ARE LOOKING FOR
+
+      **
+
+
+      * IT professionals who wants to support participants solving IT challenges
+
+      * Trainers who help teaching for some days in the afternoons
+
+      * No teaching experience needed
+
+
+      If you are an IT professional, like to support our participants solving IT
+      challenges and like to work in teams, 
+
+
+      * Apply now
+
+      * Get a slot in the class from March 2019 - June 2019
+
+      * Join graduation June 28, 2019 (evening)
+
+
+      Please apply via the link below. We will contact you soon to present our
+      curriculum.
+
+
+      <a href="https://goo.gl/forms/7QZGSnSuUl8YL8xD2" class="btn waves-effect
+      waves-light pwc-red" target="_blank">Apply</a>
+
+
+      Sign up for our newsletters so we keep you posted about our events and
+      next steps.
+
+
+      <a href="http://eepurl.com/dNCmyY" class="btn waves-effect waves-light
+      pwc-red" target="_blank">Subscribe</a>
   - header: Company
     text: "If you are an IT company, an agency or an IT department in Istanbul or around, are eager to support a participant during an internship and are eventually able to offer an IT job in the long-run, join us.\r\n\n\r\n\nApply on our website latest March 31st, 2019\r\n\nJoin a community meet-up in March, 2019\r\n\nJoin Career Day on April 24, 2019\r\n\n2nd Interviews April 29 - May 3, 2019\r\n\nStart internship by July 2019\r\n\nBelow is the frequent asked questions. Please, have a look and do not hesitate to reach out to us on info.turkey@powercodsers.org if you need more information.\n\n<a href=\"https://goo.gl/forms/wZhxKDYm5YfpQwaB2\" class=\"btn waves-effect waves-light pwc-red\" target=\"_blank\">Apply</a>\n\nSign up for our newsletters so we keep you posted about our events and next steps.\n\n<a href=\"http://eepurl.com/dNCmyY\" class=\"btn waves-effect waves-light pwc-red\" target=\"_blank\">Subscribe</a>"
 team:
@@ -141,12 +187,12 @@ team:
       image: /img/hussam-allaham.jpg
       name: Hussam Allaham
     - description: Social Lead
-      image: /img/sule_celik.jpg
+      image: ''
       name: Sule Celik
     - description: Industry Lead
       name: Hüseyin Yilmaz
     - description: Teach Lead
-      image: /img/murhaf_sousli.png
+      image: ''
       name: Murhaf Sousli
 partner:
   - image: /img/lift.png
