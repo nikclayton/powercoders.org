@@ -8,7 +8,7 @@ intro:
     digitalization. Two problems, one solution:
   text: A coding academy for refugees.
 teaser_image:
-  image: /img/IMG_2230-1.jpg
+  image: /img/main-page.jpg
   undefined: /img/main-page.jpg
 get_involved:
   content: >-
