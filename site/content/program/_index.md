@@ -241,7 +241,7 @@ city_program:
       link: /city/basel/
       text: >-
         The program is starting on the 26th of November, 2018. Application is
-        open.
+        closed.
     - call_to_action: Get updated
       color: pwc-red-light20
       fade_in: Left
