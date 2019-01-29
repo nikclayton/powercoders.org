@@ -11,7 +11,7 @@ teaser_image:
   image: /img/main-page.jpg
 get_involved:
   content: >-
-    ## Get Involve
+    ## Get Involved
 
 
     Powercoders is a coding academy for refugees. We believe that, in the 21st
