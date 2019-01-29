@@ -3,9 +3,8 @@ title: FAQ
 image: /img/faq.jpg
 section_title: 'Frequently Asked Questions '
 text: >-
-  ## Get involved
-
   ###### What is Powercoders?
+
 
   Powercoders is a coding academy for refugees. It consists of a coding bootcamp
   of 13 weeks and an internship that lasts 6 to 12 months. It all started in
