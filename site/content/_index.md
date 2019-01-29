@@ -9,10 +9,10 @@ intro:
   text: A coding academy for refugees.
 teaser_image:
   image: /img/main-page.jpg
-  undefined: /img/main-page.jpg
 get_involved:
   content: >-
-    ## Get Involved
+    ## Get Involve
+
 
     Powercoders is a coding academy for refugees. We believe that, in the 21st
     century, coding skills will help you to start a new life wherever you are
