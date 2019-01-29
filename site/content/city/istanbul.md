@@ -16,9 +16,10 @@ events:
     header: 2nd Info Session
     link: 'https://goo.gl/forms/4ZzlNixHHKBJwZNC2'
     text: >-
-      Powercoders Turkey - Istanbul 2nd info session will be held on the **5th
-      **of February. If you need information about the program, how to get
-      involved and want to meet the team, sign up this form and join us.
+      Powercoders Turkey - Istanbul 2nd info session will be held on the
+      <strong>5th</strong> of February. If you need information about the
+      program, how to get involved and want to meet the team, sign up this form
+      and join us.
   - call_to_action: Sign Up
     header: 3rd Info Session
     link: 'https://goo.gl/forms/ylDhcKvwiZNiHFOJ3'
