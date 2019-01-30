@@ -51,11 +51,12 @@ program:
 latest:
   - fade_in: Up
     header: Lausanne Info Session
-    link: powerhouse_lausanne
-    link_text: Join
+    link: >-
+      https://docs.google.com/forms/d/19T_y9VHvB1WAxesZCO0Zqqz9VBO2sTx4yOyt7EZRwGU/edit
+    link_text: Sign up
     text: >
-      Powercoders Lausanne second info session will be in Geneva on the 28th of
-      January. Join us if you are interested and want to get information about
+      Powercoders Lausanne third info session will be in Fribourg on the 5th of
+      February. Join us if you are interested and want to get information about
       the project and know how to get involved.
   - fade_in: Left
     header: Donate
