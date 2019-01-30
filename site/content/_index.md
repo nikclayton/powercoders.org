@@ -56,7 +56,7 @@ latest:
     link_text: Sign up
     text: >
       Powercoders Lausanne third info session will be in Fribourg on the 5th of
-      February! Join us if you are interested and want to get information about
+      February. Join us if you are interested and want to get information about
       the project and know how to get involved.
   - fade_in: Left
     header: Donate
