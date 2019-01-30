@@ -67,13 +67,14 @@ latest:
       Powercoders is a non-profit organization. We rely on donations to continue
       our work helping refugees secure a better future.
   - fade_in: Up
-    header: Wunsch-Schloss 2018
-    header_icon: fa-tv
-    link: 'https://youtu.be/h9V4SU6Ca1k?t=3601'
-    link_text: watch
+    header: 4th Info Session in Neuchâtel
+    header_icon: ''
+    link: >-
+      https://docs.google.com/forms/d/16NBKX7PJAgY3dWjwN05J3NIDklz4_8IB_w5K0xhzT9w/edit
+    link_text: Sign up
     text: >-
-      Founder Christian Hirsig had the chance to address his wish to politics
-      and economics at "Wunsch-Schloss 2018".
+      The 4th Info Session of Powercoders Lausanne will be in Neuchâtel on the
+      12th February from 6 p.m. to 8 p.m.  
   - fade_in: Right
     header: Powercoders Story
     header_icon: fa-readme
