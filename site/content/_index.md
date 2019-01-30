@@ -50,7 +50,7 @@ program:
       from?
 latest:
   - fade_in: Up
-    header: Lausanne Info Session
+    header: 3rd Info Session in Fribourg
     link: >-
       https://docs.google.com/forms/d/19T_y9VHvB1WAxesZCO0Zqqz9VBO2sTx4yOyt7EZRwGU/edit
     link_text: Sign up
