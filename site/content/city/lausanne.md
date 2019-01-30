@@ -14,6 +14,17 @@ events:
 
       Join the session if you would like to have more information about the
       project.
+  - call_to_action: Sign up
+    header: 4th Info Session
+    link: >-
+      https://docs.google.com/forms/d/16NBKX7PJAgY3dWjwN05J3NIDklz4_8IB_w5K0xhzT9w/edit
+    text: >-
+      The fourth info session will be in **Neuchâtel **on the 12th of February
+      2019 at the Hub Neuchâtel from 6 p.m. until 8 p.m.
+
+
+      Attend the info session to get more information about the project and to
+      meet the team.
 apply_as:
   - header: Participant
     text: >-
