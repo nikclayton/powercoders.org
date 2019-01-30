@@ -4,17 +4,16 @@ section_title: Lausanne Program
 text: <h4 class="center">Powercoders Lausanne (005) will start in April 2019.</h4>
 events:
   - call_to_action: Sign Up
-    header: 2nd Info Session
-    link: 'https://goo.gl/forms/xNuUNMw1PCT1nev92'
+    header: 3rd Info Session
+    link: >-
+      https://docs.google.com/forms/d/19T_y9VHvB1WAxesZCO0Zqqz9VBO2sTx4yOyt7EZRwGU/edit
     text: >-
-      Our second info session will be in **Geneva **on the 28th of January,
-      2019. 
+      Our third info session will be in **Fribourg **on the 5th of February 2019
+      at the BlueFactory from 6 p.m. until 8 p.m.
 
 
-      If you need information about the project and want to meet the team. 
-
-
-      join our info session
+      Join the session if you would like to have more information about the
+      project.
 apply_as:
   - header: Participant
     text: >-
