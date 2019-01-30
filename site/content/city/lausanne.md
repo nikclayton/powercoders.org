@@ -8,7 +8,7 @@ events:
     link: >-
       https://docs.google.com/forms/d/19T_y9VHvB1WAxesZCO0Zqqz9VBO2sTx4yOyt7EZRwGU/edit
     text: >-
-      Our third info session will be in **Fribourg **on the 5th of February 2019
+      Our third info session will be in Fribourg** **on the 5th of February 2019
       at the BlueFactory from 6 p.m. until 8 p.m.
 
 
@@ -19,7 +19,7 @@ events:
     link: >-
       https://docs.google.com/forms/d/16NBKX7PJAgY3dWjwN05J3NIDklz4_8IB_w5K0xhzT9w/edit
     text: >-
-      The fourth info session will be in **Neuchâtel **on the 12th of February
+      The fourth info session will be in Neuchâtel** **on the 12th of February
       2019 at the Hub Neuchâtel from 6 p.m. until 8 p.m.
 
 
