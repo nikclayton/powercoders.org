@@ -99,8 +99,8 @@ roles:
       pwc-red">Basel</a>
 
 
-      <a href="/city/powerhouse_lausanne/index.php" class="btn waves-effect
-      waves-light pwc-red">Lausanne</a>
+      <a href="/city/lausanne/#coach" class="btn waves-effect waves-light
+      pwc-red">Lausanne</a>
 
 
       <a href="/city/istanbul/#coach" class="btn waves-effect waves-light
