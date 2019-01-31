@@ -21,7 +21,6 @@ events:
 apply_as:
   - header: Coach
     text: >-
-
       If you are a local in Basel or surroundings and would like to support a
       participant in her or his professional
 
@@ -38,11 +37,13 @@ apply_as:
       * End of the coaching Fall 2019
 
 
-      As soon as you apply, we will contact you soon for the next steps.
+      Application for Basel is closed. There will be other programs soon where
+      we need your support! Please subscribe to our newsletter ans we will keep
+      you updated about the next programs. 
 
 
-      <a href="https://form.jotformeu.com/82115169935360" class="btn
-      waves-effect waves-light pwc-red" target="_blank">Apply</a>
+      <a href="http://eepurl.com/c3pB1H" class="btn waves-effect waves-light
+      pwc-red" target="_blank">Subscribe</a>
   - header: Trainer
     text: >-
       If you are an IT professional, like to support our participants solving IT
