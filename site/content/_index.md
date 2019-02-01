@@ -53,7 +53,7 @@ latest:
     header: 3rd Info Session in Fribourg
     header_icon: fa-signup
     link: >-
-      https://docs.google.com/forms/d/19T_y9VHvB1WAxesZCO0Zqqz9VBO2sTx4yOyt7EZRwGU/edit
+      https://docs.google.com/forms/d/e/1FAIpQLSeB64ir6E4euv5RYQsX_GdQMHq7wkBjCp8PJsFpzkXk3sGeSA/viewform
     link_text: Sign up
     text: >
       Powercoders Lausanne third info session will be in Fribourg on the 5th of
