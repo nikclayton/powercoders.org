@@ -64,7 +64,7 @@ latest:
     header_icon: fa-info
     link: >-
       https://docs.google.com/forms/d/1DOO8XUxvHn9szCBVSqMug2ra2uKl80-sl5Liz2giG2c/edit
-    link_text: Sign up
+    link_text: Join
     text: >-
       Join our first community party on May 3rd at Liip Bern. All the people
       connected to the Powercoders family are invited to join for a wonderful
