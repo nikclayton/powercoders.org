@@ -73,7 +73,7 @@ latest:
     header: 4th Info Session in Neuchâtel
     header_icon: ''
     link: >-
-      https://docs.google.com/forms/d/16NBKX7PJAgY3dWjwN05J3NIDklz4_8IB_w5K0xhzT9w/edit
+      https://docs.google.com/forms/d/e/1FAIpQLSeNc_zvKRmTaE-EAPryEGWYQyWZrdDDmkzX37daPLK59wdW6g/viewform
     link_text: Sign up
     text: >-
       The 4th Info Session of Powercoders Lausanne will be in Neuchâtel on the
