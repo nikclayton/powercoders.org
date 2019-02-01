@@ -6,7 +6,7 @@ events:
   - call_to_action: Sign Up
     header: 3rd Info Session
     link: >-
-      https://docs.google.com/forms/d/19T_y9VHvB1WAxesZCO0Zqqz9VBO2sTx4yOyt7EZRwGU/edit
+      https://docs.google.com/forms/d/e/1FAIpQLSeB64ir6E4euv5RYQsX_GdQMHq7wkBjCp8PJsFpzkXk3sGeSA/viewform
     text: >-
       Our third info session will be in Fribourg** **on the 5th of February 2019
       at the BlueFactory from 6 p.m. until 8 p.m.
@@ -17,7 +17,7 @@ events:
   - call_to_action: Sign up
     header: 4th Info Session
     link: >-
-      https://docs.google.com/forms/d/16NBKX7PJAgY3dWjwN05J3NIDklz4_8IB_w5K0xhzT9w/edit
+      https://docs.google.com/forms/d/e/1FAIpQLSeNc_zvKRmTaE-EAPryEGWYQyWZrdDDmkzX37daPLK59wdW6g/viewform
     text: >-
       The fourth info session will be in Neuchâtel** **on the 12th of February
       2019 at the Hub Neuchâtel from 6 p.m. until 8 p.m.
