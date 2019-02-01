@@ -63,7 +63,7 @@ latest:
     header: Community Party
     header_icon: fa-info
     link: >-
-      https://docs.google.com/forms/d/1DOO8XUxvHn9szCBVSqMug2ra2uKl80-sl5Liz2giG2c/edit
+      https://docs.google.com/forms/d/e/1FAIpQLSe3sCS7vz87lyciamh7Z1e42C4DuyE_bfV6jp_kTBWY8WbGGw/viewform
     link_text: Join
     text: >-
       Join our first community party on May 3rd at Liip Bern. All the people
