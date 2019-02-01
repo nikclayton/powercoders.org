@@ -60,13 +60,15 @@ latest:
       February 2019. Join us if you are interested and want to get information
       about the project and know how to get involved.
   - fade_in: Left
-    header: Donate
-    header_icon: fa-graduation-cap
-    link: donate
-    link_text: donate
+    header: Community Party
+    header_icon: fa-info
+    link: >-
+      https://docs.google.com/forms/d/1DOO8XUxvHn9szCBVSqMug2ra2uKl80-sl5Liz2giG2c/edit
+    link_text: Sign up
     text: >-
-      Powercoders is a non-profit organization. We rely on donations to continue
-      our work helping refugees secure a better future.
+      Join our first community party on May 3rd at Liip Bern. All the people
+      connected to the Powercoders family are invited to join for a wonderful
+      evening.
   - fade_in: Up
     header: 4th Info Session in Neuchâtel
     header_icon: ''
