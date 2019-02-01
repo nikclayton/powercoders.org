@@ -78,14 +78,6 @@ latest:
     text: >-
       The 4th Info Session of Powercoders Lausanne will be in Neuchâtel on the
       12th February from 6 p.m. to 8 p.m.  
-  - fade_in: Right
-    header: Powercoders Story
-    header_icon: fa-readme
-    link: 'https://twitter.com/CNNMoneyCH/status/995331994224611328'
-    link_text: watch
-    text: >-
-      In 2014 Husam fled the war in Syria and is now interning at Swiss Life.
-      This is his story.
 teaser_image2:
   image: /img/ted-zh.jpg
   text: A vacant IT job can be filled with a displaced person.
