@@ -50,15 +50,13 @@ program:
       from?
 latest:
   - fade_in: Up
-    header: 3rd Info Session in Fribourg
+    header: Next program Lausanne
     header_icon: fa-signup
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSeB64ir6E4euv5RYQsX_GdQMHq7wkBjCp8PJsFpzkXk3sGeSA/viewform
-    link_text: Sign up
-    text: >
-      Powercoders Lausanne third info session will be in Fribourg on the 5th of
-      February 2019. Join us if you are interested and want to get information
-      about the project and know how to get involved.
+    link: www.powercoders.org/city/lausanne
+    link_text: Apply
+    text: >-
+      Are you a refugee eager to find your way to the IT industry? Apply now for
+      our next program in Lausanne starting in April 2019.
   - fade_in: Left
     header: Community Party
     header_icon: fa-info
