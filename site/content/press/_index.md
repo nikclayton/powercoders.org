@@ -12,8 +12,8 @@ media:
           - link: >-
               https://drive.google.com/file/d/1VHy6iH-lRYZ0AoWYUkJ1EoJM7E1StGDo/view?usp=sharing
             text: >-
-              La Liberté - Ils s’intègrent grâce à l’informatique. Story of
-              Tenzin.
+              La Liberté - Ils s’intègrent grâce à l’informatique (Story of
+              Tenzin).
     year: '2019'
   - entries:
       - date: 12.05.2018
