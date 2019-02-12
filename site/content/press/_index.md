@@ -10,7 +10,7 @@ media:
       - date: 12.02.2019
         links:
           - link: >-
-              https://drive.google.com/drive/u/0/folders/1RH2TbqYzzo_Y1W0m7r2Y2vWxKgECd9DK
+              https://drive.google.com/file/d/1VHy6iH-lRYZ0AoWYUkJ1EoJM7E1StGDo/view?usp=sharing
             text: La Liberté - Ils s’intègrent grâce à l’informatique
     year: '2019'
   - entries:
