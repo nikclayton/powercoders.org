@@ -8,8 +8,8 @@ events:
     link: >-
       https://docs.google.com/forms/d/e/1FAIpQLSeNc_zvKRmTaE-EAPryEGWYQyWZrdDDmkzX37daPLK59wdW6g/viewform
     text: >-
-      The fourth info session will be in Neuchâtel** **on the 12th of February
-      2019 at the Hub Neuchâtel from 6 p.m. until 8 p.m.
+      The fourth info session will be in Neuchâtel on the 12th of February 2019
+      at the Hub Neuchâtel from 6 p.m. until 8 p.m.
 
 
       Attend the info session to get more information about the project and to
