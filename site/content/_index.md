@@ -52,7 +52,7 @@ latest:
   - fade_in: Up
     header: Next program Lausanne
     header_icon: fa-signup
-    link: www.powercoders.org/city/lausanne
+    link: city/lausanne
     link_text: Apply
     text: >-
       Are you a refugee eager to find your way to the IT industry? Apply now for
