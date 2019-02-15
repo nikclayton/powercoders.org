@@ -68,14 +68,13 @@ latest:
       connected to the Powercoders family are invited to join for a wonderful
       evening.
   - fade_in: Up
-    header: 4th Info Session in Neuchâtel
+    header: Refugee story
     header_icon: ''
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSeNc_zvKRmTaE-EAPryEGWYQyWZrdDDmkzX37daPLK59wdW6g/viewform
-    link_text: Sign up
+    link: 'https://drive.google.com/file/d/1VHy6iH-lRYZ0AoWYUkJ1EoJM7E1StGDo/view'
+    link_text: Read
     text: >-
-      The 4th Info Session of Powercoders Lausanne will be in Neuchâtel on the
-      12th February from 6 p.m. to 8 p.m.  
+      Read the story of Tenzin, a refugee from Tibet, who is now working at Liip
+      in Fribourg. 
 teaser_image2:
   image: /img/ted-zh.jpg
   text: A vacant IT job can be filled with a displaced person.
