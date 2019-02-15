@@ -27,7 +27,10 @@ get_involved:
     that best prepares our students and offers them the opportunity to build a
     life in their new home. We believe that coding skills are a stepping stone
     towards a new beginning and that talented refugees would benefit the
-    technology sector as much as it can benefit them.
+    technology sector as much as it can benefit them. 
+
+
+    Get involved.
 program:
   - fade_in: Left
     header: Participant
