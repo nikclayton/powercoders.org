@@ -8,19 +8,17 @@ text: >-
 
   We started with a new team in Lausanne; Coline Sauzet as Social Lead, Hélène
   Portier as Teaching Lead, and Hussam Allaham as Program Manager. We received a
-  lot of applications, and chose 18 participants (15 male/ 3 female). The school
+  many applications and chose 18 participants (15 men/ 3 women). The school
   started on April 23, and after 3 months of hard work all of our participants
-  celebrated the graduation on July 20. Now 15 are starting their internships, 2
-  have apprenticeships, and 1 has a job. A big "thank you" to all the trainers,
-  coaches and companies for their support.
+  celebrated their graduation on July 20. Now 15 are starting their internships,
+  2 have apprenticeships, and 1 has a job. A big "thank you" to all the
+  trainers, coaches and companies for their support.
 
 
   ![](/img/students-lausanne.jpg)
 
 
   Graduation: 20. July 2018
-
-
 
 
   We keep track on how our participants are doing. Here a summary:
