@@ -1,139 +1,146 @@
 ---
 title: Zürich
-section_title: Zürich Program
 image: /img/zh.jpg
-
-text: |-
+section_title: Zürich Program
+text: >-
   ## 002 Zürich
 
-  The team in Zürich included Sunita Asnani, Madam Monorom, Matthias Hüni, Hussam Allaham, Hannes Gassert
-  and Christian Hirsig. Out of over 100 applications 18 participants (14 male/4 females) were chosen.
-  They started in September 2017 the coding school. After a very successful career day 17 participants
-  secured an internship and one even an apprenticeship. In December was the graduation and already in
-  January most of the internships started. We thank Arcas Foundation and Impact Hub Zürich for their great
-  support. Additionally we want to thank all the voluntary coaches, teachers and trainers for their effort.
+
+  Our team in Zürich included Sunita Asnani, Madam Monorom, Matthias Hüni,
+  Hussam Allaham, Hannes Gassert and Christian Hirsig. Out of over 100
+  applications, 18 participants (14 men/4 women) were chosen. They started our
+  intensive coding program in September 2017 and after a very successful career
+  day, 17 participants secured an internship and one was even directly offered
+  an apprenticeship. Our students graduated in December and in January most of
+  our participants has already started their internships. We thank Arcas
+  Foundation and Impact Hub Zürich for their great support. Additionally we want
+  to thank all the voluntary coaches, teachers and trainers for their effort.
+
 
   ![PowerCoders Zürich](/img/students-zuerich.jpg)
 
+
   Graduation: 22. December 2017
+
 
   We keep track on how our participants are doing. Here a summary:
 
-  * 18 participants
-  * 1 IT-apprenticeship
-  * 17 internships.
 
+  * 18 participants
+
+  * 1 IT-apprenticeship
+
+  * 17 internships.
 team:
   header: Team Zürich
   members:
-    - image: /img/abdul-nawaz-bugti.jpg
+    - description: Participant
+      image: /img/abdul-nawaz-bugti.jpg
       name: Abdul Nawaz Bugti
-      description: Participant
-    - image: /img/abdullah-msallam.jpg
+    - description: Participant
+      image: /img/abdullah-msallam.jpg
       name: Abdullah Msallam
-      description: Participant
-    - image: /img/agnes-nemethy.jpg
+    - description: Coach
+      image: /img/agnes-nemethy.jpg
       name: Agnes Néméthy
-      description: Coach
-    - image: /img/alan-omar.jpg
+    - description: Participant
+      image: /img/alan-omar.jpg
       name: Alan Omar
-      description: Participant
-    - image: /img/izzatollah-amani.jpg
+    - description: Participant
+      image: /img/izzatollah-amani.jpg
       name: Amani Izzatollah
-      description: Participant
-    - image: /img/bashar-said.jpg
+    - description: Participant
+      image: /img/bashar-said.jpg
       name: Bashar Said
-      description: Participant
-    - image: /img/benjamin-vonlanthen.jpg
+    - description: Trainer
+      image: /img/benjamin-vonlanthen.jpg
       name: Benjamin Vonlanthen
-      description: Trainer
-    - image: /img/chiar-evdi.jpg
+    - description: Participant
+      image: /img/chiar-evdi.jpg
       name: Chiar Evdi
-      description: Participant
-    - image: /img/christian-hirsig.jpg
+    - description: Industry Lead
+      image: /img/christian-hirsig.jpg
       name: Christian Hirsig
-      description: Industry Lead
-    - image: /img/fortuna-mebratu.jpg
+    - description: Participant
+      image: /img/fortuna-mebratu.jpg
       name: Fortuna Mebratu
-      description:  Participant
-    - image: /img/hannes-gassert.jpg
+    - description: Industry Lead
+      image: /img/hannes-gassert.jpg
       name: Hannes Gassert
-      description: Industry Lead
     - image: /img/hermi.jpg
       name: Hermi
-    - image: /img/hussam-allaham.jpg
+    - description: Operational Lead
+      image: /img/hussam-allaham.jpg
       name: Hussam Allaham
-      description: Operational Lead
-    - image: /img/ilya-shumilin.jpg
+    - description: Trainer
+      image: /img/ilya-shumilin.jpg
       name: Ilya Shumilin
-      description: Trainer
-    - image: /img/julia-sharonova.jpg
+    - description: Trainer
+      image: /img/julia-sharonova.jpg
       name: Julia Sharonova
-      description: Trainer
-    - image: /img/juliana-mourisca.jpg
+    - description: Coach
+      image: /img/juliana-mourisca.jpg
       name: Juliana Mourisca
-      description: Coach
-    - image: /img/lena-goetsch.jpg
+    - description: Coach
+      image: /img/lena-goetsch.jpg
       name: Lena Götsch
-      description: Coach
-    - image: /img/Monorm.jpg
+    - description: Lead Teacher
+      image: /img/Monorm.jpg
       name: Madam Monorom
-      description: Lead Teacher
-    - image: /img/martin-baur.jpg
+    - description: Trainer
+      image: /img/martin-baur.jpg
       name: Martin Baur
-      description: Trainer
-    - image: /img/matthias-hueni.jpg
+    - description: Lead Teacher
+      image: /img/matthias-hueni.jpg
       name: Matthias Hüni
-      description: Lead Teacher
-    - image: /img/maximilian-sutkowski.jpg
+    - description: Coach
+      image: /img/maximilian-sutkowski.jpg
       name: Maximilian Sutkowski
-      description: Coach
-    - image: /img/mohamad-husam-ebish.jpg
+    - description: Participant
+      image: /img/mohamad-husam-ebish.jpg
       name: Mohamad Husam Ebish
-      description: Participant
-    - image: /img/mohammad-hadi-soroush.jpg
+    - description: Participant
+      image: /img/mohammad-hadi-soroush.jpg
       name: Mohammad Hadi Soroush
-      description: Participant
-    - image: /img/mohammed-khairi.jpg
+    - description: Participant
+      image: /img/mohammed-khairi.jpg
       name: Mohammed Khairi
-      description: Participant
-    - image: /img/muhammad-bashir-karimi.jpg
+    - description: Participant
+      image: /img/muhammad-bashir-karimi.jpg
       name: Muhammad Bashir Karimi
-      description: Participant
-    - image: /img/nick-niles.jpg
+    - description: Coach
+      image: /img/nick-niles.jpg
       name: Nick Niles
-      description: Coach
-    - image: /img/nicolas-perrenoud.jpg
+    - description: Trainer
+      image: /img/nicolas-perrenoud.jpg
       name: Nicolas Perrenoud
-      description: Trainer
-    - image: /img/rafat-daghmach.jpg
+    - description: Participant
+      image: /img/rafat-daghmach.jpg
       name: Rafat Daghmach
-      description: Participant
-    - image: /img/ranny-kaddoura.jpg
+    - description: Participant
+      image: /img/ranny-kaddoura.jpg
       name: Ranny Kaddoura
-      description: Participant
-    - image: /img/raphael-gaus.jpg
+    - description: Coach
+      image: /img/raphael-gaus.jpg
       name: Raphael Gaus
-      description: Coach
-    - image: /img/sangeerththani-ramesh.jpg
+    - description: Participant
+      image: /img/sangeerththani-ramesh.jpg
       name: Sangeerththani Ramesh
-      description: Participant
-    - image: /img/sergei-schaub.jpg
+    - description: Coach
+      image: /img/sergei-schaub.jpg
       name: Sergei Schaub
-      description: Coach
-    - image: /img/sunita-asnani.jpg
+    - description: Social Lead
+      image: /img/sunita-asnani.jpg
       name: Sunita Asnani
-      description: Social Lead
-    - image: /img/tenzin-dhondup-gyadhotsang.jpg
+    - description: Participant
+      image: /img/tenzin-dhondup-gyadhotsang.jpg
       name: Tenzin Gyadhotsang
-      description: Participant
-    - image: /img/visakha-thongpetsavong.jpg
+    - description: Coach
+      image: /img/visakha-thongpetsavong.jpg
       name: Visakha Thongpetsavong
-      description: Coach
-    - image: /img/yoseph-endrias-lechebo.jpg
+    - description: Participant
+      image: /img/yoseph-endrias-lechebo.jpg
       name: Yoseph Lechebo
-      description: Participant
-
 partner:
   - image: /img/arcas.jpg
     link: 'https://www.arcas-foundation.ch'
@@ -155,52 +162,51 @@ partner:
     link: 'https://www.digicomp.ch/'
     name: digicomp
     size: s6 m4
-
 industry_partner:
-  - link: http://www.sbb.ch
-    image: /img/sbb.png
+  - image: /img/sbb.png
+    link: 'http://www.sbb.ch'
     name: sbb
-  - link: https://spaces.archilogic.com
-    image: /img/archilogic.jpg
+  - image: /img/archilogic.jpg
+    link: 'https://spaces.archilogic.com'
     name: archilogic
-  - link: http://www.buhlergroup.com
-    image: /img/buehler.jpg
+  - image: /img/buehler.jpg
+    link: 'http://www.buhlergroup.com'
     name: buehler
-  - link: https://www.business4you.ch
-    image: /img/business4you.jpg
+  - image: /img/business4you.jpg
+    link: 'https://www.business4you.ch'
     name: business4you
-  - link: https://www.cognizant.com
-    image: /img/cognizant.jpg
+  - image: /img/cognizant.jpg
+    link: 'https://www.cognizant.com'
     name: cognizant
-  - link: https://www.ecologic.ch
-    image: /img/ecologic.jpg
+  - image: /img/ecologic.jpg
+    link: 'https://www.ecologic.ch'
     name: ecologic
-  - link: http://finance-doc.com
-    image: /img/financedoc.jpg
+  - image: /img/financedoc.jpg
+    link: 'http://finance-doc.com'
     name: financedoc
-  - link: https://flake.ch
-    image: /img/flake.jpg
+  - image: /img/flake.jpg
+    link: 'https://flake.ch'
     name: flake
-  - link: https://www.gebana.com
-    image: /img/gebana.jpg
+  - image: /img/gebana.jpg
+    link: 'https://www.gebana.com'
     name: gebana"
-  - link: https://www.migros.ch
-    image: /img/migros.jpg
+  - image: /img/migros.jpg
+    link: 'https://www.migros.ch'
     name: migros
-  - link: https://www.spinningbytes.com/
-    image: /img/spinningbytes.jpg
+  - image: /img/spinningbytes.jpg
+    link: 'https://www.spinningbytes.com/'
     name: spinningbytes
-  - link: https://www.starticket.ch
-    image: /img/starticket.jpg
+  - image: /img/starticket.jpg
+    link: 'https://www.starticket.ch'
     name: starticket
-  - link: https://www.swisslife.ch/
-    image: /img/swisslife.jpg
+  - image: /img/swisslife.jpg
+    link: 'https://www.swisslife.ch/'
     name: swisslife
-  - link: https://www.unic.com/
-    image: /img/unic.jpg
+  - image: /img/unic.jpg
+    link: 'https://www.unic.com/'
     name: unic
-  - link: https://vshn.ch/
-    image: /img/vshn.jpg
+  - image: /img/vshn.jpg
+    link: 'https://vshn.ch/'
     name: vshn
 ---
 
