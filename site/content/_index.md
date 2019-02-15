@@ -85,6 +85,12 @@ latest:
     text: >-
       Read the story of Tenzin, a refugee from Tibet, who is now working at Liip
       in Fribourg. 
+  - fade_in: Down
+    header: Impact report 2018
+    link: >-
+      https://drive.google.com/drive/u/0/folders/1IDhoPJDHAMGi-AOETBihK1hYtjbin9YQ
+    link_text: Read
+    text: 'Check our impact report 2018 for what we achieved in the last year. '
 teaser_image2:
   image: /img/ted-zh.jpg
   text: A vacant IT job can be filled with a displaced person.
