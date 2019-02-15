@@ -90,7 +90,9 @@ latest:
     link: >-
       https://drive.google.com/drive/u/0/folders/1IDhoPJDHAMGi-AOETBihK1hYtjbin9YQ
     link_text: Read
-    text: 'Check our impact report 2018 for what we achieved in the last year. '
+    text: >-
+      71 students, 80% estimated job integration rate - Check our impact report
+      2018 for more facts on what we achieved in the last year. 
 teaser_image2:
   image: /img/ted-zh.jpg
   text: A vacant IT job can be filled with a displaced person.
