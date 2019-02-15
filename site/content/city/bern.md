@@ -1,17 +1,18 @@
 ---
 title: Bern
 section_title: Bern Program
-text: |-
+text: >-
   ## 001 Bern
 
 
-  The Powercoders team in Bern consisted Sunita Asnani, Christian Hirsig and
-  Marco Jakob. Out of 150 applications they selected 15 participants who have
-  started in January 2017 a twelve week coding boot camp. In April was
-  graduation and everyone started their internships. Already in September Farid
-  Saberi was the first participant who received a full-time job. We thank Migros
-  Kulturprozent, Raiffeisen Bank, Effinger, Impact Hub Bern and over 50
-  volunteers for their great support.
+  The Powercoders team in Bern consisted of Sunita Asnani, Christian Hirsig and
+  Marco Jakob. Out of 150 applications received, they selected 15 participants
+  who proceeded to start our twelve week coding bootcamp in January 2017. The
+  participants graduated in April and every participant started an internships.
+  In September, Farid Saberi was the first participant to receive a full-time
+  job, and was followed by many more We thank Migros Kulturprozent, Raiffeisen
+  Bank, Effinger, Impact Hub Bern and over 50 volunteers for their great
+  support.
 
 
   ![PowerCoders Bern](/img/001-graduation.jpg)
@@ -24,148 +25,150 @@ text: |-
 
 
   * 15 participants
+
   * 5 IT-job
+
   * 3 IT-apprenticeship
+
   * 3 IT-studies
+
   * 1 internship
+
   * 3 drop-outs
 team:
   header: Team Bern
   members:
-    - image: /img/christian-hirsig.jpg
+    - description: Industry Lead
+      image: /img/christian-hirsig.jpg
       name: Christian Hirsig
-      description: Industry Lead
-    - image: /img/christian-zosel.jpg
+    - description: Coach
+      image: /img/christian-zosel.jpg
       name: Christian Zosel
-      description:  Coach
-    - image: /img/christoph-isch.jpg
+    - description: Coach
+      image: /img/christoph-isch.jpg
       name: Christoph Isch
-      description:  Coach
-    - image: /img/christoph-ackermann.jpg
+    - description: Coach
+      image: /img/christoph-ackermann.jpg
       name: Christoph Ackermann
-      description:  Coach
-    - image: /img/damian-senn.jpg
+    - description: Coach
+      image: /img/damian-senn.jpg
       name: Damian Senn
-      description:  Coach
-    - image: /img/ebrahim-khalil-mehrno.jpg
+    - description: Participant
+      image: /img/ebrahim-khalil-mehrno.jpg
       name: Ebrahim Mehrno
-      description:  Participant
-    - image: /img/gajendran-packiyanathan.jpg
+    - description: Participant
+      image: /img/gajendran-packiyanathan.jpg
       name: Gajendran Packiyanathan
-      description:  Participant
-    - image: /img/hussam-allaham.jpg
+    - description: Participant
+      image: /img/hussam-allaham.jpg
       name: Hussam Allaham
-      description: Participant
-    - image: /img/jamila-amini.jpg
+    - description: Participant
+      image: /img/jamila-amini.jpg
       name: Jamila Amini
-      description: Participant
-    - image: /img/kurt-kammermann.jpg
+    - description: Mentor
+      image: /img/kurt-kammermann.jpg
       name: Kurt Kammermann
-      description: Mentor
-    - image: /img/lhamo-gakyitsang.jpg
+    - description: Participant
+      image: /img/lhamo-gakyitsang.jpg
       name: Lhamo Gakyitsang
-      description: Participant
-    - image: /img/luc-hutter.jpg
+    - description: Mentor
+      image: /img/luc-hutter.jpg
       name: Luc Hutter
-      description: Mentor
-    - image: /img/mahmoud-hallal.jpg
+    - description: Mentor
+      image: /img/mahmoud-hallal.jpg
       name: Mahmoud Hallal
-      description: Mentor
-    - image: /img/mannar-hielal.jpg
+    - description: Participant
+      image: /img/mannar-hielal.jpg
       name: Mannar Hielal
-      description: Participant
-    - image: /img/manuel-linder.jpg
+    - description: Mentor
+      image: /img/manuel-linder.jpg
       name: Manuel Linder
-      description: Mentor
-    - image: /img/marco-jakob.jpg
+    - description: Lead Teacher
+      image: /img/marco-jakob.jpg
       name: Marco Jakob
-      description: Lead Teacher
-    - image: /img/markus-gallagher.jpg
+    - description: Coach
+      image: /img/markus-gallagher.jpg
       name: Markus Gallagher
-      description: Coach
-    - image: /img/mohammad-altahan.jpg
+    - description: Participant
+      image: /img/mohammad-altahan.jpg
       name: Mohammad Altahan
-      description: Participant
-    - image: /img/oleg-lavrovsky.jpg
+    - description: Coach
+      image: /img/oleg-lavrovsky.jpg
       name: Oleg Lavrovsky
-      description: Coach
-    - image: /img/rami-jumaah.jpg
+    - description: Participant
+      image: /img/rami-jumaah.jpg
       name: Rami Jumaah
-      description: Participant
-    - image: /img/stefan-schaermeli.jpg
+    - description: Coach
+      image: /img/stefan-schaermeli.jpg
       name: Stefan Schärmeli
-      description: Coach
-    - image: /img/stefanie-hess.jpg
+    - description: Mentor
+      image: /img/stefanie-hess.jpg
       name: Stefanie Hess
-      description: Mentor
-    - image: /img/sujeevan-jeyapalan.jpg
+    - description: Participant
+      image: /img/sujeevan-jeyapalan.jpg
       name: Sujeevan Jeyapalan
-      description: Participant
-    - image: /img/sunita-asnani.jpg
+    - description: Social Lead
+      image: /img/sunita-asnani.jpg
       name: Sunita Asnani
-      description: Social Lead
-    - image: /img/tesfamichael-afewerki.jpg
+    - description: Participant
+      image: /img/tesfamichael-afewerki.jpg
       name: Tesfamichael Afewerki
-      description: Participant
-    - image: /img/yusup-khashbulatov.jpg
+    - description: Participant
+      image: /img/yusup-khashbulatov.jpg
       name: Yusup Khashbulatov
-      description: Participant
-
 partner:
   - image: /img/migros-kulturprozent.jpg
     link: 'https://www.migros-kulturprozent.ch'
     name: migros-kulturprozent
-    size: 's12 m6'
+    size: s12 m6
   - image: /img/raiffeisen.jpg
     link: 'https://www.raiffeisen.ch/'
     name: raiffeisen
-    size: 's12 m6'
+    size: s12 m6
   - image: /img/effinger.jpg
     link: 'https://www.effinger.ch/'
     name: effinger
-    size: 's6 m4'
+    size: s6 m4
   - image: /img/p3b.jpg
     link: 'https://www.p3b.ch/'
     name: p3b
-    size: 's6 m4'
-
+    size: s6 m4
 industry_partner:
-  - link: http://www.sbb.ch
-    image: /img/sbb.png
+  - image: /img/sbb.png
+    link: 'http://www.sbb.ch'
     name: sbb
-  - link: https://appswithlove.com
-    image: /img/awl.jpg
+  - image: /img/awl.jpg
+    link: 'https://appswithlove.com'
     name: appswithlove
-  - link: https://www.business4you.ch
-    image: /img/business4you.jpg
+  - image: /img/business4you.jpg
+    link: 'https://www.business4you.ch'
     name: business4you
-  - link: https://www.cubetech.ch
-    image: /img/cubetech.jpg
+  - image: /img/cubetech.jpg
+    link: 'https://www.cubetech.ch'
     name: cubetech
-  - link: https://enigma.swiss
-    image: /img/enigma.jpg
+  - image: /img/enigma.jpg
+    link: 'https://enigma.swiss'
     name: enigma
-  - link: https://www.liip.ch
-    image: /img/liip.jpg
+  - image: /img/liip.jpg
+    link: 'https://www.liip.ch'
     name: liip
-  - link: https://www.migros.ch
-    image: /img/migros.jpg
+  - image: /img/migros.jpg
+    link: 'https://www.migros.ch'
     name: migros
-  - link: https://www.mobiliar.ch
-    image: /img/mobiliar.jpg
+  - image: /img/mobiliar.jpg
+    link: 'https://www.mobiliar.ch'
     name: mobiliar
-  - link: https://www.post.ch
-    image: /img/post.jpg
+  - image: /img/post.jpg
+    link: 'https://www.post.ch'
     name: post
-  - link: https://www.puzzle.ch
-    image: /img/puzzle-itc.jpg
+  - image: /img/puzzle-itc.jpg
+    link: 'https://www.puzzle.ch'
     name: puzzle-itc
-  - link: https://www.swisscom.ch
-    image: /img/swisscom.jpg
+  - image: /img/swisscom.jpg
+    link: 'https://www.swisscom.ch'
     name: swisscom
-  - link: https://www.89grad.ch
-    image: /img/89grad.jpg
+  - image: /img/89grad.jpg
+    link: 'https://www.89grad.ch'
     name: 89grad
-
 ---
 
