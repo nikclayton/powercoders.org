@@ -35,7 +35,7 @@ roles:
       ###### What we Offer
 
 
-      * Three-month intensive programming course
+      * Three month intensive programming course
 
       * Additional support for laptop, food and transportation where needed
 
@@ -79,20 +79,19 @@ roles:
       ###### Details
 
 
-      * you connect well to people from variable cultures
+      * you connect well to people from diverse cultures
 
-      * you are working and well integrated in the Swiss labour market
+      * you are working and are well integrated in the Swiss labour market
 
       * you can commit to invest time for weekly meetings with your mentee
 
-      * you are interested in the topics of jobcoaching and mentoring
+      * you are interested in the topics of jobcoaching and mentoring. The
+      coaching starts at the end of the programming course and last until the
+      end of the internship.
 
-      * coaching starts at the end of the programming course and last until the
-      end of the internship
 
-
-      If you are interested in coaching one of our participants, check our
-      current programs for opportunities.
+      If you are interested in being a job coach to one of our participants,
+      check our current programs for opportunities.
 
 
       <a href="/city/basel/" class="btn waves-effect waves-light
