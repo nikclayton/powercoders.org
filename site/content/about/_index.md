@@ -20,6 +20,12 @@ text: >-
   Powercoders community has kept on growing, withmore programs starting in new
   cities every year. Be part of the Powercoders community and [get
   involved](/program/).
+
+
+
+
+  ## [Impact report
+  2018](https://drive.google.com/file/d/16QKTbrsnDtdbVDCUNLBFt6B_F2qnMdX4/view?usp=sharing)
 timeline:
   - date: JUN 2016
     text: incorporation non-profit
