@@ -146,10 +146,6 @@ roles:
       current programs for opportunities.
 
 
-      <a href="/city/basel/" class="btn waves-effect waves-light
-      pwc-red">Basel</a>
-
-
       <a href="/city/basel/#trainer" class="btn waves-effect waves-light
       pwc-red">Basel</a>
 
