@@ -227,9 +227,11 @@ team:
   text: >-
     ## MEET THE TEAM
 
-    We are a non profit organisation that depends on volunteers.
 
-    Thanks to all these great people we are making a difference. Not all of our
-    students, mentors and coaches are listed. Pictures to come.
+    The Powercoders team is a talented and motivated group of people that work
+    to change the lives of refugees. We are a non profit organisation that
+    depend on our incredible volunteers, so thank you to all these great people
+    who are making a difference. Not all of our students, mentors and coaches
+    are listed. Pictures to come.
 ---
 
