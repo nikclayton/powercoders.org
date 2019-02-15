@@ -2,18 +2,7 @@
 title: Lausanne
 section_title: Lausanne Program
 text: <h4 class="center">Powercoders Lausanne (005) will start in April 2019.</h4>
-events:
-  - call_to_action: Sign up
-    header: 4th Info Session
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSeNc_zvKRmTaE-EAPryEGWYQyWZrdDDmkzX37daPLK59wdW6g/viewform
-    text: >-
-      The fourth info session will be in Neuchâtel on the 12th of February 2019
-      at the Hub Neuchâtel from 6 p.m. until 8 p.m.
-
-
-      Attend the info session to get more information about the project and to
-      meet the team.
+events: []
 apply_as:
   - header: Participant
     text: >-
