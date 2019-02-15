@@ -1,27 +1,25 @@
 ---
-title: "About"
-section_title: "About"
+title: About
 image: /img/about-powercoders.jpg
-
+section_title: About
 text: >-
-  ### The ultimate goal of Powercoders is the permanent placement of trained refugees in IT companies and IT departments.
+  ### The ultimate goal of Powercoders is the permanent placement of trained
+  refugees in IT companies and IT departments.
 
 
-  It all started with a trip to the United States. The American government invited an entrepreneur from each European country.
-
-
-  Founder Christian Hirsig met two other entrepreneurs there: one with a cooking school for refugees, one
-  with a coding academy for women. At this time, the refugee crisis in Europe was all over the news.
-  Driven by the energy to help, the idea of Powercoders was born with the mission to give people their
-  independence back, reduce social welfare costs and fill the gap of open job positions in the
-  IT-industry. A first program started already half a year later in Bern. An overwhelming amount of
-  volunteers participated in this project as coaches or mentors. Additionally many IT companies offered
-  internships immediately. After this promising start, the community keeps on growing and more programs
-  are started in new cities. Be part of the Powercoders community and [get involved](/program)
-
-  If you are a company or foundation and would like to support us on a larger scale please download our
-  [presentation](https://drive.google.com/file/d/1-biw16Riol7POH3itouLgjsY1ittlQif/view?usp=sharing)
-
+  It all started with a trip to the United States. At this time, the refugee
+  crisis in Europe was all over the news. Founder Christian Hirsig met two other
+  entrepreneurs in the US: one with a cooking school for refugees, one with a
+  coding academy for women. Inspired by their projects and driven by the energy
+  to help, the idea of Powercoders was born, with the mission of giving people
+  their independence back, reducing social welfare costs and addressing the
+  shortage of talent  in the IT-industry. The  first Powercoders program started
+  already half a year later in Bern. An overwhelming amount of volunteers
+  participated as coaches or mentors. Additionally many IT companies were
+  enthusiastic about offering internships. After this promising start, the
+  Powercoders community has kept on growing, withmore programs starting in new
+  cities every year. Be part of the Powercoders community and [get
+  involved](/program/).
 timeline:
   - date: JUN 2016
     text: incorporation non-profit
@@ -39,261 +37,199 @@ timeline:
     text: expansion to Lausanne
   - date: NOV 2018
     text: expansion to Basel
-
 team:
+  members:
+    - description: Student / Zürich
+      image: /img/abdul-nawaz-bugti.jpg
+      name: Abdul Nawaz Bugti
+    - description: Student / Zürich
+      image: /img/abdullah-msallam.jpg
+      name: Abdullah Msallam
+    - description: Mentor / Zürich
+      image: /img/agnes-nemethy.jpg
+      name: Agnes Néméthy
+    - description: Student / Zürich
+      image: /img/alan-omar.jpg
+      name: Alan Omar
+    - description: Student / Zürich
+      image: /img/izzatollah-amani.jpg
+      name: Amani Izzatollah
+    - description: Student / Zürich
+      image: /img/bashar-said.jpg
+      name: Bashar Said
+    - description: Coach / Zürich
+      image: /img/benjamin-vonlanthen.jpg
+      name: Benjamin Vonlanthen
+    - description: Vice-President
+      image: /img/bettina-hirsig.jpg
+      name: Bettina Hirsig
+    - description: Student / Zürich
+      image: /img/chiar-evdi.jpg
+      name: Chiar Evdi
+    - description: President
+      image: /img/christian-hirsig.jpg
+      name: Christian Hirsig
+    - description: Coach / Bern
+      image: /img/christian-zosel.jpg
+      name: Christian Zosel
+    - description: Coach / Bern
+      image: /img/christoph-isch.jpg
+      name: Christoph Isch
+    - description: Coach / Bern
+      image: /img/christoph-ackermann.jpg
+      name: Christoph Ackermann
+    - description: Coach / Bern
+      image: /img/damian-senn.jpg
+      name: Damian Senn
+    - description: Student / Bern
+      image: /img/ebrahim-khalil-mehrno.jpg
+      name: Ebrahim Mehrno
+    - description: Student / Zürich
+      image: /img/fortuna-mebratu.jpg
+      name: Fortuna Mebratu
+    - description: Student / Bern
+      image: /img/gajendran-packiyanathan.jpg
+      name: Gajendran Packiyanathan
+    - description: Industry Council
+      image: /img/hannes-gassert.jpg
+      name: Hannes Gassert
+    - description: Lead Teacher / Lausanne
+      image: /img/helene-portier.jpg
+      name: Hélène Portier
+    - image: /img/hermi.jpg
+      name: Hermi
+    - description: Program Manager
+      image: /img/hussam-allaham.jpg
+      name: Hussam Allaham
+    - description: Coach / Zürich
+      image: /img/ilya-shumilin.jpg
+      name: Ilya Shumilin
+    - description: Student / Bern
+      image: /img/jamila-amini.jpg
+      name: Jamila Amini
+    - description: Coach / Zürich
+      image: /img/julia-sharonova.jpg
+      name: Julia Sharonova
+    - description: Mentor / Zürich
+      image: /img/juliana-mourisca.jpg
+      name: Juliana Mourisca
+    - description: Mentor / Zürich / Bern
+      image: /img/kurt-kammermann.jpg
+      name: Kurt Kammermann
+    - description: Mentor / Zürich
+      image: /img/lena-goetsch.jpg
+      name: Lena Götsch
+    - description: Student / Bern
+      image: /img/lhamo-gakyitsang.jpg
+      name: Lhamo Gakyitsang
+    - description: Media producer
+      image: /img/luana-laederach.jpg
+      name: Luana Läderach
+    - description: Mentor / Bern
+      image: /img/luc-hutter.jpg
+      name: Luc Hutter
+    - description: Lead Teacher / Zürich
+      image: /img/Monorm.jpg
+      name: Madam Monorom
+    - description: Mentor / Bern
+      image: /img/mahmoud-hallal.jpg
+      name: Mahmoud Hallal
+    - description: Student / Bern
+      image: /img/mannar-hielal.jpg
+      name: Mannar Hielal
+    - description: Mentor / Bern
+      image: /img/manuel-linder.jpg
+      name: Manuel Linder
+    - description: Teaching Council
+      image: /img/marco-jakob.jpg
+      name: Marco Jakob
+    - description: Coach / Bern
+      image: /img/markus-gallagher.jpg
+      name: Markus Gallagher
+    - description: Coach / Zürich
+      image: /img/martin-baur.jpg
+      name: Martin Baur
+    - description: Lead Teacher / Zürich
+      image: /img/matthias-hueni.jpg
+      name: Matthias Hüni
+    - description: Mentor / Zürich
+      image: /img/maximilian-sutkowski.jpg
+      name: Maximilian Sutkowski
+    - description: Student / Zürich
+      image: /img/mohamad-husam-ebish.jpg
+      name: Mohamad Husam Ebish
+    - description: Student / Bern
+      image: /img/mohammad-altahan.jpg
+      name: Mohammad Altahan
+    - description: Student / Zürich
+      image: /img/mohammad-hadi-soroush.jpg
+      name: Mohammad Hadi Soroush
+    - description: Student / Zürich
+      image: /img/mohammed-khairi.jpg
+      name: Mohammed Khairi
+    - description: Student / Zürich
+      image: /img/muhammad-bashir-karimi.jpg
+      name: Muhammad Bashir Karimi
+    - description: Mentor / Zürich
+      image: /img/nick-niles.jpg
+      name: Nick Niles
+    - description: Coach / Zürich
+      image: /img/nicolas-perrenoud.jpg
+      name: Nicolas Perrenoud
+    - description: Coach / Bern
+      image: /img/oleg-lavrovsky.jpg
+      name: Oleg Lavrovsky
+    - description: Student / Zürich
+      image: /img/rafat-daghmach.jpg
+      name: Rafat Daghmach
+    - description: Student / Bern
+      image: /img/rami-jumaah.jpg
+      name: Rami Jumaah
+    - description: Student / Zürich
+      image: /img/ranny-kaddoura.jpg
+      name: Ranny Kaddoura
+    - description: Mentor / Zürich
+      image: /img/raphael-gaus.jpg
+      name: Raphael Gaus
+    - description: Student / Zürich
+      image: /img/sangeerththani-ramesh.jpg
+      name: Sangeerththani Ramesh
+    - description: Mentor / Zürich
+      image: /img/sergei-schaub.jpg
+      name: Sergei Schaub
+    - description: Coach / Bern
+      image: /img/stefan-schaermeli.jpg
+      name: Stefan Schärmeli
+    - description: Mentor / Bern
+      image: /img/stefanie-hess.jpg
+      name: Stefanie Hess
+    - description: Student / Bern
+      image: /img/sujeevan-jeyapalan.jpg
+      name: Sujeevan Jeyapalan
+    - description: Social Council
+      image: /img/sunita-asnani.jpg
+      name: Sunita Asnani
+    - description: Student / Zürich
+      image: /img/tenzin-dhondup-gyadhotsang.jpg
+      name: Tenzin Gyadhotsang
+    - description: Student / Bern
+      image: /img/tesfamichael-afewerki.jpg
+      name: Tesfamichael Afewerki
+    - description: Mentor / Zürich
+      image: /img/visakha-thongpetsavong.jpg
+      name: Visakha Thongpetsavong
+    - description: Student / Zürich
+      image: /img/yoseph-endrias-lechebo.jpg
+      name: Yoseph Lechebo
+    - description: Student / Bern
+      image: /img/yusup-khashbulatov.jpg
+      name: Yusup Khashbulatov
   text: >-
     ## MEET THE TEAM
 
     We are a non profit organisation that depends on volunteers.
 
-    Thanks to all these great people we are making a difference. Not all of our students,
-    mentors and coaches are listed. Pictures to come.
-
-  members:
-    - name: Abdul Nawaz Bugti
-      image: /img/abdul-nawaz-bugti.jpg
-      description: Student / Zürich
-
-    - name: Abdullah Msallam
-      image: /img/abdullah-msallam.jpg
-      description: Student / Zürich
-
-    - name: Agnes Néméthy
-      image: /img/agnes-nemethy.jpg
-      description: Mentor / Zürich
-
-    - name: Alan Omar
-      image: /img/alan-omar.jpg
-      description: Student / Zürich
-
-    - name: Amani Izzatollah
-      image: /img/izzatollah-amani.jpg
-      description: Student / Zürich
-
-    - name: Bashar Said
-      image: /img/bashar-said.jpg
-      description: Student / Zürich
-
-    - name: Benjamin Vonlanthen
-      image: /img/benjamin-vonlanthen.jpg
-      description: Coach / Zürich
-
-    - name: Bettina Hirsig
-      image: /img/bettina-hirsig.jpg
-      description: Vice-President
-
-    - name: Chiar Evdi
-      image: /img/chiar-evdi.jpg
-      description: Student / Zürich
-
-    - name: Christian Hirsig
-      image: /img/christian-hirsig.jpg
-      description:  President
-
-    - name: Christian Zosel
-      image: /img/christian-zosel.jpg
-      description:  Coach / Bern
-
-    - name: Christoph Isch
-      image: /img/christoph-isch.jpg
-      description:  Coach / Bern
-
-    - name: Christoph Ackermann
-      image: /img/christoph-ackermann.jpg
-      description:  Coach / Bern
-
-    - name: Damian Senn
-      image: /img/damian-senn.jpg
-      description:  Coach / Bern
-
-    - name: Ebrahim Mehrno
-      image: /img/ebrahim-khalil-mehrno.jpg
-      description:  Student / Bern
-
-    - name: Fortuna Mebratu
-      image: /img/fortuna-mebratu.jpg
-      description:  Student / Zürich
-
-    - name: Gajendran Packiyanathan
-      image: /img/gajendran-packiyanathan.jpg
-      description:  Student / Bern
-
-    - name: Hannes Gassert
-      image: /img/hannes-gassert.jpg
-      description: Industry Council
-
-    - name: Hélène Portier
-      image: /img/helene-portier.jpg
-      description:  Lead Teacher / Lausanne
-
-    - name: Hermi
-      image: /img/hermi.jpg
-
-    - name: Hussam Allaham
-      image: /img/hussam-allaham.jpg
-      description: Program Manager
-
-    - name: Ilya Shumilin
-      image: /img/ilya-shumilin.jpg
-      description: Coach / Zürich
-
-    - name: Jamila Amini
-      image: /img/jamila-amini.jpg
-      description: Student / Bern
-
-    - name: Julia Sharonova
-      image: /img/julia-sharonova.jpg
-      description: Coach / Zürich
-
-    - name: Juliana Mourisca
-      image: /img/juliana-mourisca.jpg
-      description: Mentor / Zürich
-
-    - name: Kurt Kammermann
-      image: /img/kurt-kammermann.jpg
-      description: Mentor / Zürich / Bern
-
-    - name: Lena Götsch
-      image: /img/lena-goetsch.jpg
-      description: Mentor / Zürich
-
-    - name: Lhamo Gakyitsang
-      image: /img/lhamo-gakyitsang.jpg
-      description: Student / Bern
-
-    - name: Luana Läderach
-      image: /img/luana-laederach.jpg
-      description: Media producer
-
-    - name: Luc Hutter
-      image: /img/luc-hutter.jpg
-      description: Mentor / Bern
-
-    - name: Madam Monorom
-      image: /img/Monorm.jpg
-      description: Lead Teacher / Zürich
-
-    - name: Mahmoud Hallal
-      image: /img/mahmoud-hallal.jpg
-      description: Mentor / Bern
-
-    - name: Mannar Hielal
-      image: /img/mannar-hielal.jpg
-      description: Student / Bern
-
-    - name: Manuel Linder
-      image: /img/manuel-linder.jpg
-      description: Mentor / Bern
-
-    - name: Marco Jakob
-      image: /img/marco-jakob.jpg
-      description: Teaching Council
-
-    - name: Markus Gallagher
-      image: /img/markus-gallagher.jpg
-      description: Coach / Bern
-
-    - name: Martin Baur
-      image: /img/martin-baur.jpg
-      description: Coach / Zürich
-
-    - name: Matthias Hüni
-      image: /img/matthias-hueni.jpg
-      description: Lead Teacher / Zürich
-
-    - name: Maximilian Sutkowski
-      image: /img/maximilian-sutkowski.jpg
-      description: Mentor / Zürich
-
-    - name: Mohamad Husam Ebish
-      image: /img/mohamad-husam-ebish.jpg
-      description: Student / Zürich
-
-    - name: Mohammad Altahan
-      image: /img/mohammad-altahan.jpg
-      description: Student / Bern
-
-    - name: Mohammad Hadi Soroush
-      image: /img/mohammad-hadi-soroush.jpg
-      description: Student / Zürich
-
-    - name: Mohammed Khairi
-      image: /img/mohammed-khairi.jpg
-      description: Student / Zürich
-
-    - name: Muhammad Bashir Karimi
-      image: /img/muhammad-bashir-karimi.jpg
-      description: Student / Zürich
-
-    - name: Nick Niles
-      image: /img/nick-niles.jpg
-      description: Mentor / Zürich
-
-    - name: Nicolas Perrenoud
-      image: /img/nicolas-perrenoud.jpg
-      description: Coach / Zürich
-
-    - name: Oleg Lavrovsky
-      image: /img/oleg-lavrovsky.jpg
-      description: Coach / Bern
-
-    - name: Rafat Daghmach
-      image: /img/rafat-daghmach.jpg
-      description: Student / Zürich
-
-    - name: Rami Jumaah
-      image: /img/rami-jumaah.jpg
-      description: Student / Bern
-
-    - name: Ranny Kaddoura
-      image: /img/ranny-kaddoura.jpg
-      description: Student / Zürich
-
-    - name: Raphael Gaus
-      image: /img/raphael-gaus.jpg
-      description: Mentor / Zürich
-
-    - name: Sangeerththani Ramesh
-      image: /img/sangeerththani-ramesh.jpg
-      description: Student / Zürich
-
-    - name: Sergei Schaub
-      image: /img/sergei-schaub.jpg
-      description: Mentor / Zürich
-
-    - name: Stefan Schärmeli
-      image: /img/stefan-schaermeli.jpg
-      description: Coach / Bern
-
-    - name: Stefanie Hess
-      image: /img/stefanie-hess.jpg
-      description: Mentor / Bern
-
-    - name: Sujeevan Jeyapalan
-      image: /img/sujeevan-jeyapalan.jpg
-      description: Student / Bern
-
-    - name: Sunita Asnani
-      image: /img/sunita-asnani.jpg
-      description: Social Council
-
-    - name: Tenzin Gyadhotsang
-      image: /img/tenzin-dhondup-gyadhotsang.jpg
-      description: Student / Zürich
-
-    - name: Tesfamichael Afewerki
-      image: /img/tesfamichael-afewerki.jpg
-      description: Student / Bern
-
-    - name: Visakha Thongpetsavong
-      image: /img/visakha-thongpetsavong.jpg
-      description: Mentor / Zürich
-
-    - name: Yoseph Lechebo
-      image: /img/yoseph-endrias-lechebo.jpg
-      description: Student / Zürich
-
-    - name: Yusup Khashbulatov
-      image: /img/yusup-khashbulatov.jpg
-      description: Student / Bern
+    Thanks to all these great people we are making a difference. Not all of our
+    students, mentors and coaches are listed. Pictures to come.
 ---
+
