@@ -11,16 +11,23 @@ teaser_image:
   image: /img/main-page.jpg
 get_involved:
   content: >-
-    ## Get Involved
+    # What do we do
 
 
-    Powercoders is a coding academy for refugees. We believe that, in the 21st
-    century, coding skills will help you to start a new life wherever you are
-    forced to go.
+    At Powercoders, we offer refugees an intensive and free coding program with
+    the end goal of having all our participants secure a permanent and full time
+    job in the IT sector. In order to best achieve this goal, our program offers
+    our students three months of courses and then the opportunity to do an
+    internship.
 
-    We offer a 3-month coding boot camp, followed by an internship. The ultimate
-    goal of Powercoders is the permanent placement of trained refugees in IT
-    companies and IT departments.
+
+
+
+    Our talented team of experts and volunteers has worked to build a program
+    that best prepares our students and offers them the opportunity to build a
+    life in their new home. We believe that coding skills are a stepping stone
+    towards a new beginning and that talented refugees would benefit the
+    technology sector as much as it can benefit them.
 program:
   - fade_in: Left
     header: Participant
