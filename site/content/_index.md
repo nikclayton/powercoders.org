@@ -88,7 +88,7 @@ latest:
   - fade_in: Down
     header: Impact report 2018
     link: >-
-      https://drive.google.com/drive/u/0/folders/1IDhoPJDHAMGi-AOETBihK1hYtjbin9YQ
+      https://drive.google.com/file/d/16QKTbrsnDtdbVDCUNLBFt6B_F2qnMdX4/view?usp=sharing
     link_text: Read
     text: >-
       71 students, 80% estimated job integration rate - Check our impact report
