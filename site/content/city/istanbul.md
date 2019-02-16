@@ -11,14 +11,7 @@ text: >-
   href="http://eepurl.com/dNCmyY">here</a>. Like our Facebook page <a
   href="https://www.facebook.com/powercodersturkey/"> here</a> and follow us on
   Twitter <a href="https://twitter.com/PowercodersTR">here.</a></h4>
-events:
-  - call_to_action: Sign Up
-    header: 3rd Info Session
-    link: 'https://goo.gl/forms/ylDhcKvwiZNiHFOJ3'
-    text: >-
-      Powercoders Turkey - Istanbul 3rd info session will be held on the **13th
-      **of February. If you need information about the program, how to get
-      involved and want to meet the team, sign up this form and join us.
+events: []
 apply_as:
   - header: Participant
     text: >-
@@ -26,10 +19,10 @@ apply_as:
       The program is meant for refugees and disadvantaged citizens.
 
 
-      If you are eager to find your way to the IT industry, please apply on our
-      website latest February 16, 2019 at noon. We can not accept any more
-      applications after this date and time
+      If you are eager to find your way to the IT industry, 
 
+
+      * please apply on our website.
 
       * Learn or improve coding March - June 2019
 
@@ -62,15 +55,11 @@ apply_as:
       * Access to an internship lasting between 6 and 12 months
 
 
-      **Application is open until February 16 at 12:00 pm**
-
-
-      <a href="https://goo.gl/forms/nv1o2Cr09B5B6i2h1" class="btn waves-effect
-      waves-light pwc-red">Apply</a>
+      **Application is Closed!**
 
 
       Sign up for our newsletters so we keep you posted about our events and
-      next steps.
+      next programs.
 
 
       <a href="http://eepurl.com/dNCmyY" class="btn waves-effect waves-light
