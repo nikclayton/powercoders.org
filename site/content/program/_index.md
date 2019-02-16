@@ -228,7 +228,7 @@ city_program:
       link: /city/istanbul/
       text: >-
         The program is starting in March, 2019. Application for participants is
-        now open until February 16 at noon.
+        now closed!
     - call_to_action: More
       color: teal lighten-4
       fade_in: Right
