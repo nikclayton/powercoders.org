@@ -222,9 +222,7 @@ city_program:
       fade_in: Right
       header: Basel
       link: /city/basel/
-      text: >-
-        The program is starting on the 26th of November, 2018. Application is
-        closed.
+      text: 'The program started 26th of November, 2018. Application is closed.'
     - call_to_action: Get updated
       color: pwc-red-light20
       fade_in: Left
