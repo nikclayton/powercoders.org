@@ -94,10 +94,6 @@ roles:
       check our current programs for opportunities.
 
 
-      <a href="/city/basel/" class="btn waves-effect waves-light
-      pwc-red">Basel</a>
-
-
       <a href="/city/lausanne/#coach" class="btn waves-effect waves-light
       pwc-red">Lausanne</a>
 
@@ -145,10 +141,6 @@ roles:
       current programs for opportunities.
 
 
-      <a href="/city/basel/#trainer" class="btn waves-effect waves-light
-      pwc-red">Basel</a>
-
-
       <a href="/city/lausanne/#trainer" class="btn waves-effect waves-light
       pwc-red">Lausanne</a>
 
@@ -187,10 +179,6 @@ roles:
       in empowering
           refugees, please fill in the following form and share it with other companies who can
           support us.
-
-      <a href="/city/basel/index.php" class="btn waves-effect waves-light
-      pwc-red">Basel</a>
-
 
       <a href="/city/lausanne/" class="btn waves-effect waves-light
       pwc-red">Lausanne</a>
