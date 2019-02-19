@@ -11,7 +11,7 @@ teaser_image:
   image: /img/main-page.jpg
 get_involved:
   content: >-
-    # What do we do
+    # Our mission
 
 
     At Powercoders, we offer refugees an intensive and free coding program with
@@ -19,8 +19,6 @@ get_involved:
     job in the IT sector. In order to best achieve this goal, our program offers
     our students three months of courses and then the opportunity to do an
     internship.
-
-
 
 
     Our talented team of experts and volunteers has worked to build a program
