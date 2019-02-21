@@ -76,13 +76,14 @@ latest:
       connected to the Powercoders family are invited to join for a wonderful
       evening.
   - fade_in: Up
-    header: Refugee story
+    header: Basel Graduation Party
     header_icon: ''
-    link: 'https://drive.google.com/file/d/1VHy6iH-lRYZ0AoWYUkJ1EoJM7E1StGDo/view'
-    link_text: Read
-    text: >-
-      Read the story of Tenzin, a refugee from Tibet, who is now working at Liip
-      in Fribourg. 
+    link: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSdtpT45rLn4t2GGdt-DnmQrqk2Ss9uzEsHQUaX6m7hOTOdYRQ/viewform
+    link_text: Register
+    text: |-
+      Basel Graduation party, March 8th, 2019
+      Let's celebrate together the end of the fourth batch of Powercoders
   - fade_in: Down
     header: Impact report 2018
     link: >-
