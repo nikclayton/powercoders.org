@@ -7,86 +7,83 @@ text: >-
 
 
   Powercoders is a coding academy for refugees. It consists of a coding bootcamp
-  of 13 weeks and an internship that lasts 6 to 12 months. It all started in
-  Switzerland. The ultimate goal of Powercoders is the permanent placement of
-  trained refugees in IT-companies and IT-departments.
+  of 13 weeks and an internship that lasts 6 to 12 months. The ultimate goal of
+  Powercoders is the permanent placement of trained refugees in IT-companies and
+  IT-departments. While the project started in Switzerland, we now hope to grow
+  and bring our impact to other cities across the world.
 sections:
   - items:
       - header: How was Powercoders started?
-        text: >-
-          It all started with a trip to the United States. The American
-          government invited an entrepreneur of each European country.
-
-
-          Founder Christian Hirsig met there two entrepreneurs, one with a
-          cooking school for refugees, one with a coding academy for women. At
-          this time, the refugee crisis in Europe was all over the news. Driven
-          by the energy to help the idea of Powercoders was born.
+        text: "It all started with a trip to the United States. The American government invited an entrepreneur of each European country.\r\n\nFounder Christian Hirsig met two entrepreneurs there, one with a cooking school for refugees, one with a coding academy for women. At this time, the refugee crisis in Europe was all over the news. Driven by the energy to help, the idea of Powercoders was born."
       - header: Who can participate?
         text: >-
-          Talented refugees with B and F status and in rare cases N, independent
-          from their place of living, as long as they are allowed to travel.
+          Talented refugees, independent from their place of living, as long as
+          they are allowed to travel.
       - header: What does it cost?
         text: >-
-          There are three parties who support Powercoders. The companies pay an
-          education fee to Powercoders during internship (CHF 2'000/m already
-          including all the costs like salary), the cantons have to support
-          Powercoders and if the students eventually are hired they are paying a
-          certain amount back on a voluntary base.
+          While the program is free for our participants, there are three main
+          parties who support Powercoders. Firstly, companies pay an education
+          fee during the internship (CHF 2'000/m, which already includes all
+          costs, such as salary). Secondly, Swiss cantons support Powercoders
+          through CHF 5000. Lastly, if our students are eventually hired, they
+          are asked to pay back a certain amount on a voluntary basis.
       - header: How is Powercoders financed?
         text: >-
           Powercoders is a non profit organisation that depends on volunteers.
           To cover our costs, we are supported by the Swiss government,
-          foundations, companies and individuals. Powercoders appreciates every
-          [donation](https://donorbox.org/donate-once).
+          foundations, companies and individuals. However, Powercoders
+          appreciates every donation.
       - header: Why is a coaching included?
         text: >-
           Our participants need more than technical knowledge in order to
-          achieve a sustainable integration into employment.That’s why our
-          program includes a coaching. Each participant is accompanied by one
-          volunteering coach.
+          achieve a sustainable integration into employment. Entering a new
+          workplace and culture, with many different expectations, can be
+          intimidating and isolating. This is why our program includes a coach.
+          Each participant is matched with a coach that is best suited for them,
+          and they are then supported throughout their internship.
       - header: Who can become a coach?
         text: >-
-          Everyone who is motivated to learn about coaching and mentoring,
-          interested in other cultures and willing to spend time with his or her
-          coachee once every week. There are no IT skills needed.
+          Everyone who is a local in the specific city, motivated to learn about
+          other cultures and willing to spend time with their menteeonce every
+          week. There are no IT skills needed, just a open and supportive
+          attitude!
       - header: How long does the coaching lasts?
         text: >-
-          Coaching starts during a program and lasts until the end of the
-          internship.
+          Coaching starts towards the end of the courses and lasts until the end
+          of the internship.
       - header: Is a coach paid?
         text: >-
           The coaching is voluntary work. Powercoders is covering parts of the
           expenses.
       - header: Who can become a trainer?
         text: >-
-          IT professionals who want to support participants solving IT
-          challenges and help teaching for some days in the afternoons. There is
-          no teaching experience needed.
+          IT professionals who want to support participants in solving IT
+          challenges and help with the teaching for some days in the afternoons.
+          There is no teaching experience needed.
       - header: What IT skills are needed for a trainer?
         text: >-
-          We are looking for a different skill set. So everyone willing to
+          We are always looking for different skill sets, so everyone willing to
           support as a trainer is welcome to apply.
-      - header: >-
-          What kind of programming skills are being taught during the first 3
-          months bootcamp?
+      - header: ' What kind of programming skills are being taught during the first 3 months in the coding bootcamp?'
         text: >-
           Participants at Powercoders learn HTML, CSS, and JavaScript in the
           first seven weeks. They also learn about GIT, UX and Agile Project
-          Management. The second part of the course - after Career Day - focuses
-          more on server-side technologies and programming languages and
-          frameworks that are being used by our internship companies.
+          Management. The second part of the course - after Career Day and
+          internship placements - focuses more on server-side
+          technologies,programming languages and frameworks that are being used
+          by our internship companies.
       - header: Is a trainer paid?
         text: >-
-          The training is voluntary work. Powercoders is covering parts of the
+          The training is voluntary workaPowercoders is covering parts of the
           expenses.
       - header: What is the career day?
         text: >-
-          At the career day we are simulating a real job finding situation.
-          Every company is presenting the internship they want to offer.
-          Afterwards every company has a booth and the participants can stop by.
-          The goal of a participating company is to invite 3 to 5 participants
-          for an second interview in the following week.
+          At the career day we are simulating a real job seeking situation.
+          Every company presents the internship they want to offer, and
+          afterwards, every company has a booth that the participants are
+          invited to stop by. The goal of a participating company is to invite 3
+          to 5 participants for an second, more formal interview the following
+          week.
       - header: Is a donation tax-deductible?
         text: >-
           Yes, donations are tax-deductible, as Powercoders is a registered
