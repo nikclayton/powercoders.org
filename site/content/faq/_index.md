@@ -104,30 +104,33 @@ sections:
         text: 'Check out our current [programs for application](/program)'
       - header: How are the participants selected?
         text: >-
-          If the application looks promising, we invite the applicant to a
-          IT-test and a personal interview. We were looking for participants
-          with high learning abilities, motivation, passion, talent and
-          convincing personalities. Only the most promising ones are going to be
-          selected.
+          If the application looks promising, we invite the applicant to take an
+          IT-test and participate in a personal interview. We were looking for
+          participants with high learning abilities, motivation, passion, talent
+          and team working personalities. Only the most promising applicants
+          will be selected.
       - header: Who pays for transport?
         text: >-
-          Powercoders pays if there is no budget from the responsible social
-          welfare.
+          Powercoders pays for this if there is no budget provided by the
+          responsible social welfare authorities.
       - header: What other things does Powercoders support the participants with?
         text: >-
-          Powercoders also offers additional support for laptop, transportation
-          and food where needed.
-      - header: Does every participant goes into an internship after school?
+          Powercoders also offers support for laptops, transportation and food
+          where needed.
+      - header: Does every participant secure an internship after school?
         text: >-
           If the participant receives a diploma, normally we can provide an
-          internship.
+          internship. However, this is also dependent on the participant’s
+          willingness.
       - header: How do the participants find the right company for the internship?
         text: >-
-          At the career day. There we are simulating a real job finding
-          situation. Every company is presenting the internship they want to
-          offer. Afterwards every company has a booth and the participants can
-          stop by. The goal of a participating company is to invite 3 to 5
-          participants for an second interview in the following week.
+          We work to ensure that this is achieved at the career day, where we
+          simulate a real job seeking event. Every company presents the
+          internship they are offering, . after which each company has a booth
+          that  participants are expected to stop by at and ask questions about
+          the company and internship. The goal of a participating company is to
+          invite 3 to 5 participants for an second interview in the following
+          week.
     name: Participant
   - items:
       - header: 'I have an IT company, how can I help Powercoders?'
@@ -138,36 +141,27 @@ sections:
           us.](mailto:info@powercoders.org)
       - header: Why offer an internship for Powercoders?
         text: >-
-          An internship for Powercoders is, on the one hand, a shortcut for
-          talented people from a refugee background who need a doorway into the
-          IT labour market of Switzerland. On the other hand, it is the unique
-          chance for companies to get ahold of raw talent, get in touch with a
-          person from a refugee background, and have a strong impact on his or
-          her unusual life story. Almost every company who offered an internship
-          has told us that it was a very enriching experience for all their
-          employees.
+          An internship for Powercoders is, on the one hand, is a way to offer
+          an  talented people from a refugee background the opportunity to
+          access a doorway into the IT labour market of Switzerland. On the
+          other hand, it is the unique chance for companies to get access to raw
+          talent, get in touch with a person from a refugee background, and have
+          a strong impact on his or her unusual life story. Almost every company
+          who offered an internship has told us that it was a very enriching
+          experience for all their employees.
       - header: How long should an internship last?
         text: >-
           The average duration of an internship is 6 - 12 months. However you
           can also offer 3 months and decide later if you’d like to prolong it.
-      - header: What is the career day?
+      - header: What is the Career Day?
         text: >-
-          At the career day we simulate a real job-finding situation. Each
-          company presents in 5 minutes the internship they wish to offer.
-          Afterwards each company has a booth and the participants can stop by.
-          The goal is to invite 3 to 5 participants for an interview in the
-          following week.
+          At the Career Day, we simulate a real job-finding situation. Each
+          company has five minutes to present the internship they wish to offer.
+          Afterwards, each company has a booth and the participants can stop by
+          to ask questions and introduce themselves. The goal is to invite 3 to
+          5 participants for an interview in the following week.
       - header: Are the refugees allowed to work in Switzerland?
-        text: >-
-          Yes. Refugees with B or F permits are considered almost like Swiss
-          welfare recipients. The state wants them to be integrated, have a job
-          and become independent. The same goes for temporarily-admitted
-          foreigners with F status.
-
-
-          Asylum seekers with permit N are theoretically allowed to work, but
-          have more difficulties getting a work permit because of the priority
-          for people living in Switzerland.
+        text: "Yes. Refugees with B or F permits are considered almost like Swiss welfare recipients. The state wants them to be integrated, have a job and become independent. The same goes for temporarily-admitted foreigners with F status.\r\n\nAsylum seekers with permit N are theoretically allowed to work, but have more difficulties getting a work permit because of the priority for people living in Switzerland."
       - header: How to get the job permit for interns?
         text: >-
           The Powercoders team files the applications for the job permits. The
@@ -179,7 +173,7 @@ sections:
           The work permit is limited to the duration of the internship. However,
           if the same company wants to offer another internship or employment
           subsequently, the work permit can easily be adapted accordingly. A
-          work permit is always only valid for an employment at the company it
+          work permit is always only valid for the employment at the company it
           was applied for.
       - header: What is the recommended salary? Why?
         text: >-
@@ -214,7 +208,7 @@ sections:
 
           * share the resource with another company in the Powercoders network
       - header: >-
-          Does the company has to apply for a new job permit if the internship
+          Does the company have to apply for a new job permit if the internship
           is followed up by an apprenticeship?
         text: >-
           No, the existing job permit can easily be adapted to a permit for an
@@ -227,21 +221,24 @@ sections:
       - header: Who are the participants?
         text: >-
           The participants are highly skilled refugees from various countries.
-          Most of them already have a background in IT or engineering. But most
-          important are their learning skills.
+          Most of them already have a background in IT or engineering. But, the
+          most important strength they bring to the table are their quick
+          learning skills.
       - header: How did Powercoders select the participants?
         text: >-
-          If the application looks promising, we invite the applicant to an
-          IT-test and a personal interview. We look for participants with high
-          learning skills, motivation, passion, talent and convincing
-          personalities. Only the most promising ones are selected.
+          We invite applicants to apply online through a form, and if the
+          application looks promising, we invite them to a Recruitment Day,
+          where they are asked to take an IT-test and a personal interview. We
+          look for participants with high learning skills, motivation, passion,
+          talent and good team working personalities. Only the most promising
+          ones are selected.
       - header: Where and how do the participants live?
         text: >-
           Most of them are living in flats offered by their social service. A
           few of them (mainly the ones who have not been granted asylum) are
           living in refugee homes.
                       
-      - header: How much money does a refugee get from the social welfare per month?
+      - header: How much money does a refugee get from social welfare per month?
         text: >-
           The social welfare law of each canton regulates the amount of money
           social welfare recipients get. They follow the SKOS (Schweizerische
