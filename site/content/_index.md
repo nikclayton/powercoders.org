@@ -29,9 +29,6 @@ get_involved:
 
 
     Get involved.
-
-
-    ![](/img/screen-shot-2019-02-20-at-12.40.03-pm.png)
 program:
   - fade_in: Left
     header: Participant
