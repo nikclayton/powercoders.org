@@ -9,8 +9,8 @@ apply_as:
       <h4>Are you a refugee eager to find your way to the IT industry?</h4>
 
 
-      Apply on our website latest February 22nd, 2019 at noon. We can not accept
-      any more applications after this date and time
+      Apply on our website latest March 1st, 2019 at noon. We can not accept any
+      more applications after this date and time
 
 
       * Learn or improve coding April - June 2019
