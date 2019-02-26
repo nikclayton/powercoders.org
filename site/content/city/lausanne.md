@@ -2,7 +2,15 @@
 title: Lausanne
 section_title: Lausanne Program
 text: <h4 class="center">Powercoders Lausanne (005) will start in April 2019.</h4>
-events: []
+events:
+  - call_to_action: Join
+    header: Launch Party
+    link: >-
+      https://docs.google.com/forms/d/1016FxXo0V_6gOGwQ6LXZnf5thSFHJZbgidzNlrpIaBI/edit
+    text: |-
+      Join our Launch Party on March 29th, 5:30 pm at the Impact Hub Lausanne.
+
+      Lets celebrate the start of our new course in Lausanne together.
 apply_as:
   - header: Participant
     text: >-
