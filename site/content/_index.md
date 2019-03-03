@@ -63,8 +63,8 @@ latest:
     link: city/lausanne
     link_text: Apply
     text: >-
-      Are you a refugee eager to find your way to the IT industry? Apply now for
-      our next program in Lausanne starting in April 2019.
+      Apply now as a job coach, IT trainer or company for our next program in
+      Lausanne starting in April 2019.
   - fade_in: Left
     header: Community Party
     header_icon: fa-info
