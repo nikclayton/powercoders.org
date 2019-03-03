@@ -28,8 +28,7 @@ apply_as:
       * Get your IT-job by March 2020
 
 
-      <p><a href="https://form.jotformeu.com/83433637281358" class="btn
-      waves-effect waves-light pwc-red">Apply</a></p>
+      Application closed
   - header: Coach
     text: >-
       If you are a local in Lausanne or surroundings and would like to support a
