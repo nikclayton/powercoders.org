@@ -16,15 +16,16 @@ apply_as:
       <h4>Are you a refugee eager to find your way to the IT industry?</h4>
 
 
-      The applycation will start soon. Make sure you sing up to our newsletter
-      to get informed, when it starts.
-
-
       * Learn or improve coding 
 
       * Do an internship for 6-12 months
 
       * Get your IT-job
+
+
+      The application will start soon. Make sure to sign up to our
+      [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
+      to keep informed.
   - header: Coach
     text: >-
       If you are a local in Zürich or surroundings and would like to support a
@@ -41,7 +42,9 @@ apply_as:
       * End of the coaching 
 
 
-      As soon as you apply, we will contact you soon for the next steps.
+      The application will start soon. Make sure to sign up to our
+      [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
+      to keep informed.
   - header: Teacher
     text: >-
       If you are an IT professional, like to support our participants solving IT
@@ -54,6 +57,11 @@ apply_as:
       * Get a slot in class in Fall
 
       * Join graduation
+
+
+      The application will start soon. Make sure to sign up to our [newsletter
+      ](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)to
+      keep informed.
   - header: Company
     text: >-
       If you are an IT company, an agency or an IT department in Romandie, are
@@ -70,10 +78,15 @@ apply_as:
       * 2nd Interviews 
 
       * Start internship
+
+
+      The application will start soon. Make sure to sign up to our
+      [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
+      to keep informed.
 team:
   header: Team Zürich
   members:
-    - description: Social Leed
+    - description: Social Lead
       image: /img/andrina_portray_001-1-.jpg
       name: Andrina Beuggert
     - description: Teaching Lead
