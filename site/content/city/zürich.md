@@ -1,5 +1,5 @@
 ---
-title: Zürich
+title: Zurich
 section_title: Zürich Program
 text: <h4 class="center">Powercoders Zürich   will start in Fall 2019.</h4>
 events:
