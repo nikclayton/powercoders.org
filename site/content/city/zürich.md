@@ -1,6 +1,6 @@
 ---
 title: Zurich
-section_title: Zürich Program
+section_title: Zurich Program
 text: <h4 class="center">Powercoders Zürich   will start in Fall 2019.</h4>
 events:
   - call_to_action: Sing up
