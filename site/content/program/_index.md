@@ -231,6 +231,11 @@ city_program:
       text: >-
         We are planning for other cities starting next year. Join our mailing
         list to receive the latest news and updates.
+    - call_to_action: More
+      fade_in: Up
+      header: Zurich
+      link: city/zürich
+      text: The program is starting in fall 2019. Applications will soon be open.
 past_program:
   header: Past Program
   items:
