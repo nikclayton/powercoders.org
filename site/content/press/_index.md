@@ -14,6 +14,10 @@ media:
             text: >-
               La Liberté - Ils s’intègrent grâce à l’informatique (Story of
               Tenzin).
+      - date: 08.03.2019
+        links:
+          - link: 'https://www.rts.ch/play/tv/redirect/detail/10274255'
+            text: RTS - Des migrants formés pour combler la pénurie d'informaticiens
     year: '2019'
   - entries:
       - date: 12.05.2018
