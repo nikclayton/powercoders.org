@@ -1,5 +1,5 @@
 ---
-title: Zürich
+title: Zürich 002
 image: /img/zh.jpg
 section_title: Zürich Program
 text: >-
