@@ -223,6 +223,12 @@ city_program:
       header: Basel
       link: /city/basel/
       text: 'The program started 26th of November, 2018. Application is closed.'
+    - call_to_action: More
+      color: teal lighten-4
+      fade_in: Up
+      header: Zurich
+      link: city/zürich
+      text: The program is starting in fall 2019. Applications will soon be open.
     - call_to_action: Get updated
       color: pwc-red-light20
       fade_in: Left
@@ -231,11 +237,6 @@ city_program:
       text: >-
         We are planning for other cities starting next year. Join our mailing
         list to receive the latest news and updates.
-    - call_to_action: More
-      fade_in: Up
-      header: Zurich
-      link: city/zürich
-      text: The program is starting in fall 2019. Applications will soon be open.
 past_program:
   header: Past Program
   items:
