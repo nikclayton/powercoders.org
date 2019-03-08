@@ -74,6 +74,7 @@ team:
   header: Team Zürich
   members:
     - description: Social Leed
+      image: /img/andrina_portray_001-1-.jpg
       name: Andrina Beuggert
     - description: Teaching Lead
       image: /img/nik_clayton.jpg
