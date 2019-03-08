@@ -61,11 +61,7 @@ apply_as:
       offer an IT job in the long-run, join us.
 
 
-      * 
-
-
-      Apply soon on our website 
-
+      * Apply soon on our website 
 
       * Join a community meet-up 
 
