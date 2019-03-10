@@ -1,9 +1,9 @@
 ---
 title: Zurich
 section_title: Zurich Program
-text: <h4 class="center">Powercoders Zürich   will start in Fall 2019.</h4>
+text: <h4 class="center">Powercoders Zurich  will start in Fall 2019.</h4>
 events:
-  - call_to_action: Sing up
+  - call_to_action: Sign up
     header: Community Meetup
     link: 'https://bit.ly/2HjhfJM'
     text: >-
@@ -84,7 +84,7 @@ apply_as:
       [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
       to keep informed.
 team:
-  header: Team Zürich
+  header: Team Zurich
   members:
     - description: Social Lead
       image: /img/andrina_portray_001-1-.jpg
