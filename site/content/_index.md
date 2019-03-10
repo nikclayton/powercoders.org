@@ -58,13 +58,13 @@ program:
       from?
 latest:
   - fade_in: Up
-    header: Next program Lausanne
+    header: Lausanne launch party
     header_icon: fa-signup
     link: city/lausanne
-    link_text: Apply
+    link_text: Sign up
     text: >-
-      Apply now as a job coach, IT trainer or company for our next program in
-      Lausanne starting in April 2019.
+      Let's celebrate the start of the new program in Lausanne and join our
+      launch party on March 29th, 5:30 p.m. at Impact Hub Lausanne. 
   - fade_in: Left
     header: Community Party
     header_icon: fa-info
@@ -75,15 +75,6 @@ latest:
       Join our first community party on May 3rd at Liip Bern. All the people
       connected to the Powercoders family are invited to join for a wonderful
       evening.
-  - fade_in: Up
-    header: Basel Graduation Party
-    header_icon: ''
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSdtpT45rLn4t2GGdt-DnmQrqk2Ss9uzEsHQUaX6m7hOTOdYRQ/viewform
-    link_text: Register
-    text: |-
-      Basel Graduation party, March 8th, 2019
-      Let's celebrate together the end of the fourth batch of Powercoders
   - fade_in: Down
     header: Impact report 2018
     link: >-
