@@ -44,12 +44,8 @@ roles:
       * Access to an internship lasting between 6 and 12 months
 
 
-      If the aforementioned information applies to you, apply to the program
-      closest to their place of residence.
-
-
-      <a href="/city/lausanne/#participant" class="btn waves-effect waves-light
-      pwc-red">Lausanne</a>
+      If the above mentioned information applies to you, apply to the program
+      closest to your place of residence. Our current programs: 
 
 
       <a href="/city/istanbul/#participant" class="btn waves-effect waves-light
@@ -118,10 +114,8 @@ roles:
 
 
       Teaching sessions usually take place in the mornings. In the afternoons,
-      the participants
-
-      focus on practising the things they learned in the morning. That’s where
-      our “Trainers” come
+      the participants focus on practising the things they learned in the
+      morning. That’s where our “trainers” come
 
       in, helping them individually or in groups to get their exercises and
       “homework” done.
