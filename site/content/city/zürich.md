@@ -57,25 +57,22 @@ apply_as:
       The application will start soon.
   - header: Company
     text: >-
-      If you are an IT company, an agency or an IT department in Romandie, are
-      eager to support a refugee during an internship and are eventually able to
-      offer an IT job in the long-run, join us.
+      If you are an IT company, an agency or an IT department, and eager to
+      support a refugee during an internship and eventually able to offer an IT
+      job in the long-run, join us.
 
 
-      * Apply soon on our website 
-
-      * Join a community meet-up 
-
-      * Join Career Day 
-
-      * 2nd Interviews 
-
-      * Start internship
+      What to expect:  
 
 
-      The application will start soon. Make sure to sign up to our
-      [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
-      to keep informed.
+      * Join career day to get to know the students (week 7 of school phase)
+
+      * Interview sessions with students 
+
+      * Start of internship of 6 - 12 month
+
+
+      The application will start soon.
 team:
   header: Team Zurich
   members:
