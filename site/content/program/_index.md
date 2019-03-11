@@ -237,5 +237,8 @@ past_program:
     - header: Lausanne
       link: /city/lausanne-003/
       text: Graduation 20.07.18
+    - header: Basel
+      link: /city/basel/
+      text: Graduation 08.03.18
 ---
 
