@@ -51,12 +51,12 @@ apply_as:
     text: >-
       If you are an IT professional, like to support our participants solving IT
       challenges and like to work in teams, join us. Check the job description
-      here
+      [here](https://powercoders.org/program/#trainer)
 
 
       * Apply soon
 
-      * Get a slot in class in Fall
+      * Get a slot in class in fall
 
       * Join graduation
 
