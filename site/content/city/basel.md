@@ -4,20 +4,7 @@ section_title: Basel Program
 text: >-
   <h4 class="center">Powercoders Basel (004) batch start is on November 26 with
   20 new participants, 4 females, 16 males and from 7 nations.</h4>
-events:
-  - call_to_action: Dates of Meetups
-    header: Community Meetups
-    link: 'https://www.facebook.com/events/649321778803420/'
-    text: >-
-      Every Thursday at 16:00, we open the doors for the community. There will
-      be a progress presentation and a cultural presentation followed by snacks
-      and drinks.
-  - call_to_action: Register
-    header: Graduation Party
-    link: 'https://goo.gl/forms/GXQxGtG4rk2ULxE33'
-    text: |-
-      Basel Graduation party, March 8th, 2019
-      Let's celebrate together the end of the fourth batch of Powercoders
+events: []
 apply_as:
   - header: Coach
     text: >-
