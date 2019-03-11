@@ -20,10 +20,28 @@ media:
               Tenzin).
     year: '2019'
   - entries:
+      - date: 22.12.2018
+        links:
+          - link: 'https://www.derbund.ch/19450438'
+            text: 'Der Bund-"Es hilft, wenn man nicht zu viel von der Sache versteht"'
+      - date: 12.12.2018
+        links:
+          - link: >-
+              https://www.redbull.com/ch-de/videos/red-bull-basement-festival-christian-hirsig
+            text: Red Bull- Our Founder presents Powercoders
+      - date: 30.10.2018
+        links:
+          - link: >-
+              https://www.baselarea.swiss/baselarea-swiss/channels/innovation-report/2018/10/Mit-den-Powercoders-werden-Gefluechtete-in-Basel-zu-Programmierern.html
+            text: Mit den Powercoders werden Geflüchtete in Basel zu Programmierern
       - date: 12.05.2018
         links:
           - link: 'https://twitter.com/CNNMoneyCH/status/995331994224611328'
             text: Twitter – CNNMoney Switzerland
+      - date: 05.04.2018
+        links:
+          - link: 'https://www.liip.ch/en/blog/mannar-from-aleppo-to-bern'
+            text: 'Mannar: from Aleppo to Bern'
       - date: 13.03.2018
         links:
           - link: >-
