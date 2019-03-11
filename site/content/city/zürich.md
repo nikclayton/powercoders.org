@@ -33,18 +33,20 @@ apply_as:
       join us.
 
 
-      * Apply soon on our website 
-
-      * Be matched with a participant 
-
-      * Coaching workshop 
-
-      * End of the coaching 
+      What to expect: 
 
 
-      The application will start soon. Make sure to sign up to our
-      [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
-      to keep informed.
+      * Be matched with a participant by the end of the school phase
+
+      * Get ready by several coaching workshops
+
+      * Meet your coachee regularly during their internship and help them to
+      achieve their goals
+
+      * The coaching lasts during the whole internship phase
+
+
+      The application will start soon.
   - header: Teacher
     text: >-
       If you are an IT professional, like to support our participants solving IT
