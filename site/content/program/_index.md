@@ -213,12 +213,6 @@ city_program:
         now closed!
     - call_to_action: More
       color: teal lighten-4
-      fade_in: Right
-      header: Basel
-      link: /city/basel/
-      text: 'The program started 26th of November, 2018. Application is closed.'
-    - call_to_action: More
-      color: teal lighten-4
       fade_in: Up
       header: Zurich
       link: /city/zürich
