@@ -33,26 +33,26 @@ program:
   - fade_in: Left
     header: Participant
     link: 'program/#participant'
-    link_text: apply now
+    link_text: more
     text: Are you a refugee eager to find your way into the IT industry?
   - fade_in: Up
     header: Coach
     link: 'program/#coach'
-    link_text: apply as coach
+    link_text: more
     text: >-
       Do you want to support a refugee in becoming successfully integrated in
       the local IT labor market?
   - fade_in: Up
     header: Trainer
     link: 'program/#trainer'
-    link_text: apply as trainer
+    link_text: more
     text: >-
       Are you an IT professional who likes to share their knowledge with
       newcomers?
   - fade_in: Right
     header: Company
     link: 'program/#company'
-    link_text: offer an intership
+    link_text: more
     text: >-
       Are you an IT company looking for talent no matter from where it comes
       from?
