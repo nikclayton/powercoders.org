@@ -51,19 +51,10 @@ apply_as:
     text: >-
       If you are an IT professional, like to support our participants solving IT
       challenges and like to work in teams, join us. Check the job description
-      [here](https://powercoders.org/program/#trainer)
+      [here](https://powercoders.org/program/#trainer).
 
 
-      * Apply soon
-
-      * Get a slot in class in fall
-
-      * Join graduation
-
-
-      The application will start soon. Make sure to sign up to our [newsletter
-      ](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)to
-      keep informed.
+      The application will start soon.
   - header: Company
     text: >-
       If you are an IT company, an agency or an IT department in Romandie, are
