@@ -30,7 +30,7 @@ apply_as: []
 team:
   header: Team Lausanne
   members:
-    - description: Teach Lead
+    - description: Teaching Lead
       image: /img/helene-portier.jpg
       name: Hélène Portier
     - description: Program Manager
