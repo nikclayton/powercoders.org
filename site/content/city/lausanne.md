@@ -63,13 +63,8 @@ apply_as:
       offer an IT job in the long-run, join us.
 
 
-      * 
-
-
       Apply on our website latest April 30th, 2019
 
-
-      * Join a community meet-up in April, 2019
 
       * Join Career Day in May, 2019
 
