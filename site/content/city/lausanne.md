@@ -93,7 +93,7 @@ team:
     - description: Social Lead
       image: /img/coline-sauzet.jpg
       name: Coline Sauzet
-    - description: Teach Lead
+    - description: Teaching Lead
       image: /img/male-user.jpg
       name: Sorin Paun
 partner: []
