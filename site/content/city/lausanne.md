@@ -88,7 +88,7 @@ team:
   header: Team Lausanne
   members:
     - description: Industry Lead
-      image: /img/female-user.jpg
+      image: /img/magaly-mathis.jpg
       name: Magaly Mathys
     - description: Social Lead
       image: /img/coline-sauzet.jpg
