@@ -91,7 +91,7 @@ team:
       image: /img/female-user.jpg
       name: Magaly Mathys
     - description: Social Lead
-      image: /img/female-user.jpg
+      image: /img/coline-sauzet.jpg
       name: Coline Sauzet
     - description: Teach Lead
       image: /img/male-user.jpg
