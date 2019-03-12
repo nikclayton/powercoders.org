@@ -37,6 +37,7 @@ team:
       image: /img/hussam-allaham.jpg
       name: Hussam Allaham
     - description: Social Lead
+      image: /img/coline-sauzet.jpg
       name: Coline Sauzet
 partner:
   - image: /img/arcas.jpg
