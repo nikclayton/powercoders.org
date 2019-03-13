@@ -36,9 +36,6 @@ apply_as:
       join us.
 
 
-      * 
-
-
       Apply on our website latest May 31st, 2019
 
 
