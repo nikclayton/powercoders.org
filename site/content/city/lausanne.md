@@ -1,6 +1,6 @@
 ---
 title: Lausanne
-section_title: Lausanne Program
+section_title: Lausanne (French-speaking part of Switzerland)
 text: <h4 class="center">Powercoders Lausanne (005) will start in April 2019.</h4>
 events:
   - call_to_action: Join
