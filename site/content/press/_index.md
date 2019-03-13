@@ -113,6 +113,10 @@ media:
           - link: >-
               http://www.bernerzeitung.ch/region/bern/mit-javascript-zum-ersten-job/story/28217431
             text: Mit Javascript zum ersten Job
+      - date: 27.11.2017
+        links:
+          - link: 'https://youtu.be/kILDP3NmA6A'
+            text: TedX Zurich - Talk of Founder Christian Hirsig
     year: 2017
   - entries:
       - date: 31. 12. 2016
