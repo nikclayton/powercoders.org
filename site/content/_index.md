@@ -87,10 +87,7 @@ teaser_image2:
   image: /img/ted-zh.jpg
   text: A vacant IT job can be filled with a displaced person.
 story:
-  text: |-
-    “We all can do more, we all can do better.”
-
-    Watch Chris, founder of Powercoders, at TED Zurich on how all was started.
+  text: ''
   video_id: IKuz7vA30sI
 partner:
   - image: /img/schweizerische-eidgenossenschaft.png
