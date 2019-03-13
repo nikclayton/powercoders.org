@@ -202,7 +202,8 @@ city_program:
       link: /city/lausanne/
       text: >-
         The program is starting in April, 2019. Application for participants is
-        now open.
+        already closed, but we are still looking for job coaches, trainers and
+        companies.
     - call_to_action: More
       color: teal lighten-4
       fade_in: Right
