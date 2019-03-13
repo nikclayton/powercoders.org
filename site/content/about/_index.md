@@ -22,10 +22,11 @@ text: >-
   involved](/program/).
 
 
-
-
   [Impact report
   2018](https://drive.google.com/file/d/16QKTbrsnDtdbVDCUNLBFt6B_F2qnMdX4/view?usp=sharing)
+
+
+  [TedX Talk of Founder](https://youtu.be/kILDP3NmA6A)
 timeline:
   - date: JUN 2016
     text: incorporation non-profit
