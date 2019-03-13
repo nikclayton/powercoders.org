@@ -176,7 +176,7 @@ team:
       image: /img/hussam-allaham.jpg
       name: Hussam Allaham
     - description: Social Lead
-      image: /img/female-user.jpg
+      image: /img/sule-celik.jpg
       name: Sule Celik
     - description: Industry Lead
       image: /img/male-user.jpg
