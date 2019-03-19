@@ -7,7 +7,7 @@ text: >-
   refugees in IT companies and IT departments.
 
 
-  It all started with a trip to the United States. At this time, the refugee
+  It all **started **with a trip to the United States. At this time, the refugee
   crisis in Europe was all over the news. Founder Christian Hirsig met two other
   entrepreneurs in the US: one with a cooking school for refugees, one with a
   coding academy for women. Inspired by their projects and driven by the energy
