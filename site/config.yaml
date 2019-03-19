@@ -12,15 +12,15 @@ menu:
     name: Home
     url: /
     weight: 1
-  - identifier: program
-    name: Program
-    title: Get involved
-    url: /program/
-    weight: 2
   - identifier: about
     name: About
     title: Meet the team
     url: /about/
+    weight: 2
+  - identifier: program
+    name: Program
+    title: Get involved
+    url: /program/
     weight: 3
   - identifier: membership
     name: Membership
