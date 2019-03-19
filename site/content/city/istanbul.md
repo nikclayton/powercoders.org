@@ -198,12 +198,6 @@ partner:
     name: Impact Hub Istanbui
     size: s6 m2
 industry_partner: []
-faqs:
-  - header: How was Powercoders started?
-    text: "It all started with a trip to the United States. The American government invited an entrepreneur of each European country.\r\n\nFounder Christian Hirsig met two entrepreneurs there, one with a cooking school for refugees, one with a coding academy for women. At this time, the refugee crisis in Europe was all over the news. Driven by the energy to help, the idea of Powercoders was born."
-  - header: Who can participate?
-    text: >-
-      Talented refugees, independent from their place of living, as long as
-      they are allowed to travel.
+faqs: []
 ---
 
