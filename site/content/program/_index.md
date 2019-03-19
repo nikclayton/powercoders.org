@@ -227,7 +227,7 @@ city_program:
         We are planning for other cities starting next year. Join our mailing
         list to receive the latest news and updates.
 past_program:
-  header: Past Program
+  header: Past Programs
   items:
     - header: Bern
       link: /city/bern/
