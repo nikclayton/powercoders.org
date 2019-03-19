@@ -2,6 +2,7 @@ baseurl: "/"
 languageCode: "en-us"
 title: "Powercoders"
 enableRobotsTXT: true
+publish_mode: editorial_workflow
 disableKinds:
   - taxonomy
   - taxonomyTerm
