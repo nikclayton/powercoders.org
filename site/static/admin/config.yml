@@ -495,16 +495,16 @@ collections:
             name: link
             widget: string
       - label: FAQs
-          name: faqs
-          required: false
-          widget: list
-          fields:
-            - label: Header
-              name: header
-              widget: string
-            - label: Text
-              name: text
-              widget: markdown
+        name: faqs
+        required: false
+        widget: list
+        fields:
+          - label: Header
+            name: header
+            widget: string
+          - label: Text
+            name: text
+            widget: markdown
 
   - name: helpers
     label: Helpers
