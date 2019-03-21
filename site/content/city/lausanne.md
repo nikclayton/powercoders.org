@@ -19,7 +19,9 @@ apply_as:
       <h4>Are you a refugee eager to find your way to the IT industry?</h4>
 
 
-      Apply on our website 
+      We are running 2 programs each year in Lausanne. For the one in spring
+      2019, the application is already closed. You can now apply for the program
+      in autumn 
 
 
       * Learn or improve coding September - November 2019
