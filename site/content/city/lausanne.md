@@ -35,11 +35,11 @@ apply_as:
       Apply on our website
 
 
-      * Be matched with a participant 
+      * Be matched with a participant June 12th 2019 
 
-      * Coaching workshop 
+      * Coaching workshop June 19th 2019
 
-      * End of the coaching
+      * End of the coaching March 2020
 
 
       As soon as you apply, we will contact you soon for the next steps.
@@ -56,9 +56,9 @@ apply_as:
 
       * Apply now
 
-      * Get a slot in class 
+      * Get a slot in class  from April 2019 - June 2019
 
-      * Join graduation 
+      * Join graduation June 28th 2019 (evening)
 
 
       Please apply via the link below. We will contact you soon to present our
@@ -77,11 +77,11 @@ apply_as:
       Apply on our website 
 
 
-      * Join Career Day 
+      * Join Career Day in May, 2019 
 
-      * 2nd Interviews 
+      * 2nd Interviews end of May, 2019
 
-      * Start internship 
+      * Start internship by July, 2019
 
 
       You must apply via the link below. We will contact you soon to schedule a
