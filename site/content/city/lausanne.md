@@ -35,11 +35,11 @@ apply_as:
       Apply on our website
 
 
-      * Be matched with a participant June 12th , 2019
+      * Be matched with a participant 
 
-      * Coaching workshop June 19th, 2019
+      * Coaching workshop 
 
-      * End of the coaching March 2020
+      * End of the coaching
 
 
       As soon as you apply, we will contact you soon for the next steps.
@@ -48,7 +48,25 @@ apply_as:
       <a href="https://form.jotformeu.com/83392375181360" class="btn
       waves-effect waves-light pwc-red" target="_blank">Apply</a>
   - header: Trainer
-    text: "If you are an IT professional, like to support our participants solving IT challenges and like to work in teams, join us. Check the job description here\r\n\n* Apply now\r\n* Get a slot in class from April 2019 - June 2019\r\n* Join graduation June 28th, 2019 (evening)\r\n\nPlease apply via the link below. We will contact you soon to present our curriculum.\n\n<a href=\"https://goo.gl/forms/aCR5QVVe66Spk8HG3\" class=\"btn waves-effect waves-light pwc-red\" target=\"_blank\">Apply</a>"
+    text: >-
+      If you are an IT professional, like to support our participants solving IT
+      challenges and like to work in teams, join us. Check the job description
+      here
+
+
+      * Apply now
+
+      * Get a slot in class 
+
+      * Join graduation 
+
+
+      Please apply via the link below. We will contact you soon to present our
+      curriculum.
+
+
+      <a href="https://goo.gl/forms/aCR5QVVe66Spk8HG3" class="btn waves-effect
+      waves-light pwc-red" target="_blank">Apply</a>
   - header: Company
     text: >-
       If you are an IT company, an agency or an IT department in Romandie, are
@@ -56,14 +74,14 @@ apply_as:
       offer an IT job in the long-run, join us.
 
 
-      Apply on our website latest April 30th, 2019
+      Apply on our website 
 
 
-      * Join Career Day in May, 2019
+      * Join Career Day 
 
-      * 2nd Interviews end of May, 2019
+      * 2nd Interviews 
 
-      * Start internship by July 2019
+      * Start internship 
 
 
       You must apply via the link below. We will contact you soon to schedule a
