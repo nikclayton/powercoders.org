@@ -31,7 +31,8 @@ apply_as:
       * Get your IT-job 
 
 
-      # ****[**Apply here**](https://form.jotformeu.com/90632993486369)****
+      <a href="https://form.jotformeu.com/90632993486369"btn waves-effect
+      waves-light pwc-red" target="_blank">Apply</a>
   - header: Coach
     text: >-
       If you are a local in Lausanne or surroundings and would like to support a
