@@ -15,22 +15,16 @@ events:
       Lets celebrate the start of our new course in Lausanne together.
 apply_as:
   - header: Participant
-    text: >-
+    text: |-
       <h4>Are you a refugee eager to find your way to the IT industry?</h4>
 
+      Apply on our website 
 
-      Apply on our website latest March 1st, 2019 at noon. We can not accept any
-      more applications after this date and time
+      * Learn or improve coding September - November 2019
+      * Do an internship from December 2019 - June 2020
+      * Get your IT-job 
 
-
-      * Learn or improve coding April - June 2019
-
-      * Do an internship from July - December 2019
-
-      * Get your IT-job by March 2020
-
-
-      Application closed
+      https://form.jotformeu.com/90632993486369
   - header: Coach
     text: >-
       If you are a local in Lausanne or surroundings and would like to support a
@@ -38,7 +32,7 @@ apply_as:
       join us.
 
 
-      Apply on our website latest May 31st, 2019
+      Apply on our website
 
 
       * Be matched with a participant June 12th , 2019
