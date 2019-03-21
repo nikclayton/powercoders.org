@@ -19,9 +19,7 @@ apply_as:
       <h4>Are you a refugee eager to find your way to the IT industry?</h4>
 
 
-      We are running 2 programs each year in Lausanne. For the one in spring
-      2019, the application is already closed. You can now apply for the program
-      in autumn
+      Apply on our website 
 
 
       * Learn or improve coding September - November 2019
@@ -31,8 +29,8 @@ apply_as:
       * Get your IT-job 
 
 
-      <a href="https://form.jotformeu.com/90632993486369"btn waves-effect
-      waves-light pwc-red" target="_blank">Apply</a>
+      <a href="https://form.jotformeu.com/90632993486369" class="btn
+      waves-effect waves-light pwc-red" target="_blank">Apply</a>
   - header: Coach
     text: >-
       If you are a local in Lausanne or surroundings and would like to support a
