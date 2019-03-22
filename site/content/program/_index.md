@@ -48,6 +48,10 @@ roles:
       closest to your place of residence. Our current programs: 
 
 
+      <a href="/city/lausanne/#participant" class="btn waves-effect waves-light
+      pwc-red">Lausanne</a>
+
+
       <a href="/city/istanbul/#participant" class="btn waves-effect waves-light
       pwc-red">Istanbul</a>
 
