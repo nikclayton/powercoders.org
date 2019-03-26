@@ -2,14 +2,7 @@
 title: Zurich
 section_title: Zurich Program
 text: <h4 class="center">Powercoders Zurich  will start in Fall 2019.</h4>
-events:
-  - call_to_action: Sign up
-    header: Co-create meetup
-    link: 'https://bit.ly/2HjhfJM'
-    text: >-
-      In 2019 Powercoders will return to Zurich! We therefore want to invite you
-      to the next Powercoders Community Meetup in Zurich. Monday, 25 March, 6pm
-      at Liip.
+events: []
 apply_as:
   - header: Participant
     text: >-
