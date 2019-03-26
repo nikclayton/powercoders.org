@@ -108,7 +108,7 @@ team:
       image: /img/coline-sauzet.jpg
       name: Coline Sauzet
     - description: Teaching Lead
-      image: /img/male-user.jpg
+      image: /img/sorin.jpg
       name: Sorin Paun
 partner: []
 industry_partner: []
