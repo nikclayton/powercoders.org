@@ -1,7 +1,9 @@
 ---
 title: Zurich
 section_title: Zurich Program
-text: <h4 class="center">Powercoders Zurich  will start in Fall 2019.</h4>
+text: >-
+  <h4 class="center">Powercoders Zurich (006) will start in Fall 2019 for all
+  the German-speaking part of Switzerland.</h4>
 events: []
 apply_as:
   - header: Participant
