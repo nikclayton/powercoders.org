@@ -18,7 +18,9 @@ apply_as:
       * Get your IT-job
 
 
-      The application will start soon. Make sure to sign up to our
+      The application will start soon. If you are interested, sign up
+      [here](https://forms.gle/Mo6GYiQw9ZSsSDSd9) and make sure to sign up to
+      our
       [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
       to keep informed.
   - header: Coach
