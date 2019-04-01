@@ -26,8 +26,8 @@ text: >-
   community
 
 
-  Do you have any advice or contacts for us? Please let us know:
-  andrina.beuggert@powercoders.org
+  Do you have any advice or contacts for us? [Please let us
+  know](andrina.beuggert@powercoders.org).
 events: []
 apply_as:
   - header: Participant
