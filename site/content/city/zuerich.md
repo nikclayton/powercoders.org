@@ -2,8 +2,28 @@
 title: Zurich
 section_title: Zurich Program
 text: >-
-  <h4 class="center">Powercoders Zurich (006) will start in Fall 2019 for all
-  the German-speaking part of Switzerland.</h4>
+  <h4 class="center">Powercoders will return to Zurich in fall 2019 as a digital
+  learning hub for refugees in German-speaking Switzerland. </h4>
+
+
+
+
+  **SUPPORT US**
+
+
+  We are looking for a location in Zurich from August 2019: 
+
+
+  * Centrally located (max. 15min from HB)
+
+  * One Classroom (20 students, squared layout, friendly)
+
+  * Ideally break room and meeting room, and in proximity to the social/tech
+  community
+
+
+  Do you have any advice or contacts for us? Please let us know:
+  andrina.beuggert@powercoders.org
 events: []
 apply_as:
   - header: Participant
