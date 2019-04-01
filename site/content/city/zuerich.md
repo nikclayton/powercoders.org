@@ -64,7 +64,7 @@ apply_as:
 
 
       The application will start soon.
-  - header: Teacher
+  - header: Trainer
     text: >-
       If you are an IT professional, like to support our participants solving IT
       challenges and like to work in teams, join us. Check the job description
