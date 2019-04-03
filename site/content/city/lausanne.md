@@ -6,7 +6,7 @@ text: >-
   adressed to the French-speaking part of Switzerland.</h4>
 events:
   - call_to_action: Join
-    header: Carrer Day
+    header: Career Day
     link: >-
       https://docs.google.com/forms/d/e/1FAIpQLScRsGCWNdOgZ8XxpZ_HpG5su_nUr1tQu7BTN27ZUHKLjNf7kA/viewform
     text: >-
