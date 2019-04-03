@@ -58,13 +58,15 @@ program:
       from?
 latest:
   - fade_in: Up
-    header: Lausanne launch party
+    header: Career Day
     header_icon: fa-signup
-    link: city/lausanne
-    link_text: Sign up
+    link: >-
+      https://docs.google.com/forms/d/e/1FAIpQLScRsGCWNdOgZ8XxpZ_HpG5su_nUr1tQu7BTN27ZUHKLjNf7kA/viewform
+    link_text: Join
     text: >-
-      Let's celebrate the start of the new program in Lausanne and join our
-      launch party on March 29th, 5:30 p.m. at Impact Hub Lausanne. 
+      Could you offer an internship in web or software development? Join our
+      career day and meet our talented and motivated students. Let's impact
+      lives!
   - fade_in: Left
     header: Community Party
     header_icon: fa-info
