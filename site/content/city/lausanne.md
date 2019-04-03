@@ -10,8 +10,9 @@ events:
     link: >-
       https://docs.google.com/forms/d/e/1FAIpQLScRsGCWNdOgZ8XxpZ_HpG5su_nUr1tQu7BTN27ZUHKLjNf7kA/viewform
     text: >-
-      Present the internship of your company at our career day and get to know
-      our talented and motivated students. Let's impact lives!
+      Could you offer an internship in web or software development? Join our
+      career day and meet our talented and motivated students. Let's impact
+      lives!
 apply_as:
   - header: Participant
     text: >-
