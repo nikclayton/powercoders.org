@@ -6,13 +6,12 @@ text: >-
   adressed to the French-speaking part of Switzerland.</h4>
 events:
   - call_to_action: Join
-    header: Launch Party
+    header: Carrer Day
     link: >-
-      https://docs.google.com/forms/d/1016FxXo0V_6gOGwQ6LXZnf5thSFHJZbgidzNlrpIaBI/edit
-    text: |-
-      Join our Launch Party on March 29th, 5:30 pm at the Impact Hub Lausanne.
-
-      Lets celebrate the start of our new course in Lausanne together.
+      https://docs.google.com/forms/d/e/1FAIpQLScRsGCWNdOgZ8XxpZ_HpG5su_nUr1tQu7BTN27ZUHKLjNf7kA/viewform
+    text: >-
+      Present the internship of your company at our career day and get to know
+      our talented and motivated students. Let's impact lives!
 apply_as:
   - header: Participant
     text: >-
