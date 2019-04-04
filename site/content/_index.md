@@ -65,8 +65,8 @@ latest:
     link_text: Join
     text: >-
       Could you offer an internship in web or software development? Join our
-      career day and meet our talented and motivated students. Let's impact
-      lives!
+      career day on May7, 2019 in Lausanne and meet our talented and motivated
+      students. Let's impact lives!
   - fade_in: Left
     header: Community Party
     header_icon: fa-info
