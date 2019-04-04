@@ -11,8 +11,8 @@ events:
       https://docs.google.com/forms/d/e/1FAIpQLScRsGCWNdOgZ8XxpZ_HpG5su_nUr1tQu7BTN27ZUHKLjNf7kA/viewform
     text: >-
       Could you offer an internship in web or software development? Join our
-      career day and meet our talented and motivated students. Let's impact
-      lives!
+      career day on May 7, 2019 and meet our talented and motivated students.
+      Let's impact lives!
 apply_as:
   - header: Participant
     text: >-
@@ -79,13 +79,15 @@ apply_as:
     text: >-
       If you are an IT company, an agency or an IT department in Romandie, are
       eager to support a refugee during an internship and are eventually able to
-      offer an IT job in the long-run, join us.
+      offer an IT job in the long-run, join us. For more information, check out
+      our [slide
+      deck](https://docs.google.com/presentation/d/1oUgSKAxwL3C5ccBMnVeQaTTHv4-dWdSUQsPsUkBEwBo/edit#slide=id.g3af7b31b61_0_30).
 
 
-      Apply on our website 
+      For the next batch, we have the following schedule:
 
 
-      * Join Career Day in May, 2019 
+      * Career Day on May 7, 2019 
 
       * 2nd Interviews end of May, 2019
 
