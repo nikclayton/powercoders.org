@@ -79,8 +79,8 @@ apply_as:
     text: >-
       If you are an IT company, an agency or an IT department in Romandie, are
       eager to support a refugee during an internship and are eventually able to
-      offer an IT job in the long-run, join us. For more information, check out
-      our [slide
+      offer an IT job in the long-run, join us. For more information, have a
+      look at our [slide
       deck](https://docs.google.com/presentation/d/1oUgSKAxwL3C5ccBMnVeQaTTHv4-dWdSUQsPsUkBEwBo/edit#slide=id.g3af7b31b61_0_30).
 
 
