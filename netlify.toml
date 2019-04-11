@@ -32,6 +32,10 @@
   to = "/faq/"
 
 [[redirects]]
+  from = "/international/index.php"
+  to = "/international/"
+
+[[redirects]]
   from = "/city/lausanne/index.php"
   to = "/city/lausanne/"
 
