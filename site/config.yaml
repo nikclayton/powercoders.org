@@ -43,8 +43,3 @@ menu:
     title: Frequently Asked Questions
     url: /faq/
     weight: 7
-  - identifier: international
-    name: international
-    title: Bring Powercoders to your city
-    url: /international/
-    weight: 8
