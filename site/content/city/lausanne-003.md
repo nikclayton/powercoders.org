@@ -45,7 +45,8 @@ team:
     - description: Participant
       image: /img/ali-alshweiki.jpg
       name: Ali Alshweiki
-    - image: /img/bashir-nahas.jpg
+    - description: Participant
+      image: /img/bashir-nahas.jpg
       name: Bashir Nahas
 partner:
   - image: /img/arcas.jpg
