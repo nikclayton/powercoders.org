@@ -45,6 +45,8 @@ team:
     - description: Participant
       image: /img/ali-alshweiki.jpg
       name: Ali Alshweiki
+    - image: /img/bashir-nahas.jpg
+      name: Bashir Nahas
 partner:
   - image: /img/arcas.jpg
     link: 'https://www.arcas-foundation.ch/'
