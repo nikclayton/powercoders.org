@@ -1,6 +1,6 @@
 ---
 title: Lausanne 003
-image: /img/lausannepage_01_klein2.jpg
+image: ''
 section_title: Lausanne Program
 text: >-
   <h2>003 Lausanne</h2>
@@ -48,6 +48,9 @@ team:
     - description: Participant
       image: /img/bashir-nahas.jpg
       name: Bashir Nahas
+    - description: Job Coach
+      image: /img/camille-bossel.jpg
+      name: Camille Bossel
 partner:
   - image: /img/arcas.jpg
     link: 'https://www.arcas-foundation.ch/'
