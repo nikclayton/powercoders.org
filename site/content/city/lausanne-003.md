@@ -39,6 +39,9 @@ team:
     - description: Social Lead
       image: /img/coline-sauzet.jpg
       name: Coline Sauzet
+    - description: Job Coach
+      image: /img/adrian-tineo.jpg
+      name: Adrian Tineo
 partner:
   - image: /img/arcas.jpg
     link: 'https://www.arcas-foundation.ch/'
