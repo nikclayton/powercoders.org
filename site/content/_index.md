@@ -59,7 +59,7 @@ program:
 latest:
   - fade_in: Up
     header: Career Day
-    header_icon: fa-signup
+    header_icon: fa-signature
     link: >-
       https://docs.google.com/forms/d/e/1FAIpQLScRsGCWNdOgZ8XxpZ_HpG5su_nUr1tQu7BTN27ZUHKLjNf7kA/viewform
     link_text: Join
@@ -79,6 +79,7 @@ latest:
       evening.
   - fade_in: Down
     header: Impact report 2018
+    header_icon: fa-file
     link: >-
       https://drive.google.com/file/d/16QKTbrsnDtdbVDCUNLBFt6B_F2qnMdX4/view?usp=sharing
     link_text: Read
