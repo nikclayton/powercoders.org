@@ -1,6 +1,6 @@
 ---
 title: Lausanne 003
-image: /img/lausannepage_01_klein.jpg
+image: /img/lausannepage_01_klein2.jpg
 section_title: Lausanne Program
 text: >-
   <h2>003 Lausanne</h2>
