@@ -42,6 +42,7 @@ team:
     - description: Job Coach
       image: /img/adrian-tineo.jpg
       name: Adrian Tineo
+    - image: ''
 partner:
   - image: /img/arcas.jpg
     link: 'https://www.arcas-foundation.ch/'
