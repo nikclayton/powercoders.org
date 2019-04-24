@@ -21,10 +21,10 @@ events:
     link: >-
       https://docs.google.com/forms/d/1VmWAXVeAvQEMIUXtpayhAxUCXYg3fm2hjo7wD4m5jc4/edit
     text: >-
-      Two of our current students will do an IT presentation about what they are
+      Two of our current students will do a presentation about what they are
       learning at Powercoders. We will also invite Alter Start, an initiative
-      that supports migrants to become entrepreneurs. Discussions will continue
-      around snacks and drinks! Come and join us to share this time together! 
+      that supports migrants to become entrepreneurs. Come and join us to share
+      this time together! 
 
 
       April 30, 18:00 - 20:30, Studio Banana Lausanne
