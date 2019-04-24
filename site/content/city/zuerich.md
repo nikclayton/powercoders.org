@@ -77,9 +77,11 @@ apply_as:
       The application will start soon.
   - header: Company
     text: >-
-      If you are an IT company, an agency or an IT department, and eager to
-      support a refugee during an internship and eventually able to offer an IT
-      job in the long-run, join us.
+      If you are an IT company, an agency or an IT department in the
+      German-speaking Switzerland, and eager to support a refugee during an
+      internship and eventually able to offer an IT job in the long-run, join
+      us. For more information, have a look at our [slide
+      deck](https://docs.google.com/presentation/d/12O6Q7EjJzIlWUo4zK3dO2nLZXIiPtW2kGrqYyvWsuBw/edit?usp=sharing).
 
 
       What to expect:  
