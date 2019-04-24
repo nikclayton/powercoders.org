@@ -13,6 +13,9 @@ events:
       Could you offer an internship in web or software development? Join our
       career day on May 7, 2019 and meet our talented and motivated students.
       Let's impact lives!
+
+
+      May 7, Le Cazard Lausanne
   - call_to_action: Sign up
     header: Community meet-up
     link: >-
