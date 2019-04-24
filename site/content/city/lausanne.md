@@ -13,6 +13,18 @@ events:
       Could you offer an internship in web or software development? Join our
       career day on May 7, 2019 and meet our talented and motivated students.
       Let's impact lives!
+  - call_to_action: Sign up
+    header: Community meet-up
+    link: >-
+      https://docs.google.com/forms/d/1VmWAXVeAvQEMIUXtpayhAxUCXYg3fm2hjo7wD4m5jc4/edit
+    text: >-
+      Two of our current students will do an IT presentation about what they are
+      learning at Powercoders. We will also invite Alter Start, an initiative
+      that supports migrants to become entrepreneurs. Discussions will continue
+      around snacks and drinks! Come and join us to share this time together! 
+
+
+      April 30, 18:00 - 20:30, Studio Banana Lausanne
 apply_as:
   - header: Participant
     text: >-
