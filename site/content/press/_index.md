@@ -21,6 +21,11 @@ media:
             text: >-
               La Liberté - Ils s’intègrent grâce à l’informatique (Story of
               Tenzin).
+      - date: 25.04.2019
+        links:
+          - link: >-
+              https://www.cnnmoney.ch/shows/big-picture/videos/powercoders-swiss-coding-academy-train-refugees-it-job-market
+            text: Interview with Christian and Hussam on CNN Money Switzerland
     year: '2019'
   - entries:
       - date: 22.12.2018
