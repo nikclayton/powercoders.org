@@ -10,6 +10,11 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 26.04.2019
+        links:
+          - link: >-
+              https://www.srf.ch/play/radio/popupaudioplayer?id=38773e36-f23e-4c04-ae2b-aa120d55c4fb&startTime=31.269
+            text: Radio SRF Rendez-vous - Flüchtlinge lernen Programmieren
       - date: 25.04.2019
         links:
           - link: >-
@@ -26,11 +31,6 @@ media:
             text: >-
               La Liberté - Ils s’intègrent grâce à l’informatique (Story of
               Tenzin).
-      - date: 26.04.2019
-        links:
-          - link: >-
-              https://www.srf.ch/play/radio/popupaudioplayer?id=38773e36-f23e-4c04-ae2b-aa120d55c4fb&startTime=31.269
-            text: Radio SRF Rendez-vous - Flüchtlinge lernen Programmieren
     year: '2019'
   - entries:
       - date: 22.12.2018
