@@ -19,10 +19,11 @@
                         {{ range $entry := $el.entries }}
                         <li>{{$entry.date}}<br>
                             {{ range $link := $entry.links }}
+                            {{ if $link.title }}{{$link.title}}:{{end}}
                             <a href="{{$link.link}}"
-                               target="_blank">{{$link.text}}</a><br>
+                               target="_blank">{{$link.link_text}}</a><br>
                             {{end}}
-                        {{end}}
+                            {{end}}
                     </ul>
                 </div>
                 {{end}}
