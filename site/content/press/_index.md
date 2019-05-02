@@ -14,8 +14,8 @@ media:
         links:
           - link: >-
               https://www.srf.ch/play/radio/popupaudioplayer?id=38773e36-f23e-4c04-ae2b-aa120d55c4fb&startTime=31.269
-            link_text: Radio SRF Rendez-vous - Flüchtlinge lernen Programmieren
-            title:
+            link_text: Flüchtlinge lernen Programmieren
+            title: Radio SRF Rendez-vous
       - date: 25.04.2019
         links:
           - link: >-
