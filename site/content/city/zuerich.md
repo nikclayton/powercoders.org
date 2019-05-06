@@ -4,29 +4,6 @@ section_title: Zurich Program
 text: >-
   <h4 class="center">Powercoders will return to Zurich in fall 2019 as a digital
   learning hub for refugees in German-speaking Switzerland. </h4>
-
-
-
-
-
-
-
-
-  **SUPPORT US**
-
-
-  We are looking for a location in Zurich from August 2019: 
-
-
-  * Centrally located (max. 15min from HB)
-
-  * One Classroom (20 students, squared layout, friendly)
-
-  * Ideally break room and meeting room, and in proximity to the social/tech
-  community
-
-
-  Do you have any advice or contacts for us? Please let us know.
 events: []
 apply_as:
   - header: Participant
@@ -34,7 +11,7 @@ apply_as:
       <h4>Are you a refugee eager to find your way to the IT industry?</h4>
 
 
-      * Learn or improve coding 
+      * Learn or improve coding
 
       * Do an internship for 6-12 months
 
@@ -53,7 +30,7 @@ apply_as:
       join us.
 
 
-      What to expect: 
+      What to expect:
 
 
       * Be matched with a participant by the end of the school phase
@@ -89,7 +66,7 @@ apply_as:
 
       * Join career day to get to know the students (week 7 of school phase)
 
-      * Interview sessions with students 
+      * Interview sessions with students
 
       * Start of internship of 6 - 12 month
 
@@ -110,4 +87,3 @@ team:
 partner: []
 industry_partner: []
 ---
-
