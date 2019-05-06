@@ -201,6 +201,12 @@ city_program:
   items:
     - call_to_action: More
       color: teal lighten-4
+      fade_in: Up
+      header: Zurich
+      link: /city/zuerich
+      text: The program is starting in fall 2019. Applications will soon be open.
+    - call_to_action: More
+      color: teal lighten-4
       fade_in: Right
       header: Lausanne
       link: /city/lausanne/
@@ -216,12 +222,6 @@ city_program:
       text: >-
         The program is starting in March, 2019. Application for participants is
         now closed!
-    - call_to_action: More
-      color: teal lighten-4
-      fade_in: Up
-      header: Zurich
-      link: /city/zuerich
-      text: The program is starting in fall 2019. Applications will soon be open.
     - call_to_action: Get updated
       color: pwc-red-light20
       fade_in: Left
@@ -232,18 +232,5 @@ city_program:
         list to receive the latest news and updates.
 past_program:
   header: Past Programs
-  items:
-    - header: Bern
-      link: /city/bern/
-      text: Graduation 7.4.2017
-    - header: Zürich
-      link: /city/zuerich/
-      text: Graduation 22.12.17
-    - header: Lausanne
-      link: /city/lausanne-003/
-      text: Graduation 20.07.18
-    - header: Basel
-      link: /city/basel/
-      text: Graduation 08.03.18
 ---
 

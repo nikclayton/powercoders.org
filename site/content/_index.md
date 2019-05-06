@@ -58,25 +58,14 @@ program:
       from?
 latest:
   - fade_in: Up
-    header: Career Day
+    header: Career Day Bern
     header_icon: fa-signature
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLScRsGCWNdOgZ8XxpZ_HpG5su_nUr1tQu7BTN27ZUHKLjNf7kA/viewform
+    link: 'https://forms.gle/Kn2RQ7dkC191XAtC9'
     link_text: Join
     text: >-
       Could you offer an internship in web or software development? Join our
-      career day on May7, 2019 in Lausanne and meet our talented and motivated
+      career day on June 18, 2019 in Bern and meet our talented and motivated
       students. Let's impact lives!
-  - fade_in: Left
-    header: Community Party
-    header_icon: fa-info
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSe3sCS7vz87lyciamh7Z1e42C4DuyE_bfV6jp_kTBWY8WbGGw/viewform
-    link_text: Join
-    text: >-
-      Join our first community party on May 3rd at Liip Bern. All the people
-      connected to the Powercoders family are invited to join for a wonderful
-      evening.
   - fade_in: Down
     header: Impact report 2018
     header_icon: fa-file
@@ -86,6 +75,15 @@ latest:
     text: >-
       71 students, 80% estimated job integration rate - Check our impact report
       2018 for more facts on what we achieved in the last year. 
+  - fade_in: Down
+    header: Interview on CNN money
+    header_icon: fa-video
+    link: >-
+      https://www.cnnmoney.ch/shows/big-picture/videos/powercoders-swiss-coding-academy-train-refugees-it-job-market?fbclid=IwAR3pCoIuHHlQvgQ9Jlsv08rJmIR4cXsdEfD5olMzzRMysy0jOg3XJPJDh2o
+    link_text: Watch
+    text: >-
+      Watch the interview with Christian Hirsig and Hussam Eddin Allaham on
+      CNNMoney Switzerland to learn more about what we are doing.
 teaser_image2:
   image: /img/ted-zh.jpg
   text: A vacant IT job can be filled with a displaced person.
