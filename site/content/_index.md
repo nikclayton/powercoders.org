@@ -58,7 +58,7 @@ program:
       from?
 latest:
   - fade_in: Up
-    header: Career Day
+    header: Career Day Bern
     header_icon: fa-signature
     link: 'https://forms.gle/Kn2RQ7dkC191XAtC9'
     link_text: Join
