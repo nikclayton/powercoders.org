@@ -60,12 +60,11 @@ latest:
   - fade_in: Up
     header: Career Day
     header_icon: fa-signature
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLScRsGCWNdOgZ8XxpZ_HpG5su_nUr1tQu7BTN27ZUHKLjNf7kA/viewform
+    link: 'https://forms.gle/Kn2RQ7dkC191XAtC9'
     link_text: Join
     text: >-
       Could you offer an internship in web or software development? Join our
-      career day on May7, 2019 in Lausanne and meet our talented and motivated
+      career day on June 18, 2019 in Bern and meet our talented and motivated
       students. Let's impact lives!
   - fade_in: Down
     header: Impact report 2018
