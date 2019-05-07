@@ -38,7 +38,10 @@ media:
       - date: 22.12.2018
         links:
           - link: 'https://www.derbund.ch/19450438'
-            link_text: 'Der Bund-"Es hilft, wenn man nicht zu viel von der Sache versteht"'
+            link_text: '"Es hilft, wenn man nicht zu viel von der Sache versteht"'
+            title: >-
+              Der Bund (newspaper / German); interview with our founder
+              Christian Hirsig
       - date: 12.12.2018
         links:
           - link: >-
