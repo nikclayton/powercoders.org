@@ -15,16 +15,18 @@ media:
           - link: >-
               https://www.srf.ch/play/radio/popupaudioplayer?id=38773e36-f23e-4c04-ae2b-aa120d55c4fb&startTime=31.269
             link_text: Flüchtlinge lernen Programmieren
-            title: Radio SRF Rendez-vous
+            title: Radio SRF Rendez-vous (German)
       - date: 25.04.2019
         links:
           - link: >-
               https://www.cnnmoney.ch/shows/big-picture/videos/powercoders-swiss-coding-academy-train-refugees-it-job-market
-            link_text: Interview with Christian and Hussam on CNN Money Switzerland
+            link_text: Interview with Christian and Hussam
+            title: CNN Money Switzerland (Video / English)
       - date: 08.03.2019
         links:
           - link: 'https://www.rts.ch/play/tv/redirect/detail/10274255'
-            link_text: RTS - Des migrants formés pour combler la pénurie d'informaticiens
+            link_text: Des migrants formés pour combler la pénurie d'informaticiens
+            title: RTS Suisse (national TV / French)
       - date: 12.02.2019
         links:
           - link: >-
