@@ -5,8 +5,9 @@ section_title: Program
 text: >-
   ## Get involved
 
-  Powercoders is a coding academy for refugees. We believe that, in the 21st
-  century, coding skills will help you to start a new life wherever you are
+
+  Powercoders is a coding academy for refugees. We believe that in the 21st
+  century coding skills will help you to start a new life wherever you are
   forced to go.
 
 
