@@ -132,8 +132,8 @@ sections:
           week.
       - header: Do the participants get a salary during their internship?
         text: >-
-          Yes, you earn between CHF 400 - 600 per month, but it gets partly
-          deducted by your social care.
+          Yes, they earn between CHF 400 - 600 per month, but it gets partly
+          deducted by their social care.
     name: Participant
   - items:
       - header: 'I have an IT company, how can I help Powercoders?'
