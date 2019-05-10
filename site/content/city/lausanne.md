@@ -7,6 +7,7 @@ text: >-
 events:
   - call_to_action: Join
     header: Career Day in Bern
+    header_icon: fa-graduation-cap
     link: >-
       https://docs.google.com/forms/d/e/1FAIpQLScRsGCWNdOgZ8XxpZ_HpG5su_nUr1tQu7BTN27ZUHKLjNf7kA/viewform
     text: >-
@@ -18,6 +19,7 @@ events:
       June 18, Impact Hub Bern
   - call_to_action: Sign up
     header: Community meetup incl. introduction to blockchain
+    header_icon: fa-graduation-cap
     link: 'https://forms.gle/4d8Ez3Ae7DExGDJX6'
     text: >-
       2 current Powercoders students will have a presentation followed by a

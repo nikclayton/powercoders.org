@@ -22,7 +22,7 @@
                 {{ range $el := .Params.events }}
                 <div class="col s12 m6 12 hoverable space redborder btn-box markdown">
                     <a href="{{$el.link}}" target="_blank">
-                        <h6><i class="fas fa-graduation-cap fa-2x"></i> {{$el.header}}</h6>
+                        <h6><i class="fas {{$el.header_icon}} fa-2x"></i> {{$el.header}}</h6>
                         {{if $el.text}}
                         {{$el.text | markdownify}}
                         {{end}}
