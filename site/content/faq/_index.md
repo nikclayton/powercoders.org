@@ -246,6 +246,6 @@ sections:
           Temporarily admitted persons with permit F and Asylum seekers with
           permit N often receive much less.
     name: Company
-international: '-'
+international: none
 ---
 
