@@ -4,7 +4,7 @@ subtitle: Impacting lives by teaching how to code
 image: /img/homepage_01.png
 intro:
   header: >-
-    Over 65.3 million refugees in the world. Millions of vacant IT jobs due to
+    Over 68.5 million refugees in the world. Millions of vacant IT jobs due to
     digitalization. Two problems, one solution:
   text: A coding academy for refugees.
 teaser_image:
