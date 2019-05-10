@@ -17,16 +17,13 @@ events:
 
       June 18, Impact Hub Bern
   - call_to_action: Sign up
-    header: Community meet-up
+    header: Community meet-up incl. Blockchain introduction
     link: 'https://forms.gle/4d8Ez3Ae7DExGDJX6'
     text: >-
-      Program:\
-
-      - Presentation by 2 current Powercoders students\
-
-      - A short introduction to blockchain with example use case for financial
-      inclusion by Elisa Pasquali, founder of Arcadia Blockchain
-      (https://www.arcadiablockchain.com/)
+      We will have a presentation by 2 current Powercoders students and a short
+      introduction to blockchain with example use case for financial inclusion
+      by Elisa Pasquali, founder of Arcadia Blockchain
+      (https://www.arcadiablockchain.com/).
 
 
       May 21, 6 p.m., Studio Banana Lausanne (avenue des Acacias 7, 1006
