@@ -27,7 +27,7 @@ events:
       this time together! 
 
 
-      April 30, 18:00 - 20:30, Studio Banana Lausanne
+      May 30, 18:00 - 20:30, Studio Banana Lausanne
 apply_as:
   - header: Participant
     text: >-
