@@ -21,12 +21,11 @@ sections:
           they are allowed to travel.
       - header: What does it cost?
         text: >-
-          While the program is free for our participants, there are three main
-          parties who support Powercoders. Firstly, companies pay an education
-          fee during the internship (CHF 2'000/m, which already includes all
-          costs, such as salary). Secondly, Swiss cantons support Powercoders
-          through CHF 5000. Lastly, if our students are eventually hired, they
-          are asked to pay back a certain amount on a voluntary basis.
+          While the program is free for our participants, there are two main
+          parties who support Powercoders. Firstly, companies donate money what
+          is about 60% of our revenue. Secondly, Swiss cantons support
+          Powercoders for every student who participates with CHF 5'000 what
+          accounts for about 40% of the budget.
       - header: How is Powercoders financed?
         text: >-
           Powercoders is a non profit organisation that depends on volunteers.
@@ -178,9 +177,8 @@ sections:
       - header: What is the recommended salary? Why?
         text: >-
           An internship lasts at least 6 months. During this time the intern is
-          hired at Powercoders and the internship company pays CHF 2000/month to
-          Powercoders (all inclusive: salary, training, coaching, insurance,
-          taxes, etc.).
+          hired at Powercoders. After the internship we recommend a salary
+          between CHF 60'000 and CHF 90'000 per year.
       - header: >-
           What happens to the work permit if the internship is followed up by a
           apprenticeship?
@@ -248,5 +246,6 @@ sections:
           Temporarily admitted persons with permit F and Asylum seekers with
           permit N often receive much less.
     name: Company
+international: '-'
 ---
 
