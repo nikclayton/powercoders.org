@@ -16,9 +16,7 @@ events:
 
 
       June 18, Impact Hub Bern
-  - call_to_action: Sign up
-    header: Community meet-up incl. introduction to Blockchain
-    link: 'https://forms.gle/4d8Ez3Ae7DExGDJX6'
+  - header: Community meet-up incl. introduction to Blockchain
     text: >-
       We will have a presentation by 2 current Powercoders students and a short
       introduction to blockchain with example use case for financial inclusion
