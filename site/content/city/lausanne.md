@@ -6,16 +6,16 @@ text: >-
   adressed to the French-speaking part of Switzerland.</h4>
 events:
   - call_to_action: Join
-    header: Career Day
+    header: Career Day in Bern
     link: >-
       https://docs.google.com/forms/d/e/1FAIpQLScRsGCWNdOgZ8XxpZ_HpG5su_nUr1tQu7BTN27ZUHKLjNf7kA/viewform
     text: >-
       Could you offer an internship in web or software development? Join our
-      career day on May 7, 2019 and meet our talented and motivated students.
+      career day on June 18, 2019 and meet our talented and motivated students.
       Let's impact lives!
 
 
-      May 7, Le Cazard Lausanne
+      June 18, Impact Hub Bern
   - call_to_action: Sign up
     header: Community meet-up
     link: 'https://forms.gle/4d8Ez3Ae7DExGDJX6'
