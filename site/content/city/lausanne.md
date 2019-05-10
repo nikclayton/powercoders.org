@@ -26,6 +26,17 @@ events:
 
       May 21, 6 p.m., Studio Banana Lausanne (avenue des Acacias 7, 1006
       Lausanne)
+  - call_to_action: Sign up
+    header: Community meetup incl. introduction to blockchain
+    link: 'https://forms.gle/4d8Ez3Ae7DExGDJX6'
+    text: >-
+      2 current Powercoders students will have a presentation followed by a
+      short introduction to blockchain by Elisa Pasquali, founder of Arcadia
+      Blockchain.
+
+
+      May 21, 6 p.m., Studio Banana Lausanne (avenue des Acacias 7,  1006
+      Lausanne)
 apply_as:
   - header: Participant
     text: >-
