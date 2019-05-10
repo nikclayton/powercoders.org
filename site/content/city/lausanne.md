@@ -18,16 +18,19 @@ events:
       May 7, Le Cazard Lausanne
   - call_to_action: Sign up
     header: Community meet-up
-    link: >-
-      https://docs.google.com/forms/d/1VmWAXVeAvQEMIUXtpayhAxUCXYg3fm2hjo7wD4m5jc4/edit
+    link: 'https://forms.gle/4d8Ez3Ae7DExGDJX6'
     text: >-
-      Two of our current students will do a presentation about what they are
-      learning at Powercoders. We will also invite Alter Start, an initiative
-      that supports migrants to become entrepreneurs. Come and join us to share
-      this time together! 
+      Program:\
+
+      - Presentation by 2 current Powercoders students\
+
+      - A short introduction to blockchain with example use case for financial
+      inclusion by Elisa Pasquali, founder of Arcadia Blockchain
+      (https://www.arcadiablockchain.com/)
 
 
-      May 30, 18:00 - 20:30, Studio Banana Lausanne
+      May 21, 6 p.m., Studio Banana Lausanne (avenue des Acacias 7, 1006
+      Lausanne)
 apply_as:
   - header: Participant
     text: >-
