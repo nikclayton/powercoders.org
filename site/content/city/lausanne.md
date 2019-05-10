@@ -7,7 +7,7 @@ text: >-
 events:
   - call_to_action: Join
     header: Career Day in Bern
-    header_icon: fa-graduation-cap
+    header_icon: fa-signature
     link: >-
       https://docs.google.com/forms/d/e/1FAIpQLScRsGCWNdOgZ8XxpZ_HpG5su_nUr1tQu7BTN27ZUHKLjNf7kA/viewform
     text: >-
