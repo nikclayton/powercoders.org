@@ -130,6 +130,10 @@ sections:
           the company and internship. The goal of a participating company is to
           invite 3 to 5 participants for an second interview in the following
           week.
+      - header: Do the participants get a salary during their internship?
+        text: >-
+          Yes, you earn between CHF 400 - 600 per month, but it gets partly
+          deducted by your social care.
     name: Participant
   - items:
       - header: 'I have an IT company, how can I help Powercoders?'
