@@ -15,6 +15,8 @@ text: >-
   </div>
 
 
+  <hr class="whitespace">
+
   <iframe width="100%" height="600"
   src="https://www.youtube.com/embed/ARR8XYuSNXU" frameborder="0"
   allow="accelerometer; autoplay; encrypted-media; gyroscope;
